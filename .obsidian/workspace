@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "cb548009cf4d1c73",
+    "type": "split",
+    "children": [
+      {
+        "id": "1caa90425cd9834a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "437b372610083be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca78ac70377d0514",
+        "type": "tabs",
+        "dimension": 28.454452405322417,
+        "children": [
+          {
+            "id": "7cb6b0292f71fd8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "916bc91c31ff1954",
+        "type": "tabs",
+        "dimension": 71.54554759467759,
+        "children": [
+          {
+            "id": "c58d9d2ca5f824b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6b350c598c725da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Var",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "480c4aa940b1591f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.0121879577637
+  },
+  "right": {
+    "id": "a0d320ed3b1a7571",
+    "type": "split",
+    "children": [
+      {
+        "id": "82fc54d749d9fd08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df67150eff6684d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3d3e3cb93da16a58",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c58d9d2ca5f824b8",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2022 Assignment 1 Part A - BOUQUET - ITA.pdf",
+    "Ingegneria-del-software/Kanban simulation.md",
+    "Ingegneria-del-software/Kanban simulation Gantt graph.md",
+    "Reti/Untitled Kanban.md",
+    "Reti/1.md",
+    "Probabilità/Calcolo combinatorio.md",
+    "Probabilità/Convergenza in distribuzione.md",
+    "Probabilità/Algebra.md",
+    "Fondamenti-matematici-per-informatica/Teorema cinese del resto.md"
+  ]
+}
