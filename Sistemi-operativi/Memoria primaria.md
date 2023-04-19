@@ -6,7 +6,7 @@
  Tags: []
 ---
 
-La **memoria primaria** (o *centrale*) è un elemento di un [[Calcolatore|computer]] che ha il compito  di garantire la persistenza dei dati e delle istruzioni dei [[Programma|programmi]] in attesa che vengano prelevati ed elaborati dal [[Processore|microprocessore]]
+La **memoria primaria** (o *centrale*) è un elemento di un [[Calcolatore|computer]] che ha il compito  di garantire la persistenza dei [[Dato|dati]] e delle istruzioni dei [[Programma|programmi]] in attesa che vengano prelevati ed elaborati dal [[Processore|microprocessore]]
 
 ---
 

@@ -6,6 +6,6 @@
  Tags: []
 ---
 
-La **finestra di congestione** (*CWND*) è un parametro utilizzato in diverse tecnologie di rete per gestire la **quantità di dati** che possono essere inviati tra due punti di una rete in modo da evitare la [[Congestione della rete|congestione]]
+La **finestra di congestione** (*CWND*) è un parametro utilizzato in diverse tecnologie di rete per gestire la **quantità di [[Dato|dati]]** che possono essere inviati tra due punti di una rete in modo da evitare la [[Congestione della rete|congestione]]
 
 ---

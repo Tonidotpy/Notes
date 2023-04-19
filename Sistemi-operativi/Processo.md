@@ -16,7 +16,7 @@ La creazione, distruzione, sospensione e riesumazione, sincronizzazione e comuni
 
 Un processo in memoria è composta da:
 - **Istruzioni** che vengono eseguite in maniera sequenziale
-- Una sezione di **dati globali**
+- Una sezione di **[[Dato|dati]] globali**
 - Lo [[Stack|stack]] in cui vengono memorizzate le chiamate alle procedure, i loro parametri e le variabili locali
 - Lo [[Heap|heap]] utilizzato per l'allocazione dinamica
 - Il [[Process Control Block|process control block]]
@@ -30,3 +30,11 @@ Un processo può terminare in 3 modi:
 1. Finisce la sua esecuzione
 2. Viene terminato forzatamente dal processo padre
 3. Viene terminato forzatamente dal SO
+
+---
+
+Due o più processi possono essere:
+- **Indipendenti**: la cui esecuzione è deterministica e riproducibile, e non influenza ne viene influenzata da altri processi
+- **Cooperanti**: in cui un processo influenza, o viene influenzato da altri processi e il risultato è variabile e difficilmente riproducibile
+
+La condivisione di informazioni tra più processi cooperanti avviene tramite l'[[Inter-process communication|IPC]]

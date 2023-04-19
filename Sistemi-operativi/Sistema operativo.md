@@ -20,7 +20,7 @@ Un SO si occupa di:
 - [[Rete]]
 - [[Shell|Interprete dei comandi]]
 
-Una qualsiasi **operazione** tra quelle descritte precedentemente può essere eseguita attraverso il sistema operativo utilizzando le cosiddette ***system calls***
+Una qualsiasi **operazione** tra quelle descritte precedentemente può essere eseguita attraverso il sistema operativo utilizzando le cosiddette ***system calls*** ^90bd2d
 
 Ogni SO segue dei **principi di progettazione**, ad esempio:
 - **KISS**: Keep It Simple, Stupid!

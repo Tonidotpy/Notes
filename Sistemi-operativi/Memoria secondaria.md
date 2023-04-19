@@ -6,7 +6,7 @@
  Tags: []
 ---
 
-La **memoria secondaria** (o *di massa*) è un elemento di un [[Calcolatore|computer]] che ha il compito  di garantire la persistenza dei dati e delle istruzioni dei [[Programma|programmi]] evitando che essi vengano persi una volta spento il computer
+La **memoria secondaria** (o *di massa*) è un elemento di un [[Calcolatore|computer]] che ha il compito  di garantire la persistenza dei [[Dato|dati]] e delle istruzioni dei [[Programma|programmi]] evitando che essi vengano persi una volta spento il computer
 
 ---
 

@@ -6,7 +6,7 @@
  Tags: [data_structure]
 ---
 
-Una **lista** è una [[Sequenza|sequenza]] di nodi, contenenti dati **arbitrari** e dei puntatori agli elementi **successivi** ed eventualmente **precedenti**
+Una **lista** è una [[Sequenza|sequenza]] di nodi, contenenti [[Dato|dati]] **arbitrari** e dei puntatori agli elementi **successivi** ed eventualmente **precedenti**
 
 ---
 

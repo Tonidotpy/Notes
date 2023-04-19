@@ -6,7 +6,7 @@
  Tags: []
 ---
 
-Con **input/output** (*I/O*) si intendono tutte le interfaccie informatiche messe a disposizione da un [[Sistema operativo|SO]] ai [[Programma|programmi]] per effettuare un cambio o svincolo di dati o segnali
+Con **input/output** (*I/O*) si intendono tutte le interfaccie informatiche messe a disposizione da un [[Sistema operativo|SO]] ai [[Programma|programmi]] per effettuare un cambio o svincolo di [[Dato|dati]] o segnali
 
 ---
 

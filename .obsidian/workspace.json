@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03a59c1a8220daf8",
+        "id": "33e524b5bc90ccb5",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9c1d7384155260",
+            "id": "fa992770d6851af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59b30717a29e399f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi-operativi/Inter-process communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dati",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Header.md",
+                "file": "Sistemi-operativi/Inter-process communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,35 +151,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c9c1d7384155260",
+  "active": "59b30717a29e399f",
   "lastOpenFiles": [
-    "Templates/Header.md",
-    "Analisi/TODO.md",
     "Sistemi-operativi/Processo.md",
-    "Sistemi-operativi/Context switching.md",
+    "Sistemi-operativi/Inter-process communication.md",
+    "Sistemi-operativi/File.md",
+    "Sistemi-operativi/Input Output.md",
+    "Sistemi-operativi/Memoria secondaria.md",
+    "Sistemi-operativi/Memoria primaria.md",
+    "Algoritmi-e-strutture-dati/Strutture dati/Lista.md",
+    "Reti/Finestra di congestione.md",
+    "Reti/Time Division Mutliple Access.md",
+    "Sistemi-operativi/Kernel.md",
+    "Sistemi-operativi/Thread.md",
+    "Sistemi-operativi/Sistema operativo.md",
+    "Templates/Header.md",
     "Sistemi-operativi/Scheduler.md",
+    "README.md",
+    "Analisi/TODO.md",
+    "Sistemi-operativi/Context switching.md",
     "Sistemi-operativi/Scheduling.md",
     "Sistemi-operativi/Process Control Block.md",
-    "Sistemi-operativi/Sistema operativo.md",
     "Sistemi-operativi/Macchina virtuale.md",
     "Sistemi-operativi/Micro-kernel.md",
-    "Sistemi-operativi/Kernel.md",
     "Sistemi-operativi/Sistemi a livelli.md",
     "Sistemi-operativi/Sistemi a struttura semplice.md",
     "Sistemi-operativi/Kernel monolitici.md",
     "Sistemi-operativi/Shell.md",
-    "Sistemi-operativi/File.md",
-    "Sistemi-operativi/Input Output.md",
     "Input/Output.md",
     "Input",
-    "Sistemi-operativi/Memoria secondaria.md",
-    "Sistemi-operativi/Memoria primaria.md",
-    "Reti/Protocolli/Border Gateway Protocol.md",
-    "Reti/Protocolli/Routing Information Protocol.md",
-    "Reti/Protocolli/Open Shortest Path First.md",
-    "Reti/Autonomous System.md",
-    "Reti/Protocolli/Internet Protocol versione 6.md",
-    "Reti/Indirizzo IPv6.md",
     "Fisica/Meccanica",
     "Fisica/Cinematica",
     "Sistemi-operativi",
