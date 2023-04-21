@@ -3,7 +3,7 @@
  Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: [Bellman-Ford]
- Tags: [algorithm]
+ Tags: [algoritmo]
 ---
 
 L'**algoritmo di Bellman-Ford** è un algoritmo di **ricerca di percorsi** che viene utilizzato per trovare il percorso **più breve** tra due nodi in un grafo

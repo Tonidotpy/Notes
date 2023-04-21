@@ -3,7 +3,7 @@
  Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
- Tags: []
+ Tags: [scheduling]
 ---
 
 Il **context switching** è un operazione che conserva lo stato di un [[Processo|processo]] o [[Thread|thread]] in modo da poter essere ripreso in un altro momento

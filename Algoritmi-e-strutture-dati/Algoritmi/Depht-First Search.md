@@ -3,7 +3,7 @@
  Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: [Visita in profondità, DFS]
- Tags: [algorithm]
+ Tags: [algoritmo]
 ---
 
 La **Depht-First Search** è un algoritmo di [[Visita di un albero|visita]] in cui si cerca di visitare un ramo dell'albero alla volta andando fino in **profondità** prima di passare a quello successivo

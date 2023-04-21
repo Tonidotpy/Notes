@@ -6,7 +6,7 @@
  Tags: []
 ---
 
-Un **file** è un contenitore, o fascicolo di **informazioni/[[Dati|dati]]** in formato digitale
+Un **file** è un contenitore, o fascicolo di **informazioni/[[Dato|dati]]** in formato digitale
 
 ---
 

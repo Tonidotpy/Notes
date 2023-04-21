@@ -3,7 +3,7 @@
  Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
- Tags: [algorithm]
+ Tags: [algoritmo]
 ---
 
 La **visita di un albero** è un processo che attraversa tutti i nodi di un [[Albero|albero]] in un ordine specifico

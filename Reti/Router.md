@@ -46,7 +46,7 @@ Dove:
 ## Scheduling
 
 Per decidere quale pacchetto trasmettere su un link vengono utilizzati dei **metodi di *scheduling***
-Un tipo di scheduling è quello **FIFO** (*First-In-First-Out*) ossia inviare i piacchetti in ordine di arrivo nella coda
+Un tipo di scheduling è quello [[First-in First-out|FIFO]] ossia inviare i piacchetti in ordine di arrivo nella coda
 
 Per decidere quali pacchetti scartare invece ci sono varie **politiche**:
 - ***Tail drop***: scarto i pacchetti in arrivo

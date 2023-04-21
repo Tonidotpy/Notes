@@ -3,7 +3,7 @@
  Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: [BBR]
- Tags: [algorithm]
+ Tags: [algoritmo]
 ---
 
 **Bottleneck Bandwidth and Round-trip propagation time** (*BBR*) è una tecnica di **controllo** della congestione utilizzata in diverse tecnologie di rete per **gestire** il flusso di dati in modo da **evitare** il sovraccarico della rete e garantire una trasmissione efficiente dei dati
