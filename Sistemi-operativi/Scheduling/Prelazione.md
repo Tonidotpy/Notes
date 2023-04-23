@@ -6,7 +6,7 @@
  Tags: [scheduling]
 ---
 
-La **prelazione** è un operazione in cui un [[Processo|processo]] viene **temporaneamente interrotto** e portato al di fuori della [[CPU]], senza alcuna cooperazione da parte del processo stesso
+La **prelazione** è un operazione in cui un [[Processo|processo]] viene **temporaneamente interrotto** e portato al di fuori della [[Central Process Unit|CPU]], senza alcuna cooperazione da parte del processo stesso
 
 ---
 

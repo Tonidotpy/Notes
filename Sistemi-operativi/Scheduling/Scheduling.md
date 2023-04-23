@@ -29,6 +29,8 @@ Alcune metriche valide per lo scheduling sono:
 ---
 
 Alcuni possibili [[Algoritmo|algoritmi]] di scheduling sono i seguenti:
-- [[First-Come First-Served|FCFS]]
-- [[Shortest-Job-First|SJF]]
-- [[Shortest-Remaining-Time-First|SRTF]]
+- [[First Come First Served|FCFS]]
+- [[Shortest Job First|SJF]]
+- [[Shortest Remaining Time First|SRTF]]
+- [[Highest Response Ratio Next|HRRN]]
+- [[Round Robin|RR]]

@@ -10,7 +10,7 @@
 Una **machina fisica** ([[Computer|computer]]) è strutturata in modo da eseguire programmi nel *suo linguaggio*.
 
 Una **macchina fisica** è composta almeno da:
-- un processore (CPU);
-- una memoria principale (RAM);
-- una memoria di massa;
-- delle periferiche di I/O.
+- un processore ([[Central Process Unit|CPU]]);
+- una [[Memoria primaria|memoria principale]] ([[Random Access Memory|RAM]]);
+- una [[Memoria secondaria|memoria di massa]];
+- delle periferiche di [[Input Output|I/O]].
