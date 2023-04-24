@@ -19,6 +19,8 @@ Lo scheduling può essere di tre tipi:
 
 Lo scheduling può essere con o senza [[Prelazione|prelazione]]
 
+Nel caso in cui si abbiano più gruppi di processi le risorse vengono gestite **per gruppo** da un **fair share scheduler** che gestisce la quantità di risorse utilizzate per gruppi di processi che a loro volta verranno gestiti da dei normali scheduler
+
 Alcune metriche valide per lo scheduling sono:
 - L'**utilizzo della CPU**: si cerca di tenere la CPU il più occupata possibile
 - Il **throughput**: numero di processi completati per unità di tempo
@@ -34,3 +36,9 @@ Alcuni possibili [[Algoritmo|algoritmi]] di scheduling sono i seguenti:
 - [[Shortest Remaining Time First|SRTF]]
 - [[Highest Response Ratio Next|HRRN]]
 - [[Round Robin|RR]]
+
+Esistono diversi modi di **valutare** le performance di tali algoritmi:
+- [[Modello deterministico]]
+- [[Modello a reti di code]]
+- [[Simulazione]]
+- [[Implementazione]]

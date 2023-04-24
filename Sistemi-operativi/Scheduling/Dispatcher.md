@@ -12,4 +12,4 @@ Il **dispatcher** è un modulo del [[Sistema operativo|SO]] che passa effettivam
 
 Il tempo necessario al dispatcher per fermare un processo e farne ripartire un altro è detto **latenza di dispatch** e deve essere il più bassa possibile
 
-Un possibile modello di dispatcher è quello a **cicli di burst** ossia l'altrernanza ciclica tra sequenze di [[Central Process Unit|CPU]] e sequenze di [[Input Output|I/O]]
+Un possibile modello di dispatcher è quello a **cicli di [[CPU burst|burst]]** ossia l'altrernanza ciclica tra sequenze di [[Central Process Unit|CPU]] e sequenze di [[Input Output|I/O]]
