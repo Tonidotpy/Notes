@@ -12,5 +12,5 @@
 
 Si assume che ogni pacchetto abbia la **stessa dimensione** e ci siano **infiniti** dispositivi
 
-ALOHA è un tipo di protocollo molto **semplice** che non richiede alcuna sincronizzazione tra i dispositivi
+ALOHA è un tipo di protocollo molto **semplice** che non richiede alcuna [[Sincronizzazione|sincronizzazione]] tra i dispositivi
 Quando un frame arriva viene trasmesso **subito**, ciò aumenta la probabilità di **collisione**

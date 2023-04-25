@@ -1,6 +1,5 @@
 ---
  Created: 2023-04-24 13:37
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
  Tags: [scheduling]

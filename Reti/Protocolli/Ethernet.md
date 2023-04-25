@@ -50,7 +50,7 @@ Altri punti di svolta furono i **doppini incrociati** e i **connettori** RJ45 tu
 
 Un frame ethernet è composto da:
 - Un **preambolo** di `7 Bytes` con valore `10101010`
-- Uno **Start Frame Delimiter** di `1 Byte` con valore `10101011` utilizzato per **sincronizzare** il clock del ricevitore e del trasmettitore
+- Uno **Start Frame Delimiter** di `1 Byte` con valore `10101011` utilizzato per [[Sincronizzazione|sincronizzare]] il clock del ricevitore e del trasmettitore
 - L'**[[Indirizzo MAC|indirizzo MAC]] di destinazione** di `6 Byte` che se non corrisponde al dispositivo corrente o ad un [[Limited Broadcast Address|indirizzo di broadcast]] fa scartare l'intero frame
 - L'**indirizzo MAC sorgente** di `6 Byte`
 - La **lunghezza** del frame di `2 Byte`

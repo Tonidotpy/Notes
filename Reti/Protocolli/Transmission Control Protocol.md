@@ -31,7 +31,7 @@ Il campo di **flag** è formato da.
 - **ACK**: segnala che il numero di riscontro è valido
 - **PSH**: invia subito il messaggio (generalmente non utilizzato)
 - **RST**: richiede il reset immediato della connessione
-- **SYN**: richiede l'inizio della sincronizzazione per stabilire una connessione
+- **SYN**: richiede l'inizio della [[Sincronizzazione|sincronizzazione]] per stabilire una connessione
 - **FIN**: richiede il termine della connessione
 
 Il campo **Window Size** indica il numero di byte che il ricevitore può immagazzinare e di conseguenza rappresenta anche la massima quantità di dati in transito durante un [[Round Trip Time|RTT]]

@@ -3,7 +3,7 @@
  Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
- Tags: []
+ Tags: [multithreading]
 ---
 
 Un **thread** è una suddivisione di un [[Processo|processo]] in due o più sottoprocessi che vengono eseguiti **concorrentemente**

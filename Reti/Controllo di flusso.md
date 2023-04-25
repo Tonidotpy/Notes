@@ -11,4 +11,4 @@ Il **controllo di flusso** è un meccanismo utilizzato in diverse tecnologie di 
 ---
 
 Il controllo di flusso permette al ricevitore di **controllare** la velocità di trasmissione del mittente
-Il ricevitore comunica quanto **spazio libero** ha nel proprio [[Finestra di ricezione|buffer di ricezione]], il mittente limita la quantità di dati *"in volo"* e garantisce che il buffer del ricevitore non vada in overflow
+Il ricevitore comunica quanto **spazio libero** ha nel proprio [[Finestra di ricezione|buffer di ricezione]], il mittente limita la quantità di dati *"in volo"* e garantisce che il [[Buffer|buffer]] del ricevitore non vada in overflow

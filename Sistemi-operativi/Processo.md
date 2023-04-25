@@ -10,9 +10,9 @@ Un **processo** è un'entità dinamica caricata nella [[Memoria primaria|memoria
 
 ---
 
-Un processo può essere identificato attraverso un codice univoco chiamato **Process ID** (*PID*)
+Un processo può essere identificato attraverso un codice univoco chiamato **Process ID** (*PID*) ^c70725
 
-La creazione, distruzione, sospensione e riesumazione, sincronizzazione e comunicazione dei processi viene gestita interamente dal [[Sistema operativo|SO]]
+La creazione, distruzione, sospensione e riesumazione, [[Sincronizzazione|sincronizzazione]] e comunicazione dei processi viene gestita interamente dal [[Sistema operativo|SO]]
 
 Un processo in memoria è composta da:
 - **Istruzioni** che vengono eseguite in maniera sequenziale

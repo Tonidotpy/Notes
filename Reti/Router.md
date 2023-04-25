@@ -20,7 +20,7 @@ Un router è composto da delle porte in **ingresso** e delle porte in **uscita**
 
 ## Porte di ingresso
 
-Attraverso una porta di ingresso i messaggi vengono poi accodati in un **buffer di inoltro** e successivamente inviati all'uscita corretta grazie ad un **sistema di commutazione**
+Attraverso una porta di ingresso i messaggi vengono poi accodati in un **[[Buffer|buffer]] di inoltro** e successivamente inviati all'uscita corretta grazie ad un **sistema di commutazione**
 
 Esistono principalmente tre tipi di sistemi di commutazione:
 - [[Commutazione a memoria]]

@@ -11,7 +11,7 @@ Lo **Slotted ALOHA** è una variante del protocollo [[ALOHA]] che viene utilizza
 ---
 
 Si assume che tutti i pacchetti (*frame*) abbiano la **stessa lunghezza** e che il tempo sia suddiviso in *slot*, ciascuno lungo quanto un pacchetto
-I nodi possono trasmettere solo all'inizio di uno slot e sono **sincronizzati** permettendo così di rilevare una **collisione**
+I nodi possono trasmettere solo all'inizio di uno slot e sono [[Sincronizzazione|sincronizzati]] permettendo così di rilevare una **collisione**
 
 Quando un nodo ha qualcosa da inviare lo invia nello slot **immediatamente successivo** e se non ci sono collisioni continua a trasmettere anche in quello **seguente**
 Se c'è una **collisione** il nodo ritrasmette il pacchetto con **probabilità** `p` in ogni slot seguente finché non ha **successo**

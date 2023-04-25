@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a729a58832d2198b",
+            "id": "e7afcb937af3d95c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi-operativi/Scheduling/Implementazione.md",
+                "file": "Sistemi-operativi/Multithreading/Semafori.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
       {
         "id": "d7352dbbd297efc7",
         "type": "tabs",
-        "dimension": 26.22133599202393,
+        "dimension": 26.231155778894472,
         "children": [
           {
             "id": "ed779649948e323f",
@@ -59,7 +59,7 @@
       {
         "id": "916bc91c31ff1954",
         "type": "tabs",
-        "dimension": 73.77866400797608,
+        "dimension": 73.76884422110552,
         "children": [
           {
             "id": "c58d9d2ca5f824b8",
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "burst",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi-operativi/Scheduling/Implementazione.md",
+                "file": "Sistemi-operativi/Multithreading/Semafori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,34 +151,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a729a58832d2198b",
+  "active": "e7afcb937af3d95c",
   "lastOpenFiles": [
-    "Sistemi-operativi/Scheduling/Scheduling.md",
-    "Sistemi-operativi/Scheduling/Implementazione.md",
-    "Sistemi-operativi/Scheduling/Simulazione.md",
-    "Sistemi-operativi/Scheduling/Modello a reti di code.md",
-    "Sistemi-operativi/Scheduling/Scheduler.md",
-    "Sistemi-operativi/Scheduling/Dispatcher.md",
-    "Sistemi-operativi/Scheduling/Highest Response Ratio Next.md",
-    "Sistemi-operativi/Scheduling/CPU burst.md",
-    "Templates/Header.md",
-    "Sistemi-operativi/Scheduling/Modello deterministico.md",
-    "Sistemi-operativi/Scheduling/Coda multilivello.md",
-    "Sistemi-operativi/Starvation.md",
-    "Sistemi-operativi/Scheduling/Aging.md",
-    "Sistemi-operativi/Scheduling/Ready queue.md",
-    "Sistemi-operativi/Scheduling/Round Robin.md",
-    "Reti/Commutazione a memoria.md",
-    "Programmazione-funzionale/Macchine fisiche.md",
-    "Sistemi-operativi/Scheduling/Prelazione.md",
-    "Sistemi-operativi/Scheduling/Shortest Remaining Time First.md",
-    "Sistemi-operativi/Scheduling/First Come First Served.md",
-    "Sistemi-operativi/Scheduling/Shortest Job First.md",
+    "Sistemi-operativi/Multithreading/Problema dei filosofi a cena.md",
+    "Sistemi-operativi/Multithreading/Problema del produttore-consumatore.md",
     "Sistemi-operativi/File.md",
+    "Templates/Header.md",
+    "Sistemi-operativi/Multithreading/Semafori.md",
+    "Reti/Protocolli/Ethernet.md",
+    "Analisi/Limiti/Limiti.md",
+    "Notes/Fondamenti-matematici-per-informatica/Funzioni.md",
+    "Fondamenti-matematici-per-informatica/Funzioni.md",
+    "Notes/Fondamenti-matematici-per-informatica",
+    "Notes",
+    "Reti/Server proxy.md",
+    "Reti/Protocolli/Transmission Control Protocol.md",
+    "Reti/Protocolli/Slotted ALOHA.md",
+    "Reti/Protocolli/ALOHA.md",
+    "Sistemi-operativi/Processo.md",
+    "Sistemi-operativi/Multithreading/Compare and Swap.md",
     "Reti/Router.md",
-    "Algoritmi-e-strutture-dati/Algoritmi/Breadth-First Search.md",
-    "Algoritmi-e-strutture-dati/Algoritmi/Depht-First Search.md",
-    "Algoritmi-e-strutture-dati/Algoritmi/Visita di un albero.md",
+    "Reti/Controllo di flusso.md",
+    "Sistemi-operativi/Sistemi a livelli.md",
+    "Sistemi-operativi/Multithreading/Sezione critica.md",
+    "Sistemi-operativi/Multithreading/Starvation.md",
+    "Sistemi-operativi/Multithreading/Test and Set.md",
+    "Sistemi-operativi/Multithreading/Thread.md",
+    "Sistemi-operativi/Multithreading/Deadlock.md",
+    "Sistemi-operativi/Multithreading/Algoritmo del fornaio.md",
+    "Sistemi-operativi/Multithreading",
+    "Programmazione-funzionale/Untitled",
+    "Sistemi-operativi/Scheduling/Implementazione.md",
+    "Sistemi-operativi/Scheduling/Scheduling.md",
     "Sistemi-operativi/Scheduling",
     "Input",
     "Fisica/Meccanica",
