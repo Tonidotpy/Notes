@@ -1,12 +1,11 @@
 ---
  Created: 2023-03-13 15:02
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
  Tags: [cinematica]
 ---
 
-La **forza peso** è la forza esercitata sui corpi presenti nel campo gravitazionale di un oggetto di grande massa
+La **forza peso** è la [[Forza|forza]] esercitata sui [[Corpo|corpi]] presenti nel [[Gravità|campo gravitazionale]] di un oggetto di grande [[Massa|massa]]
 
 ---
 

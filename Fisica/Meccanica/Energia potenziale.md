@@ -1,12 +1,11 @@
 ---
  Created: 2023-03-20 15:20
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
  Tags: [meccanica]
 ---
 
-L'**energia potenziale** è l'energia che un corpo possiede a causa della sua posizione ed orientamento rispetto ad un campo di forza
+L'**energia potenziale** è l'[[Energia|energia]] che un [[Corpo|corpo]] possiede a causa della sua posizione ed orientamento rispetto ad un [[Campo di forza|campo di forza]]
 
 ---
 

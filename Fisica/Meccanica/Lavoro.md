@@ -6,11 +6,11 @@
  Tags: [meccanica]
 ---
 
-Il **lavoro** è l'**energia** scambiata tra due sistemi quando avviene uno **spostamento** attraverso l'azione  di una **forza**
+Il **lavoro** è l'[[Energia|energia]] scambiata tra due [[Sistema di riferimento|sistemi]] quando avviene uno **spostamento** attraverso l'azione  di una [[Forza|forza]]
 
 ---
 
-L'unità di misura del lavoro è $N \cdot m$ ossia il **Joule** ($J$)
+L'[[Unità di misura|unità di misura]] del lavoro è $N \cdot m$ ossia il **Joule** ($J$)
 
 ## Teorema delle forze vive
 
@@ -21,9 +21,10 @@ $$W_{i \rightarrow f}^{(ext)} = E_{K,B} - E_{K,A} = \frac{1}{2} m v_{f}^{2} - \f
 
 ### Lavoro della forza peso
 
-Il **lavoro della [[Forza Peso]]** è pari a:
+Il **lavoro della [[Forza Peso|forza peso]]** è pari a:
 $$W_{p} = -mgh$$
 
 ### Lavoro della forza elastica
 
+Il **lavoro della [[Forza elastica|forza elastica**
 $$dW_{el} = d\left[-\frac{1}{2} k x^{2}\right]$$

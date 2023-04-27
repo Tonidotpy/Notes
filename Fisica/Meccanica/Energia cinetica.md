@@ -1,12 +1,11 @@
 ---
  Created: 2023-03-20 15:17
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
  Tags: [meccanica]
 ---
 
-L**energia cinetica** è l'energia che un corpo possiede a causa del proprio **moto**
+L'**energia cinetica** è l'[[Energia|energia]] che un [[Corpo|corpo]] possiede a causa del proprio [[Moto|moto]]
 
 ---
 

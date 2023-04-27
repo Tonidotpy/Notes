@@ -1,18 +1,17 @@
 ---
  Created: 2023-03-15 10:58
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
  Tags: [cinematica]
 ---
 
-Un **pendolo semplice** è un sistema fisico costituito da un filo **insetensibile** e da una massa puntiforme fissata alla sua estremità soggetta all'[[Forza Peso|attrazione gravitazionale]]
+Un **pendolo semplice** è un [[Sistema di riferimento|sistema]] fisico costituito da un filo **insetensibile** e da una [[Massa|massa]] puntiforme fissata alla sua estremità soggetta all'[[Gravità|attrazione gravitazionale]]
 
 ---
 
 ![Pendolo semplice](https://upload.wikimedia.org/wikipedia/it/thumb/5/58/Pendolo_semplice.jpg/220px-Pendolo_semplice.jpg)
 
-Sia $l$ la **lunghezza** del filo:
+Sia $l$ la [[Lunghezza|lunghezza]] del filo:
 $$\begin{cases}
 x = l \sin \cdot \theta \\
 y = l - l \cdot \cos \theta
@@ -29,7 +28,7 @@ $$
 
 ## Equazione del moto armonico
 
-Sia $\omega^{2} = \frac{g}{l}$ la **pulsazione**:
+Sia $\omega^{2} = \frac{g}{l}$ la [[Pulsazione|pulsazione]]:
 $$\frac{d^{2}\theta}{dt^{2}} + \omega^{2}\theta = 0$$
 
 $$\theta(t) = \theta_{0} \sin(\omega t + \phi)$$

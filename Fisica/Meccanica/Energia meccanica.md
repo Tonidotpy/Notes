@@ -1,6 +1,5 @@
 ---
  Created: 2023-03-27 16:10
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
  Tags: [meccanica]
