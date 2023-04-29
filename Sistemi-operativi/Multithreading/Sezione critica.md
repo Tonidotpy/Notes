@@ -17,7 +17,7 @@ La soluzione al problema delle sezioni critiche deve rispettare 3 criteri:
 Possono esistere diverse soluzioni suddivise in due categorie:
 1. [[Sofware]]
 	- [[Algoritmo del fornaio]]
-	 - [[Semafori]]
+	 - [[Semaforo]]
 2. [[Hardware]]
 	- [[Test and Set]]
 	- [[Compare and Swap]]
