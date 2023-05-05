@@ -1,6 +1,5 @@
 ---
  Created: 2021-10-15 10:30
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: [Insieme nullo]
  Tags: [matematica,analisi,insiemi]

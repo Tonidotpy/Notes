@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "807025850546755e",
+            "id": "160b86b13930745b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +53,14 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "704c3abbac12065c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -77,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alloca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,35 +159,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "807025850546755e",
+  "active": "160b86b13930745b",
   "lastOpenFiles": [
+    "Sistemi-operativi/Multithreading/Rilevamento e Ripristino.md",
+    "Sistemi-operativi/Multithreading/Algoritmo di rilevamento.md",
+    "Sistemi-operativi/Multithreading/Rilevamento e ripristino tramite RAG.md",
     "Templates/Header.md",
     "Sistemi-operativi/Multithreading/Deadlock.md",
-    "Sistemi-operativi/Multithreading/Resource Allocation Graph.md",
-    "Sistemi-operativi/Multithreading/Monitor.md",
-    "Sistemi-operativi/Multithreading/Semaforo.md",
-    "Sistemi-operativi/Multithreading/Problema del barbiere addormentato.md",
-    "Reti/Carrier Sense Multiple Access Collision Avoidance.md",
-    "Sistemi-operativi/Multithreading/Problema dei filosofi a cena.md",
-    "Fisica/Meccanica/Teorema generale della conservazione dell'energia meccanica.md",
+    "Sistemi-operativi/Multithreading/Algoritmo con RAG.md",
+    "Sistemi-operativi/Multithreading/Algoritmo del banchiere.md",
+    "Sistemi-operativi/Multithreading/Prevenzione dinamica.md",
+    "Sistemi-operativi/Multithreading/Prevenzione statica.md",
+    "Fisica/Termodinamica/Calore specifico.md",
+    "Fisica/Termodinamica/Calore.md",
+    "Fisica/Termodinamica/Rendimento termodinamico.md",
+    "Fisica/Termodinamica/Potenza.md",
+    "Fisica/Termodinamica/Temperatura.md",
+    "Fisica/Termodinamica/Primo principio della termodinamica.md",
+    "Fisica/Termodinamica/Sistema fisico.md",
     "Fisica/Termodinamica/Costante di Avogadro.md",
-    "Fisica/Meccanica/Seconda legge di Keplero.md",
-    "Fisica/Meccanica/Prima legge di Keplero.md",
-    "Fisica/Meccanica/Pendolo balistico.md",
+    "Fisica/Termodinamica/Sistema isolato.md",
     "Fisica/Meccanica/Lavoro.md",
-    "Fisica/Meccanica/Forza non conservativa.md",
-    "Fisica/Meccanica/Forza di attrazione gravitazionale.md",
-    "Fisica/Meccanica/Forza conservativa.md",
-    "Fisica/Meccanica/Energia potenziale.md",
     "Fisica/Meccanica/Energia meccanica.md",
-    "Fisica/Meccanica/Energia cinetica.md",
-    "Fisica/Cinematica/Terzo principio della dinamica.md",
+    "Fondamenti-matematici-per-informatica/Insiemi finiti.md",
+    "Analisi/Insiemi/Insieme vuoto.md",
+    "Analisi/Insiemi/Operazioni/Differenza simmetrica.md",
+    "Analisi/Insiemi/Insiemi.md",
+    "Algoritmi-e-strutture-dati/Dato.md",
+    "Sistemi-operativi/Processo.md",
     "Fisica/Termodinamica",
-    "Fisica/Cinematica/Secondo principio della dinamica.md",
-    "Fisica/Cinematica/Risultante delle forze.md",
-    "Fisica/Cinematica/Reazione vincolare.md",
-    "Fisica/Cinematica/Primo principio della dinamica.md",
-    "Fisica/Cinematica/Piano inclinato.md",
     "Notes/Fondamenti-matematici-per-informatica",
     "Notes",
     "Sistemi-operativi/Multithreading",

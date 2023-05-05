@@ -12,6 +12,9 @@ Il **lavoro** è l'[[Energia|energia]] scambiata tra due [[Sistema di riferiment
 
 L'[[Unità di misura|unità di misura]] del lavoro è $N \cdot m$ ossia il **Joule** ($J$)
 
+Il lavoro delle [[Forza|forze non conservative]] è pari alla **variazione** dell'[[Energia meccanica|energia meccanica]]
+$$W_{nc} = \Delta E_{m}$$
+
 ## Teorema delle forze vive
 
 $$dW = d\left[\frac{1}{2} m v^{2}\right]$$
@@ -26,5 +29,5 @@ $$W_{p} = -mgh$$
 
 ### Lavoro della forza elastica
 
-Il **lavoro della [[Forza elastica|forza elastica**
+Il **lavoro della [[Forza elastica|forza elastica]]**
 $$dW_{el} = d\left[-\frac{1}{2} k x^{2}\right]$$

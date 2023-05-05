@@ -1,6 +1,5 @@
 ---
  Created: 2021-10-18 14:36
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
  Author: Antonio Gelain
  Aliases: []
  Tags: [matematica,operazioni,analisi,insiemi]
@@ -27,6 +26,6 @@ La **differenza simmetrica** $\Delta$ tra due insiemi $A,\ B \subseteq E$ conten
 
 ---
 
-- La **differenza simmetrica** di un insieme con se stesso è l'[[Iniseme vuoto|insieme vuoto]]: $A \Delta A = \emptyset$;
-- La **differenza simmetrica** tra due [[Intersezione#Proprietà|insiemi disgiunti]] $A,\ B \subseteq E$ contenuti in un [[Insieme universo|insieme universo]] $E$ coincide con l'[[Unione|unione]] degli stessi: $A \Delta B = A \cup B$;
-- La **differenza simmetrica** di un insieme $A$ con l'[[Insieme vuoto|insieme vuoto]] è uguale all'insieme stesso: $A \Delta \emptyset = A$;
+- La **differenza simmetrica** di un insieme con se stesso è l'[[Insieme vuoto|insieme vuoto]]: $A \Delta A = \emptyset$;
+- La **differenza simmetrica** tra due [[Intersezione#Proprietà|insiemi disgiunti]] $A,\ B \subseteq E$ contenuti in un insieme universo $E$ coincide con l'[[Unione|unione]] degli stessi: $A \Delta B = A \cup B$;
+- La **differenza simmetrica** di un insieme $A$ con l'insieme vuoto è uguale all'insieme stesso: $A \Delta \emptyset = A$;

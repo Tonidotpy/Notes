@@ -21,11 +21,7 @@ Un modello utile per capire se possono verificarsi dei deadlock è il [[Resource
 ---
 
 Esistono diverse soluzioni che permettono di gestire un deadlock:
-- **Prevenzione statica**: si cerca di impedire che avvenga almeno una delle quattro condizioni
-- **Prevenzione dinamica** (*avoidance*) basata su allocazione delle risorse
-  Richiede una conoscenza troppo approfondita delle richieste di risorse
-- **Rilevamento** (*detection*) e **ripristino** (*recovery*)
-  Permette che i deadlock si verifichino ma prevede dei metodi per ripristinare il normale funzionamento del sistema
-- **Algoritmo dell struzzo**
-  Ignorare del tutto il problema
-  >[!Warning] Please, don't!
+- [[Prevenzione statica]]
+- [[Prevenzione dinamica]]
+- [[Rilevamento e Ripristino|Rilevamento e ripristino]]
+- **Algoritmo dell struzzo**, ossia ignorare del tutto il problema dal momento che i deadlock si verificano raramente e la loro risoluzione è molto costosa
