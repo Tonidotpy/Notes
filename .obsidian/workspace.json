@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "160b86b13930745b",
+            "id": "97ae9fb3791867f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi-operativi/Multithreading/Deadlock.md",
+                "file": "Sistemi-operativi/Spazio di indirizzamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi-operativi/Multithreading/Deadlock.md",
+                "file": "Sistemi-operativi/Spazio di indirizzamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,13 +159,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "160b86b13930745b",
+  "active": "97ae9fb3791867f9",
   "lastOpenFiles": [
+    "Sistemi-operativi/Memory Management Unit.md",
+    "Sistemi-operativi/Spazio di indirizzamento.md",
+    "Sistemi-operativi/Binding.md",
+    "Templates/Header.md",
+    "Sistemi-operativi/Linking.md",
+    "Sistemi-operativi/Loading.md",
+    "Sistemi-operativi/Multithreading/Deadlock.md",
     "Sistemi-operativi/Multithreading/Rilevamento e Ripristino.md",
     "Sistemi-operativi/Multithreading/Algoritmo di rilevamento.md",
     "Sistemi-operativi/Multithreading/Rilevamento e ripristino tramite RAG.md",
-    "Templates/Header.md",
-    "Sistemi-operativi/Multithreading/Deadlock.md",
     "Sistemi-operativi/Multithreading/Algoritmo con RAG.md",
     "Sistemi-operativi/Multithreading/Algoritmo del banchiere.md",
     "Sistemi-operativi/Multithreading/Prevenzione dinamica.md",
@@ -182,11 +187,6 @@
     "Fisica/Meccanica/Lavoro.md",
     "Fisica/Meccanica/Energia meccanica.md",
     "Fondamenti-matematici-per-informatica/Insiemi finiti.md",
-    "Analisi/Insiemi/Insieme vuoto.md",
-    "Analisi/Insiemi/Operazioni/Differenza simmetrica.md",
-    "Analisi/Insiemi/Insiemi.md",
-    "Algoritmi-e-strutture-dati/Dato.md",
-    "Sistemi-operativi/Processo.md",
     "Fisica/Termodinamica",
     "Notes/Fondamenti-matematici-per-informatica",
     "Notes",
