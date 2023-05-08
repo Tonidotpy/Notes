@@ -2,7 +2,7 @@
  Created: 2023-05-07 13:38
  Author: Antonio Gelain
  Aliases: [Collegamento]
- Tags: []
+ Tags: [gestione-della-memoria]
 ---
 
 Il **linking** è il procedimento di **integrazione** dei vari [[Modulo|moduli]] a cui un [[Programma|programma]] fa riferimento per creare una singola unità eseguibile

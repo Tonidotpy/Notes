@@ -2,7 +2,7 @@
  Created: 2023-05-07 13:32
  Author: Antonio Gelain
  Aliases: []
- Tags: []
+ Tags: [gestione-della-memoria]
 ---
 
 Il **binding** è il procedimento tramite cui viene effettuato il collegamento fra un'**entità** ed il suo corrispettivo **valores**

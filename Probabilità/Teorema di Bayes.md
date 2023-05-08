@@ -7,7 +7,7 @@
 ---
 
 # Teorema di Bayes
-Consideriamo uno [[Spazio probabilizzato|spazio probabilizzato]] ($\Omega, \mathcal{A}, P$) e prendiamo una successione di eventi $\{ A_i \}_{i=1}^{+\infty}$ in modo che siano una [[Partizione|partizione]] di $\Omega$.
+Consideriamo uno [[Spazio probabilizzato|spazio probabilizzato]] ($\Omega, \mathcal{A}, P$) e prendiamo una successione di eventi $\{ A_i \}_{i=1}^{+\infty}$ in modo che siano una [[Probabilità/Partizione|partizione]] di $\Omega$.
 Assumiamo $P(A_{i}) > 0 \forall i$ allora dato un evento $B$ abbiamo che:
 
 > $$P(A_{i}|B) = \frac{P(B|A_{i}) P(A_{i})}{\sum\limits_{j=1}^{\infty} P(B|A_{j})P(A_{j})}$$

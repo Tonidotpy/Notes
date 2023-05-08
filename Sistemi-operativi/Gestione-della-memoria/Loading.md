@@ -2,7 +2,7 @@
  Created: 2023-05-07 14:01
  Author: Antonio Gelain
  Aliases: [Caricamento]
- Tags: []
+ Tags: [gestione-della-memoria]
 ---
 
 Il **loading** è un procedimento per cui viene inviato un flusso di [[Dato|dati]] da una sorgente ad una destinazione
