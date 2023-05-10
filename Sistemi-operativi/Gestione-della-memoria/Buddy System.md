@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-La tecnica del **buddy system** permette di ridurre il problema della [[Frammentazione|frammentazione]] della [[Memoria secondaria|memoria]]
+La tecnica del **buddy system** permette di ridurre il problema della [[Frammentazione|frammentazione]] della [[Memoria|memoria]]
 
 ---
 

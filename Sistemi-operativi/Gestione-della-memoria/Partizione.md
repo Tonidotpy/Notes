@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-Una **partizione** indica una suddivisione **logica** di un'unità di [[Memoria secondaria|memorizzazione fisica]]
+Una **partizione** indica una suddivisione **logica** di un'unità di [[Memoria|memorizzazione fisica]]
 
 ---
 

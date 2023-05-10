@@ -5,7 +5,7 @@
  Tags: [cinematica]
 ---
 
-Un **piano inclinato** è una [[Suprefice|superfice]] il cui [[Angolo|angolo]] $\theta$ è compreso tra 0 e 90 gradi (esclusi)
+Un **piano inclinato** è una [[Superficie|superficie]] il cui [[Angolo|angolo]] $\theta$ è compreso tra 0 e 90 gradi (esclusi)
 
 ---
 

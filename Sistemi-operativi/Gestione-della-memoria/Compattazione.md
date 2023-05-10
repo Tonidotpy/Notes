@@ -9,5 +9,5 @@ La **compattazione** è una tecnita utilizzata per risolvere il problema della [
 
 ---
 
-La compattazione prevede di spostare il contenuto della [[Memoria secondaria|memoria]] in modo da rendere contigue tutte le [[Sistemi-operativi/Gestione-della-memoria/Partizione|partizioni]]
+La compattazione prevede di spostare il contenuto della [[Memoria |memoria]] in modo da rendere contigue tutte le [[Sistemi-operativi/Gestione-della-memoria/Partizione|partizioni]]
 Si tratta di un'operazione costosa e necessita la **modifica** del [[Registro di base|registro di base]]

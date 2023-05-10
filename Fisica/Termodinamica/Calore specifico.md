@@ -9,3 +9,5 @@ Il **calore specifico** di una [[Sostanza|sostanza]] è definito come la [[Capac
 
 ---
 
+Il calore specifico di una sostanza si può calcolare tramite la seguente formula:
+$$c_{s}(T) = \frac{1}{m} \left[\frac{\delta Q}{dT}\right]_{s}$$

@@ -5,4 +5,4 @@
  Tags: [termodinamica]
 ---
 
-La **costante di Avogrado** è il numero di [[Particella|particelle]] costituenti contenute in una [[Mole|mole]] di sostanza
+La **costante di Avogrado** è il numero di [[Particella|particelle]] costituenti contenute in una [[Quantità di sostanza|mole]] di sostanza

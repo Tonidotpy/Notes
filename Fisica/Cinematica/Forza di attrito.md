@@ -5,7 +5,7 @@
  Tags: [cinematica]
 ---
 
-L'**attrito** è una [[Forza|forza]] che si oppone al movimento o allo spostamento relativo alla [[Suprefice|superfice]] su cui si trova
+L'**attrito** è una [[Forza|forza]] che si oppone al movimento o allo spostamento relativo alla [[Superficie|superficie]] su cui si trova
 
 ---
 

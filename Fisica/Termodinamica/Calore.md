@@ -10,3 +10,10 @@ Il **calore** è definito come il **trasferimento** di [[Energia|energia]] tra d
 ---
 
 L'[[Unità di misura|unità di misura]] del calore è la **caloria** (*cal*)
+
+Il calore, in riferimento ad un [[Corpo|corpo]] si può calcolare tramite la seguente formula:
+$$Q = m c_{s}(T_{f} - T_{i})$$
+Dove:
+- $m$ - è la massa del corpo
+- $c_{s}$ - è il [[Calore specifico|calore specifico]]
+- $T_{i}$ e $T_{f}$ - è la temperatura rispettivamente iniziale e finale del corpo

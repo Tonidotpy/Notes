@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-Il **binding** è il procedimento tramite cui viene effettuato il collegamento fra un'**entità** ed il suo corrispettivo **valores**
+Il **binding** è il procedimento tramite cui viene effettuato il collegamento fra un'**entità** ed il suo corrispettivo **valore**
 
 ---
 

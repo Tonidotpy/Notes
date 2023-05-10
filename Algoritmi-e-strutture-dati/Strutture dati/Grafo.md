@@ -6,6 +6,6 @@
  Tags: [data_structure]
 ---
 
-Un **grafo** è una [[Struttura di dati|struttura dati]] composta da un [[Insieme|insieme]] di elementi detti **nodi** o **vertici** e un insieme di coppie (ordinate oppure no) di nodi detti **archi**
+Un **grafo** è una [[Struttura di dati|struttura dati]] composta da un [[Insieme|insieme]] di elementi detti **nodi** o **vertici** e un insieme di [[Coppia|coppie]] (ordinate oppure no) di nodi detti **archi**
 
 ---

@@ -11,7 +11,7 @@
 ###### Definizione
 
 Consideriamo due insiemi $A,\ B \subseteq E$ contenuti in un [[Insieme universo|insieme universo]] $E$.
-Chiamiamo **prodotto cartesiano** tra gli insiemi $A$ e $B$ l'insieme che ha per elementi tutte le possibili [[Coppie|coppie ordinate]] $(a, b)$ con $a \in A$ e $b \in B$.
+Chiamiamo **prodotto cartesiano** tra gli insiemi $A$ e $B$ l'insieme che ha per elementi tutte le possibili [[Coppia|coppie ordinate]] $(a, b)$ con $a \in A$ e $b \in B$.
 
 > $$A \times B := \{(a, b)\ |\ a \in A,\ b \in B\}$$
 
