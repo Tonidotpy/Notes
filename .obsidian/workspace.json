@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "d2f203669e459c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi-operativi/Gestione-della-memoria/Segmentazione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cae1dafa18dd645e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi-operativi/Gestione-della-memoria/Segmentazione paginata.md",
+                "file": "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi-operativi/Gestione-della-memoria/Segmentazione paginata.md",
+                "file": "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +162,12 @@
   },
   "active": "cae1dafa18dd645e",
   "lastOpenFiles": [
-    "Sistemi-operativi/Gestione-della-memoria/Segmentazione.md",
+    "Sistemi-operativi/Gestione-della-memoria/Paginazione su domanda.md",
+    "Sistemi-operativi/Gestione-della-memoria/Memoria virtuale.md",
+    "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
     "Sistemi-operativi/Gestione-della-memoria/Segmentazione paginata.md",
     "Templates/Header.md",
+    "Sistemi-operativi/Gestione-della-memoria/Segmentazione.md",
     "Sistemi-operativi/Gestione-della-memoria/Tabella delle pagine.md",
     "Sistemi-operativi/Gestione-della-memoria/Tabella dei segmenti.md",
     "Sistemi-operativi/Gestione-della-memoria/Tabella delle pagine invertita.md",
@@ -197,9 +188,6 @@
     "Sistemi-operativi/Gestione-della-memoria/Memory Management Unit.md",
     "Sistemi-operativi/Gestione-della-memoria/Loading.md",
     "Sistemi-operativi/Gestione-della-memoria/Linking.md",
-    "Sistemi-operativi/Gestione-della-memoria/Binding.md",
-    "Fisica/Termodinamica/Espansione di Joule.md",
-    "Fisica/Termodinamica/Untitled.md",
     "Sistemi-operativi/Gestione-della-memoria",
     "Fisica/Termodinamica",
     "Notes/Fondamenti-matematici-per-informatica",
