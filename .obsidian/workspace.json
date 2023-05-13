@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
+                "file": "Sistemi-operativi/Gestione-della-memoria/Algoritmo della seconda opportunità.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
+                "file": "Sistemi-operativi/Gestione-della-memoria/Algoritmo della seconda opportunità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,11 +162,17 @@
   },
   "active": "cae1dafa18dd645e",
   "lastOpenFiles": [
+    "Sistemi-operativi/Gestione-della-memoria/Algoritmo Least-Recently-Used.md",
+    "Sistemi-operativi/Gestione-della-memoria/Algoritmo della seconda opportunità.md",
+    "Templates/Header.md",
+    "Sistemi-operativi/Gestione-della-memoria/Algoritmo FIFO.md",
+    "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
+    "Sistemi-operativi/Gestione-della-memoria/Algoritmo Most-Frequently-Used.md",
+    "Sistemi-operativi/Gestione-della-memoria/Algoritmo Least-Frequently-Used.md",
+    "Sistemi-operativi/Gestione-della-memoria/Anomalia di Belady.md",
     "Sistemi-operativi/Gestione-della-memoria/Paginazione su domanda.md",
     "Sistemi-operativi/Gestione-della-memoria/Memoria virtuale.md",
-    "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
     "Sistemi-operativi/Gestione-della-memoria/Segmentazione paginata.md",
-    "Templates/Header.md",
     "Sistemi-operativi/Gestione-della-memoria/Segmentazione.md",
     "Sistemi-operativi/Gestione-della-memoria/Tabella delle pagine.md",
     "Sistemi-operativi/Gestione-della-memoria/Tabella dei segmenti.md",
@@ -182,12 +188,6 @@
     "Sistemi-operativi/Memoria primaria.md",
     "Sistemi-operativi/Gestione-della-memoria/Compattazione.md",
     "Sistemi-operativi/Gestione-della-memoria/Partizione variabile.md",
-    "Sistemi-operativi/Gestione-della-memoria/Partizione.md",
-    "Sistemi-operativi/Gestione-della-memoria/Partizione fissa.md",
-    "Sistemi-operativi/Gestione-della-memoria/Allocazione contigua.md",
-    "Sistemi-operativi/Gestione-della-memoria/Memory Management Unit.md",
-    "Sistemi-operativi/Gestione-della-memoria/Loading.md",
-    "Sistemi-operativi/Gestione-della-memoria/Linking.md",
     "Sistemi-operativi/Gestione-della-memoria",
     "Fisica/Termodinamica",
     "Notes/Fondamenti-matematici-per-informatica",
