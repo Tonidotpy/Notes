@@ -27,13 +27,16 @@ I [[Stato gassoso|gas reali]] si avvicinano all'ideale sotto condizioni di bassa
 ## Energia cinetica
 
 L'[[Energia cinetica|energia cinetica]] [[Media|media]] di una molecola di gas è:
-$$<E_{k}> = \frac{3}{2} K_{B} T$$
+$$<E_{k}> = \frac{l}{2} K_{B} T$$
 Dove:
-- $K_{B}$ - è la [[Costante di Boltzmann|costante di Boltmann]]
+- $K_{B}$ - è la [[Costante di Boltzmann|costante di Boltzmann]]
 - $T$ - è la temperatura
+- $l$ - è il numero di [[Grado di libertà|gradi di libertà]]
 
 ## Energia interna
 
-L'[[Energia potenziale|energia interna]] rappresenta l'[[Energia|energia]] di tutte le molecole, e si calcola tramite la seguente formula:
-$$U = \frac{3}{2} n K_{B} T$$
-Dove $n$ è il [[Quantità di sostanza|numero di moli]]
+L'[[Energia interna|energia interna]] del gas si può determinare dalla seguente formula:
+$$U = \frac{l}{2} n R T$$
+Dove:
+- $n$ - è il [[Quantità di sostanza|numero di moli]]
+- $R$ - è la [[Costante universale dei gas|costante universale dei gas]]
