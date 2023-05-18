@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8089c619774eaf5e",
+            "id": "78cd7ba23556c827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Termodinamica/Ciclo di Carnot.md",
+                "file": "Sistemi-operativi/Gestione-della-memoria/Allocazione dei frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coppie",
+                "query": "riferimento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Termodinamica/Ciclo di Carnot.md",
+                "file": "Sistemi-operativi/Gestione-della-memoria/Allocazione dei frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,13 +148,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8089c619774eaf5e",
+  "active": "78cd7ba23556c827",
   "lastOpenFiles": [
+    "Sistemi-operativi/Gestione-della-memoria/Allocazione variabile.md",
+    "Sistemi-operativi/Gestione-della-memoria/Working set.md",
+    "Sistemi-operativi/Gestione-della-memoria/Page Fault Frequency.md",
+    "Sistemi-operativi/Gestione-della-memoria/Thrashing.md",
+    "Sistemi-operativi/Gestione-della-memoria/Allocazione dei frame.md",
+    "Sistemi-operativi/Gestione-della-memoria/Anomalia di Belady.md",
+    "Sistemi-operativi/Gestione-della-memoria/Allocazione fissa.md",
+    "Sistemi-operativi/Gestione-della-memoria/Tabella delle pagine invertita.md",
+    "Sistemi-operativi/Gestione-della-memoria/Algoritmo Least-Recently-Used.md",
+    "Fisica/Termodinamica/Ciclo di Carnot.md",
     "Fisica/Termodinamica/Calore.md",
     "Fisica/Termodinamica/Trasformazione Isocora.md",
     "Fisica/Termodinamica/Ciclo termodinamico.md",
     "Fisica/Termodinamica/Macchina termica.md",
-    "Fisica/Termodinamica/Ciclo di Carnot.md",
     "Fisica/Termodinamica/Trasformazione adiabatica.md",
     "Fisica/Termodinamica/Trasformazione isoterma.md",
     "Fisica/Termodinamica/Primo principio della termodinamica.md",
@@ -166,15 +176,6 @@
     "Fisica/Termodinamica/Costante universale dei gas.md",
     "Fisica/Termodinamica/Teoria cinetica dei gas.md",
     "Fisica/Termodinamica/Relazione di Mayer.md",
-    "Fisica/Termodinamica/Grado di libertà.md",
-    "Templates/Header.md",
-    "Fisica/Termodinamica/Espansione di Joule.md",
-    "Fisica/Termodinamica/Equazione di stato dei gas perfetti.md",
-    "Fisica/Termodinamica/Temperatura.md",
-    "Fisica/Termodinamica/Stato della materia.md",
-    "Fisica/Termodinamica/Sistema fisico.md",
-    "Fisica/Termodinamica/Seconda legge di Gay-Lussac.md",
-    "Fisica/Termodinamica/Pressione.md",
     "Sistemi-operativi/Gestione-della-memoria",
     "Fisica/Termodinamica",
     "Notes/Fondamenti-matematici-per-informatica",
