@@ -9,3 +9,5 @@ Il **teorema di Carnot** afferma che non è possibile realizzare una [[Macchina 
 
 ---
 
+Il rendimento di una macchina termica qualsiasi è **sempre** minore o uguale del rendimento di una macchina termica con un ciclo [[Trasformazione reversibile|reversibile]]
+$$\eta_{X}(T_{1}, T_{2}) \le \eta_{R}(T_{1}, T_{2})$$

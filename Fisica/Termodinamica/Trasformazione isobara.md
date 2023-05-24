@@ -13,3 +13,5 @@ Il [[Lavoro|lavoro]] compiuto è pari a:
 $$W_{i \to f} = \int_{i}^{f} p dV = p(V_{f} - V_{i}) = p \Delta V$$
 Il [[Calore|calore]] trasferito è pari a:
 $$Q_{i \to f} = n c_{p} \Delta T$$
+L'[[Entropia|entropia]] è pari a:
+$$dS = \frac{dQ}{T} = \frac{nc_{p}dT}{T} = nc_{v} \ln\left[\frac{T_{f}}{T_{i}}\right]$$

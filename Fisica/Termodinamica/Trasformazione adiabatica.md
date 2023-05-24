@@ -5,7 +5,7 @@
  Tags: [termodinamica]
 ---
 
-Una **trasformazione adiabatica** è una [[Trasformazione termodinamica|trasformazione termodinamica]] **irreversibile** nel corso del quale un [[Sistema fisico|sistema fisico]] non scambia nettamente [[Calore|calore]] con l'ambiente
+Una **trasformazione adiabatica** è una [[Trasformazione irreversibile|trasformazione termodinamica irreversibile]] nel corso del quale un [[Sistema fisico|sistema fisico]] non scambia nettamente [[Calore|calore]] con l'ambiente
 
 ---
 
@@ -16,3 +16,5 @@ Il [[Lavoro|lavoro]] compiuto è pari a:
 $$W_{i \to f} = -n c_{V} \Delta T$$
 Il calore trasferito è pari a:
 $$Q_{i \to f} = 0$$
+L'[[Entropia|entropia]] è pari a:
+$$\Delta S = \frac{dQ}{T} = 0$$

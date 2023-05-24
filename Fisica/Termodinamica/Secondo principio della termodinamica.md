@@ -5,7 +5,7 @@
  Tags: [termodinamica]
 ---
 
-Il **secondo principio della termodinamica** spiega come molti eventi termodinamici siano **irreversibili**
+Il **secondo principio della termodinamica** spiega come molti eventi termodinamici siano [[Trasformazione irreversibile|irreversibili]]
 Esistono diversi enunciati per questo principio, tra cui:
 > É **impossibile** realizzare una [[Macchina termica|macchina termica]] il cui unico risultato sia la conversione in [[Lavoro|lavoro]] di tutto il [[Calore|calore]] assorbito da una **sorgente** omogenea 
 > \- Kelvin-Planck

@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78cd7ba23556c827",
+            "id": "7cbb6b016b9ca47f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Termodinamica/Calore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f6588a8db5fc2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fisica/Termodinamica/Teorema di Carnot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d043cd322f4db7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fisica/Termodinamica/Teorema di Clausius.md",
+                "file": "Fisica/Termodinamica/Entropia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "riferimento",
+                "query": "revers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Termodinamica/Teorema di Clausius.md",
+                "file": "Fisica/Termodinamica/Entropia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,13 +146,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d043cd322f4db7b",
+  "active": "7cbb6b016b9ca47f",
   "lastOpenFiles": [
+    "Fisica/Termodinamica/Trasformazione adiabatica.md",
+    "Fisica/Termodinamica/Trasformazione isobara.md",
+    "Fisica/Termodinamica/Trasformazione isoterma.md",
+    "Fisica/Termodinamica/Trasformazione Isocora.md",
+    "Fisica/Termodinamica/Entropia.md",
+    "Fisica/Meccanica/Forza conservativa.md",
+    "Fisica/Termodinamica/Calore.md",
+    "Fisica/Termodinamica/Espansione di Joule.md",
+    "Fisica/Termodinamica/Ciclo di Carnot.md",
+    "Fisica/Termodinamica/Secondo principio della termodinamica.md",
     "Fisica/Termodinamica/Teorema di Carnot.md",
     "Fisica/Termodinamica/Teorema di Clausius.md",
-    "Fisica/Termodinamica/Calore.md",
     "Fisica/Termodinamica/Primo principio della termodinamica.md",
-    "Fisica/Termodinamica/Secondo principio della termodinamica.md",
     "Fisica/Cinematica/Moto relativo.md",
     "Fisica/Cinematica/Moto parabolico.md",
     "Fisica/Cinematica/Forza Peso.md",
@@ -191,14 +174,6 @@
     "Sistemi-operativi/Gestione-della-memoria/Allocazione fissa.md",
     "Sistemi-operativi/Gestione-della-memoria/Tabella delle pagine invertita.md",
     "Sistemi-operativi/Gestione-della-memoria/Algoritmo Least-Recently-Used.md",
-    "Fisica/Termodinamica/Ciclo di Carnot.md",
-    "Fisica/Termodinamica/Trasformazione Isocora.md",
-    "Fisica/Termodinamica/Ciclo termodinamico.md",
-    "Fisica/Termodinamica/Macchina termica.md",
-    "Fisica/Termodinamica/Trasformazione adiabatica.md",
-    "Fisica/Termodinamica/Trasformazione isoterma.md",
-    "Fisica/Termodinamica/Trasformazione isobara.md",
-    "Fisica/Termodinamica/Calore specifico.md",
     "Sistemi-operativi/Gestione-della-memoria",
     "Fisica/Termodinamica",
     "Notes/Fondamenti-matematici-per-informatica",

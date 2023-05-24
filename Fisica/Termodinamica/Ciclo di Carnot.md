@@ -5,7 +5,7 @@
  Tags: [termodinamica]
 ---
 
-Il **ciclo di Carnot** è un [[Ciclo termodinamico|ciclo termodinamico]] costituito solo da [[Trasformazione termodinamica|trasformazioni]] **reversibili**: due [[Trasformazione isoterma|isotermiche]] e due [[Trasformazione adiabatica|adiabatiche]]
+Il **ciclo di Carnot** è un [[Ciclo termodinamico|ciclo termodinamico]] costituito solo da [[Trasformazione reversibile|trasformazioni reversibili]]: due [[Trasformazione isoterma|isotermiche]] e due [[Trasformazione adiabatica|adiabatiche]]
 
 ---
 
