@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33e524b5bc90ccb5",
+        "id": "338e2ff3cfa4fed3",
         "type": "tabs",
         "children": [
           {
-            "id": "7cbb6b016b9ca47f",
+            "id": "41c572ac3aab23c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Termodinamica/Entropia.md",
+                "file": "Sistemi-operativi/File-system/File.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "revers",
+                "query": "energia cinetica media",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Termodinamica/Entropia.md",
+                "file": "Sistemi-operativi/File-system/File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,34 +146,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cbb6b016b9ca47f",
+  "active": "41c572ac3aab23c6",
   "lastOpenFiles": [
-    "Fisica/Termodinamica/Trasformazione adiabatica.md",
-    "Fisica/Termodinamica/Trasformazione isobara.md",
-    "Fisica/Termodinamica/Trasformazione isoterma.md",
-    "Fisica/Termodinamica/Trasformazione Isocora.md",
-    "Fisica/Termodinamica/Entropia.md",
-    "Fisica/Meccanica/Forza conservativa.md",
-    "Fisica/Termodinamica/Calore.md",
-    "Fisica/Termodinamica/Espansione di Joule.md",
-    "Fisica/Termodinamica/Ciclo di Carnot.md",
-    "Fisica/Termodinamica/Secondo principio della termodinamica.md",
-    "Fisica/Termodinamica/Teorema di Carnot.md",
-    "Fisica/Termodinamica/Teorema di Clausius.md",
-    "Fisica/Termodinamica/Primo principio della termodinamica.md",
-    "Fisica/Cinematica/Moto relativo.md",
-    "Fisica/Cinematica/Moto parabolico.md",
-    "Fisica/Cinematica/Forza Peso.md",
-    "Fisica/Cinematica/Piano inclinato.md",
-    "Sistemi-operativi/Gestione-della-memoria/Allocazione dei frame.md",
-    "Sistemi-operativi/Gestione-della-memoria/Allocazione variabile.md",
-    "Sistemi-operativi/Gestione-della-memoria/Working set.md",
-    "Sistemi-operativi/Gestione-della-memoria/Page Fault Frequency.md",
+    "Sistemi-operativi/File-system/File system.md",
+    "Sistemi-operativi/File-system/File.md",
+    "Sistemi-operativi/File-system",
+    "Sistemi-operativi/Gestione-della-memoria/Partizione di swap.md",
+    "Sistemi-operativi/Gestione-della-memoria/Algoritmo della seconda opportunità.md",
+    "Partizione di swap.md",
+    "Sistemi-operativi/Gestione-della-memoria/Error Correction Code.md",
+    "Sistemi-operativi/Gestione-della-memoria/Disco rigido.md",
+    "Algoritmi-e-strutture-dati/Last-in First-out.md",
+    "Sistemi-operativi/Gestione-della-memoria/N-step SCAN.md",
+    "Sistemi-operativi/Gestione-della-memoria/LOOK.md",
+    "Sistemi-operativi/Gestione-della-memoria/CLOOK.md",
+    "Sistemi-operativi/Gestione-della-memoria/SCAN.md",
+    "Sistemi-operativi/Gestione-della-memoria/CSCAN.md",
+    "Sistemi-operativi/Gestione-della-memoria/Shortest Seek Time First.md",
+    "Sistemi-operativi/Gestione-della-memoria/Unità di memoria a stato solido.md",
+    "Sistemi-operativi/Scheduling/First Come First Served.md",
     "Sistemi-operativi/Gestione-della-memoria/Thrashing.md",
-    "Sistemi-operativi/Gestione-della-memoria/Anomalia di Belady.md",
-    "Sistemi-operativi/Gestione-della-memoria/Allocazione fissa.md",
-    "Sistemi-operativi/Gestione-della-memoria/Tabella delle pagine invertita.md",
-    "Sistemi-operativi/Gestione-della-memoria/Algoritmo Least-Recently-Used.md",
+    "Sistemi-operativi/Gestione-della-memoria/Page Fault Frequency.md",
+    "Sistemi-operativi/Gestione-della-memoria/Page fault.md",
+    "Fisica/Termodinamica/Entropia.md",
+    "Fisica/Termodinamica/Teoria cinetica dei gas.md",
+    "Fisica/Termodinamica/Energia interna.md",
+    "Fisica/Meccanica/Energia cinetica.md",
+    "Fisica/Termodinamica/Gas ideale.md",
+    "Fisica/Termodinamica/Prima legge di Gay-Lussac.md",
+    "Fisica/Termodinamica/Legge di Boyle-Mariotte.md",
     "Sistemi-operativi/Gestione-della-memoria",
     "Fisica/Termodinamica",
     "Notes/Fondamenti-matematici-per-informatica",
@@ -182,7 +183,6 @@
     "Programmazione-funzionale/Untitled",
     "Sistemi-operativi/Scheduling",
     "Input",
-    "Fisica/Meccanica",
-    "Fisica/Cinematica"
+    "Fisica/Meccanica"
   ]
 }
