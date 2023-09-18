@@ -1,9 +1,8 @@
 ---
- Created: 2022-03-11 12:49
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2022-03-11 12:49
+Author: Antonio Gelain
+aliases: 
+tags:
 ---
 
 # Funzioni

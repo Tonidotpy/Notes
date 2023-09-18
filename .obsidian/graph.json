@@ -1,7 +1,7 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
@@ -67,7 +67,7 @@
       "query": "path:Algoritmi-e-strutture-dati/",
       "color": {
         "a": 1,
-        "rgb": 3727349
+        "rgb": 16777215
       }
     },
     {
@@ -83,18 +83,32 @@
         "a": 1,
         "rgb": 101912
       }
+    },
+    {
+      "query": "path:Linguaggi-formali-e-compilatori  ",
+      "color": {
+        "a": 1,
+        "rgb": 11679938
+      }
+    },
+    {
+      "query": "path:Embedded-Software-for-The-Internet-of-Things  ",
+      "color": {
+        "a": 1,
+        "rgb": 2657224
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0.5,
+  "textFadeMultiplier": 0.6,
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 0.7125,
-  "collapse-forces": false,
-  "centerStrength": 0.255208333333333,
-  "repelStrength": 8.33333333333333,
-  "linkStrength": 0.375,
-  "linkDistance": 59,
-  "scale": 0.027130069312290547,
+  "collapse-forces": true,
+  "centerStrength": 0.291666666666667,
+  "repelStrength": 9.58333333333333,
+  "linkStrength": 0.322916666666667,
+  "linkDistance": 101,
+  "scale": 0.021150408248101233,
   "close": true
 }

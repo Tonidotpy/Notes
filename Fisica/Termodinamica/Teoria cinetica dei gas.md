@@ -27,9 +27,9 @@ I [[Stato gassoso|gas reali]] si avvicinano all'ideale sotto condizioni di bassa
 ## Energia cinetica
 
 L'[[Energia cinetica|energia cinetica]] [[Media|media]] di una molecola di gas è:
-$$<E_{k}> = \frac{l}{2} K_{B} T$$
+$$<E_{k}> = \frac{l}{2} k_{B} T$$
 Dove:
-- $K_{B}$ - è la [[Costante di Boltzmann|costante di Boltzmann]]
+- $k_{B}$ - è la [[Costante di Boltzmann|costante di Boltzmann]]
 - $T$ - è la temperatura
 - $l$ - è il numero di [[Grado di libertà|gradi di libertà]]
 
