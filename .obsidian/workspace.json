@@ -11,8 +11,12 @@
             "id": "3056cbd7934b3146",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi-formali-e-compilatori/Grammatica libera.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linguaggi-formali-e-compilatori/Grammatica libera.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +157,14 @@
   },
   "active": "3056cbd7934b3146",
   "lastOpenFiles": [
+    "Linguaggi-formali-e-compilatori/Produzione unitaria.md",
+    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
+    "Linguaggi-formali-e-compilatori/Produzione epsilon.md",
+    "Linguaggi-formali-e-compilatori/Derivazione.md",
+    "Linguaggi-formali-e-compilatori/Simbolo.md",
+    "Linguaggi-formali-e-compilatori/Linguaggio di programmazione.md",
+    "Linguaggi-formali-e-compilatori/Produzione.md",
+    "Linguaggi-formali-e-compilatori/Linguaggio.md",
     "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
     "Fondamenti-di-elaborazione-dei-segnali/Segnale causale.md",
     "Analisi/Insiemi/Numeri complessi.md",
@@ -172,14 +185,6 @@
     "Fisica/Termodinamica/Rendimento termodinamico.md",
     "Fisica/Termodinamica/Teorema di Carnot.md",
     "Fisica/Termodinamica/Teorema di Clausius.md",
-    "Fisica/Termodinamica/Entropia.md",
-    "Reti/Content Delivery Network.md",
-    "Reti/Cyclic Redundancy Check.md",
-    "Reti/Multiplexing.md",
-    "Reti/Protocollo.md",
-    "Reti/Pila ISO-OSI.md",
-    "Reti/Livello di trasporto.md",
-    "Reti/Protocolli/Transmission Control Protocol.md",
     "Excalidraw",
     "Fondamenti-di-elaborazione-dei-segnali",
     "Embedded-Software-for-The-Internet-of-Things",
