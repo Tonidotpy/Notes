@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Calcolatori/",
@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 2657224
       }
+    },
+    {
+      "query": "path:Fondamenti-di-elaborazione-dei-segnali  ",
+      "color": {
+        "a": 1,
+        "rgb": 11986523
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +116,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 0.322916666666667,
   "linkDistance": 101,
-  "scale": 0.021150408248101233,
+  "scale": 0.033435255898942216,
   "close": true
 }

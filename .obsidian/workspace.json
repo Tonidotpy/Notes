@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b30cdd5a35d9b4f4",
+        "id": "e17e57f72d6d57eb",
         "type": "tabs",
         "children": [
           {
-            "id": "330d84575f99b7aa",
+            "id": "3056cbd7934b3146",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded-Software-for-The-Internet-of-Things/Cortex-M4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -151,47 +147,48 @@
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Copilot Chat": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed779649948e323f",
+  "active": "3056cbd7934b3146",
   "lastOpenFiles": [
-    "Embedded-Software-for-The-Internet-of-Things/Cortex-M4.md",
-    "Embedded-Software-for-The-Internet-of-Things/Advanced RISC Machine.md",
-    "Embedded-Software-for-The-Internet-of-Things/Architettura.md",
-    "Embedded-Software-for-The-Internet-of-Things/Architettura Von Neumann.md",
-    "Embedded-Software-for-The-Internet-of-Things/Architettura Harvard.md",
-    "Embedded-Software-for-The-Internet-of-Things/Complex Instruction Set Computer.md",
-    "Embedded-Software-for-The-Internet-of-Things/Reduced Instruction Set Computer.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale causale.md",
+    "Analisi/Insiemi/Numeri complessi.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale aleatorio.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale deterministico.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale periodico.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Dominio.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale vettoriale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale scalare.md",
+    "signal.png",
+    "Fondamenti-di-elaborazione-dei-segnali/Rumore.md",
+    "Reti-logiche",
+    "Fisica/Termodinamica/Equazione di stato dei gas perfetti.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Sensore.md",
+    "Fisica/Termodinamica/Gas ideale.md",
+    "Fisica/Termodinamica/Teoria cinetica dei gas.md",
+    "Fisica/Meccanica/Lavoro.md",
+    "Fisica/Termodinamica/Rendimento termodinamico.md",
+    "Fisica/Termodinamica/Teorema di Carnot.md",
+    "Fisica/Termodinamica/Teorema di Clausius.md",
+    "Fisica/Termodinamica/Entropia.md",
+    "Reti/Content Delivery Network.md",
+    "Reti/Cyclic Redundancy Check.md",
+    "Reti/Multiplexing.md",
+    "Reti/Protocollo.md",
+    "Reti/Pila ISO-OSI.md",
+    "Reti/Livello di trasporto.md",
+    "Reti/Protocolli/Transmission Control Protocol.md",
+    "Excalidraw",
+    "Fondamenti-di-elaborazione-dei-segnali",
     "Embedded-Software-for-The-Internet-of-Things",
-    "Logica-computazionale/Logica computazionale.md",
-    "Templates/Header.md",
-    "copilot-conversations/Chat-2023_09_15-14_49_47.md",
     "copilot-conversations",
-    "Linguaggi-formali-e-compilatori/Linguaggio.md",
-    "Sistemi-operativi/Processo.md",
-    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
-    "Fondamenti-matematici-per-informatica/Algoritmo di Euclide.md",
-    "Linguaggi-formali-e-compilatori/Grammatica generativa.md",
-    "Linguaggi-formali-e-compilatori/Albero di derivazione.md",
-    "Linguaggi-formali-e-compilatori/Derivazione.md",
-    "Linguaggi-formali-e-compilatori/Produzione.md",
     "Untitled.canvas",
     "Logica-computazionale",
-    "README.md",
-    "Algoritmi-e-strutture-dati/Oridini di complessità.md",
-    "Algoritmi-e-strutture-dati/Complessità temporale.md",
-    "Reti/Algoritmi/Algoritmo di Dijkstra.md",
-    "Reti/Multiplexing.md",
-    "Linguaggi-formali-e-compilatori/Compilatore.md",
-    "Fondamenti-matematici-per-informatica/Funzioni.md",
-    "Fisica/Cinematica/Forza apparente.md",
     "Linguaggi-formali-e-compilatori",
     "Sistemi-operativi/File-system",
     "Sistemi-operativi/Gestione-della-memoria",
-    "Fisica/Termodinamica",
-    "Notes/Fondamenti-matematici-per-informatica",
-    "Notes",
-    "Sistemi-operativi/Multithreading"
+    "Fisica/Termodinamica"
   ]
 }

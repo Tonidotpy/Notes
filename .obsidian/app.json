@@ -13,5 +13,8 @@
   },
   "vimMode": true,
   "defaultViewMode": "source",
-  "spellcheck": true
+  "spellcheck": true,
+  "useTab": false,
+  "showLineNumber": true,
+  "propertiesInDocument": "visible"
 }
