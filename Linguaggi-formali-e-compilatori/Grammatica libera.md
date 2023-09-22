@@ -19,4 +19,21 @@ Dato un linguaggio context-free esiste una grammatica libera $\mathcal{G}$ tale 
 - [[Produzione unitaria|produzione unitaria]]
 - [[Simbolo|Non terminali inutili]], ossia che non appaiono in nessuna [[Derivazione|derivazione]]
 
-Se due linguaggi $\mathcal{L_{1}}$ e $\mathcal{L}_{2}$ sono linguaggi liberi allora la loro [[Unione|unione]] genera un linguaggio libero.
+## Proprietà di chiusura
+
+### Unione
+
+La classe dei linguaggi liberi è **chiusa** rispetto all'operazione di [[Unione|unione]] d'[[Insiemi|insiemi]]
+$$\text{Se } \mathcal{L_{1}} \text{ è  libero } \land \mathcal{L_{2}} \text{ è libero} \Rightarrow \mathcal{L_{1}} \cup \mathcal{L_{2}} \text{ è libero}$$
+Per unire due linguaggi liberi è necessario modificare i simboli non terminali evitano possibili collisioni e aggiungendo un nuovo *start-symbol* la cui produzione sono gli start-symbol dei due linguaggi
+
+### Concatenazione
+
+La classe dei linguaggi liberi è **chiusa** rispetto all'operazione di [[Concatenazione|concatenazione]]
+$$\text{Se } \mathcal{L_{1}} \text{ è libero } \land \mathcal{L_{2}} \text{ è libero} \Rightarrow \{ \omega_{1} \omega_{2}\ |\ \omega_{1} \in \mathcal{L_{1} \land \omega_{2} \in \mathcal{L_{2}}} \}$$
+Per concatenare due linguaggi liberi il procedimento è equivalente a quello dell'unione
+
+### Intersezione
+
+La classe dei linguaggi liberi è **chiusa** rispetto all'operazione di [[Intersezione|intersezione]]
+$$\text{Se } \mathcal{L}_{1} \text{ è libero } \land \mathcal{L}_{2} \text{ è libero } \Rightarrow \mathcal{L}_{1} \cap \mathcal{L}_{2} \text{ è libero}$$
