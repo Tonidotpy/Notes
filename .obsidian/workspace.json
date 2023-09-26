@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a29038c57ba591a",
+        "id": "e33ddf91f45d0a09",
         "type": "tabs",
         "children": [
           {
-            "id": "21356672b71899cb",
+            "id": "a43174d210dd3f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded-Software-for-The-Internet-of-Things/Thumb-2 Instruction Set.md",
+                "file": "Embedded-Software-for-The-Internet-of-Things/Interrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded-Software-for-The-Internet-of-Things/Thumb-2 Instruction Set.md",
+                "file": "Embedded-Software-for-The-Internet-of-Things/Interrupt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,16 +155,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21356672b71899cb",
+  "active": "a43174d210dd3f8d",
   "lastOpenFiles": [
-    "Embedded-Software-for-The-Internet-of-Things/Thumb Instruction Set.md",
+    "Embedded-Software-for-The-Internet-of-Things/Busy-Waiting.md",
+    "Embedded-Software-for-The-Internet-of-Things/Interrupt.md",
+    "Embedded-Software-for-The-Internet-of-Things/Advanced High-performance Bus.md",
+    "Sistemi-operativi/Input Output.md",
     "Embedded-Software-for-The-Internet-of-Things/Thumb-2 Instruction Set.md",
+    "Embedded-Software-for-The-Internet-of-Things/Thumb Instruction Set.md",
     "Embedded-Software-for-The-Internet-of-Things/Cortex-M4.md",
     "Embedded-Software-for-The-Internet-of-Things/Bit banding.md",
     "Embedded-Software-for-The-Internet-of-Things/Program Status Register.md",
     "Embedded-Software-for-The-Internet-of-Things/Link Register.md",
     "Sistemi-operativi/Process Control Block.md",
-    "Embedded-Software-for-The-Internet-of-Things/Advanced High-performance Bus.md",
     "Embedded-Software-for-The-Internet-of-Things/Programming model.md",
     "Embedded-Software-for-The-Internet-of-Things/Advanced Peripheral Bus.md",
     "Embedded-Software-for-The-Internet-of-Things/Nested Vector Interrupt Controller.md",
@@ -180,9 +183,6 @@
     "Logica-computazionale/Logica computazionale.md",
     "Linguaggi-formali-e-compilatori/Produzione unitaria.md",
     "Linguaggi-formali-e-compilatori/Produzione epsilon.md",
-    "Linguaggi-formali-e-compilatori/Simbolo.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio di programmazione.md",
-    "Linguaggi-formali-e-compilatori/Produzione.md",
     "signal.png",
     "Reti-logiche",
     "Excalidraw",
