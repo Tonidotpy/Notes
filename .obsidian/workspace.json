@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e17e57f72d6d57eb",
+        "id": "8a29038c57ba591a",
         "type": "tabs",
         "children": [
           {
-            "id": "116ede63017e7ffa",
+            "id": "21356672b71899cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Pumping lemma.md",
+                "file": "Embedded-Software-for-The-Internet-of-Things/Thumb-2 Instruction Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Set di istruzioni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Pumping lemma.md",
+                "file": "Embedded-Software-for-The-Internet-of-Things/Thumb-2 Instruction Set.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,36 +155,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "116ede63017e7ffa",
+  "active": "21356672b71899cb",
   "lastOpenFiles": [
-    "Linguaggi-formali-e-compilatori/Forma normale di Chomsky.md",
-    "Logica-computazionale/Logica computazionale.md",
-    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
+    "Embedded-Software-for-The-Internet-of-Things/Thumb Instruction Set.md",
+    "Embedded-Software-for-The-Internet-of-Things/Thumb-2 Instruction Set.md",
+    "Embedded-Software-for-The-Internet-of-Things/Cortex-M4.md",
+    "Embedded-Software-for-The-Internet-of-Things/Bit banding.md",
+    "Embedded-Software-for-The-Internet-of-Things/Program Status Register.md",
+    "Embedded-Software-for-The-Internet-of-Things/Link Register.md",
+    "Sistemi-operativi/Process Control Block.md",
+    "Embedded-Software-for-The-Internet-of-Things/Advanced High-performance Bus.md",
+    "Embedded-Software-for-The-Internet-of-Things/Programming model.md",
+    "Embedded-Software-for-The-Internet-of-Things/Advanced Peripheral Bus.md",
+    "Embedded-Software-for-The-Internet-of-Things/Nested Vector Interrupt Controller.md",
+    "Embedded-Software-for-The-Internet-of-Things/Wake up Controller.md",
+    "Embedded-Software-for-The-Internet-of-Things/Memory Protection Unit.md",
+    "Embedded-Software-for-The-Internet-of-Things/Architettura Harvard.md",
     "Linguaggi-formali-e-compilatori/Pumping lemma.md",
+    "Linguaggi-formali-e-compilatori/Derivazione.md",
+    "Linguaggi-formali-e-compilatori/Compilatore.md",
+    "Linguaggi-formali-e-compilatori/Forma normale di Chomsky.md",
+    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
+    "Embedded-Software-for-The-Internet-of-Things/Complex Instruction Set Computer.md",
+    "Logica-computazionale/Logica computazionale.md",
     "Linguaggi-formali-e-compilatori/Produzione unitaria.md",
     "Linguaggi-formali-e-compilatori/Produzione epsilon.md",
-    "Linguaggi-formali-e-compilatori/Derivazione.md",
     "Linguaggi-formali-e-compilatori/Simbolo.md",
     "Linguaggi-formali-e-compilatori/Linguaggio di programmazione.md",
     "Linguaggi-formali-e-compilatori/Produzione.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale causale.md",
-    "Analisi/Insiemi/Numeri complessi.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale aleatorio.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale deterministico.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale periodico.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Dominio.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale vettoriale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale scalare.md",
     "signal.png",
-    "Fondamenti-di-elaborazione-dei-segnali/Rumore.md",
     "Reti-logiche",
-    "Fisica/Termodinamica/Equazione di stato dei gas perfetti.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Sensore.md",
-    "Fisica/Termodinamica/Gas ideale.md",
-    "Fisica/Termodinamica/Teoria cinetica dei gas.md",
-    "Fisica/Meccanica/Lavoro.md",
     "Excalidraw",
     "Fondamenti-di-elaborazione-dei-segnali",
     "Embedded-Software-for-The-Internet-of-Things",
