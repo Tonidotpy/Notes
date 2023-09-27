@@ -9,7 +9,7 @@ Un **sistema fisico** indica la porzione dell'[[Universo|universo]] oggetto dell
 
 ---
 
-I sistemi vengono categorizzati in base alla possibilià o meno di scambiare [[Materia|materia]] oppure [[Energia|energia]]
+I sistemi vengono categorizzati in base alla possibilià o meno di scambiare [[Materia|materia]] oppure [[Energia di un segnale|energia]]
 | Sistema                      | Materia | Energia |
 | ---------------------------- | ------- | ------- |
 | [[Sistema isolato\|Isolato]] | x       | x       |

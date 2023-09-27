@@ -5,7 +5,7 @@
  Tags: [termodinamica]
 ---
 
-Per **irraggiamento** si intende il trasferimento di [[Energia|energia]] tra due [[Corpo|corpi]] per mezzo di [[Onda elettromagnetica|onde elettromagnetiche]]
+Per **irraggiamento** si intende il trasferimento di [[Energia di un segnale|energia]] tra due [[Corpo|corpi]] per mezzo di [[Onda elettromagnetica|onde elettromagnetiche]]
 
 ---
 

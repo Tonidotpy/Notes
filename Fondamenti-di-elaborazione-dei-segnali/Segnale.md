@@ -40,3 +40,22 @@ Esistono segnali:
 - [[Segnale aleatorio|Aleatori]]
 
 La percezione di un segnale avviene attraverso uno o più [[Sensore|sensori]]
+
+## Manipolazione dei segnali
+
+Dato un segnale $x(t)$ è possibile manipolarlo tramite alcune semplici operazioni matematiche:
+- [[Traslazione temporale]]
+- [[Riscalamento temporale]]
+- [[Fattore di guadagno]]
+- [[Derivazione e integrazione]]
+
+## Statistiche dei segnali
+
+Dato un segnale è possibile calcolarne dei valori statistici:
+- [[Valore medio di un segnale]]
+- [[Valore quadratico medio di un segnale]]
+- [[Varianza di un segnale]]
+- [[Autocorrelazione di un segnale]]
+- [[Cross-correlazione di un segnale]]
+- [[Energia di un segnale]]
+- [[Potenza media di un segnale]]

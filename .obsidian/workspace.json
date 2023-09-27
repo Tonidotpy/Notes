@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "081b19dfdb34e16a",
+        "id": "091e5261af2ce1a5",
         "type": "tabs",
         "children": [
           {
-            "id": "20e2ba1387817b30",
+            "id": "8dccb3b5cb2560a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded-Software-for-The-Internet-of-Things/Eseguibile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c68e284625f460cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded-Software-for-The-Internet-of-Things/Text segment.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "a0d320ed3b1a7571",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded-Software-for-The-Internet-of-Things/Text segment.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,34 +156,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c68e284625f460cc",
+  "active": "8dccb3b5cb2560a1",
   "lastOpenFiles": [
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Cross-correlazione di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale aleatorio.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Valore quadratico medio di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Varianza di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Potenza media di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Valore medio di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale causale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnali particolari.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Traslazione temporale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Derivazione e integrazione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Fattore di guadagno.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Riscalamento temporale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Rumore.md",
     "Embedded-Software-for-The-Internet-of-Things/Eseguibile.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Sensore.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale vettoriale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale periodico.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale deterministico.md",
     "Embedded-Software-for-The-Internet-of-Things/Text segment.md",
     "Embedded-Software-for-The-Internet-of-Things/Const segment.md",
     "Embedded-Software-for-The-Internet-of-Things/BSS segment.md",
     "Embedded-Software-for-The-Internet-of-Things/Data segment.md",
-    "Embedded-Software-for-The-Internet-of-Things/Nested Vector Interrupt Controller.md",
-    "Embedded-Software-for-The-Internet-of-Things/Program Status Register.md",
-    "Embedded-Software-for-The-Internet-of-Things/Programming model.md",
-    "Embedded-Software-for-The-Internet-of-Things/Vector Table.md",
-    "Embedded-Software-for-The-Internet-of-Things/Thumb-2 Instruction Set.md",
-    "Embedded-Software-for-The-Internet-of-Things/Interrupt.md",
-    "Embedded-Software-for-The-Internet-of-Things/Busy-Waiting.md",
-    "Embedded-Software-for-The-Internet-of-Things/Advanced High-performance Bus.md",
-    "Sistemi-operativi/Input Output.md",
-    "Embedded-Software-for-The-Internet-of-Things/Thumb Instruction Set.md",
-    "Embedded-Software-for-The-Internet-of-Things/Cortex-M4.md",
-    "Embedded-Software-for-The-Internet-of-Things/Bit banding.md",
-    "Embedded-Software-for-The-Internet-of-Things/Link Register.md",
-    "Sistemi-operativi/Process Control Block.md",
-    "Embedded-Software-for-The-Internet-of-Things/Advanced Peripheral Bus.md",
-    "Embedded-Software-for-The-Internet-of-Things/Wake up Controller.md",
-    "Embedded-Software-for-The-Internet-of-Things/Memory Protection Unit.md",
-    "Embedded-Software-for-The-Internet-of-Things/Architettura Harvard.md",
-    "Linguaggi-formali-e-compilatori/Pumping lemma.md",
-    "Linguaggi-formali-e-compilatori/Derivazione.md",
-    "Linguaggi-formali-e-compilatori/Compilatore.md",
     "signal.png",
     "Reti-logiche",
     "Excalidraw",

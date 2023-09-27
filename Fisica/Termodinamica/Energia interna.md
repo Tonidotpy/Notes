@@ -5,7 +5,7 @@
  Tags: [termodinamica]
 ---
 
-L'**energia interna** è l'[[Energia|energia]] posseduta da un [[Sistema fisico|sistema]] a livello **microscopico**, cioé l'energia posseduta dalle [[Particella|entità molecolari]] di cui è composto il sistema escludento i contributi macroscopici
+L'**energia interna** è l'[[Energia di un segnale|energia]] posseduta da un [[Sistema fisico|sistema]] a livello **microscopico**, cioé l'energia posseduta dalle [[Particella|entità molecolari]] di cui è composto il sistema escludento i contributi macroscopici
 
 ---
 

@@ -6,7 +6,7 @@
  Tags: [meccanica]
 ---
 
-Il **lavoro** è l'[[Energia|energia]] scambiata tra due [[Sistema di riferimento|sistemi]] quando avviene uno **spostamento** attraverso l'azione  di una [[Forza|forza]]
+Il **lavoro** è l'[[Energia di un segnale|energia]] scambiata tra due [[Sistema di riferimento|sistemi]] quando avviene uno **spostamento** attraverso l'azione  di una [[Forza|forza]]
 
 ---
 
