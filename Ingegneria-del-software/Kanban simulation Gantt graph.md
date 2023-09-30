@@ -7,6 +7,7 @@
 ---
 
 # Kanban simulation Gantt graph
+
 ```mermaid
 gantt
 	title Kanban simulation

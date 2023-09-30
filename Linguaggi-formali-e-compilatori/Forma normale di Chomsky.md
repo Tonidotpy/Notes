@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-22 09:03
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-22 09:03
+Author: Antonio Gelain
+aliases:
+  - CNF
+tags:
 ---
 
 La **forma normale di Chomsky** è tipo particolare di [[Grammatica libera|grammatica libera]] tale che:
