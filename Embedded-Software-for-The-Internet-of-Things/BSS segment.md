@@ -6,7 +6,7 @@ aliases:
 tags:
 ---
 
-Il **BSS segment** è una porzione di [[Memoria|memoria]] che contiene le [[Variabili|variabili]] non inizializzate oppure inizializzate a zero
+Il **BSS segment** è una porzione di [[Memoria|memoria]] che contiene le [[Variabile|variabili]] non inizializzate oppure inizializzate a zero
 
 ---
 
