@@ -24,3 +24,23 @@ $x + (y \cdot z) = (x + y) \cdot (x + z)$
 ### Complementazione
 $x + x' = 1$
 $x \cdot x' = 0$
+
+## Teoremi dell'algebra di Boole
+
+### Legge dell'elemento nullo
+$x + 1 = 1$
+$x \cdot 0 = 0$
+### Involuzione
+$(x')' = x$
+### Idempotenza
+$x + x = x$
+$x \cdot x = x$
+### Assorbimento
+$x + xy = x$
+$x(x + y) = x$
+### Semplificazione
+$x + x'y = x + y$
+$x(x' + y) = xy$
+### Adiacenza
+$xy + xy' = x$
+$(x + y)(x + y') = x$

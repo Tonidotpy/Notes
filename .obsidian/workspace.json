@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1fedf0eab57740",
+        "id": "73b83288bb6f3613",
         "type": "tabs",
         "children": [
           {
-            "id": "15c87f4e370301c8",
+            "id": "a0615667e985bad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reti-logiche/Algebra di Boole.md",
+                "file": "Reti-logiche/Implicante.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "a0d320ed3b1a7571",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reti-logiche/Algebra di Boole.md",
+                "file": "Reti-logiche/Implicante.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15c87f4e370301c8",
+  "active": "a0615667e985bad0",
   "lastOpenFiles": [
+    "Reti-logiche/Espressione canonica.md",
+    "Reti-logiche/Leggi di De Morgan.md",
+    "Reti-logiche/Algebra di Boole.md",
+    "Reti-logiche/Implicante.md",
+    "Reti-logiche/Mappa di Karnaugh.md",
+    "Reti-logiche/Teorema di espansione di Shannon.md",
     "Reti-logiche/Circuito.md",
     "Probabilità/Successione di variabili aleatorie.md",
     "Probabilità/Convergenza in probabilità.md",
@@ -167,7 +174,6 @@
     "Sistemi-operativi/Multithreading/Monitor.md",
     "Embedded-Software-for-The-Internet-of-Things/BSS segment.md",
     "Embedded-Software-for-The-Internet-of-Things/Data segment.md",
-    "Reti-logiche/Algebra di Boole.md",
     "Reti-logiche/Circuito combinatorio.md",
     "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
     "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
@@ -178,11 +184,6 @@
     "Reti-logiche/Congiunzione logica.md",
     "Reti-logiche/Disgiunzione inclusiva.md",
     "Reti-logiche/Negazione logica.md",
-    "Linguaggi-formali-e-compilatori/Grammatica regolare.md",
-    "Linguaggi-formali-e-compilatori/Pumping lemma.md",
-    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
-    "Linguaggi-formali-e-compilatori/Forma normale di Chomsky.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio.md",
     "signal.png",
     "Reti-logiche",
     "Excalidraw",
