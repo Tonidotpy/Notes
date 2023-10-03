@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f3d86e4839989896",
+        "id": "c45088c56d993d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "7162e0264a9456ec",
+            "id": "d8b2d54aaaa026de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+                "file": "Reti-logiche/Circuito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43fe09003b46c154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reti-logiche/Multiplexer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c2357ac7b8b6ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reti-logiche/Decoder.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+                "file": "Reti-logiche/Decoder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7162e0264a9456ec",
+  "active": "8c2357ac7b8b6ebe",
   "lastOpenFiles": [
+    "Reti-logiche/Multiplexer.md",
+    "Reti-logiche/Decoder.md",
+    "Reti-logiche/Circuito.md",
+    "Embedded-Software-for-The-Internet-of-Things/Interrupt.md",
+    "Embedded-Software-for-The-Internet-of-Things/Busy-Waiting.md",
+    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
     "Reti-logiche/Implicante.md",
     "Reti-logiche/Espressione canonica.md",
     "Reti-logiche/Leggi di De Morgan.md",
     "Reti-logiche/Algebra di Boole.md",
     "Reti-logiche/Mappa di Karnaugh.md",
     "Reti-logiche/Teorema di espansione di Shannon.md",
-    "Reti-logiche/Circuito.md",
     "Probabilità/Successione di variabili aleatorie.md",
     "Probabilità/Convergenza in probabilità.md",
     "Probabilità/Legge debole dei grandi numeri.md",
@@ -176,14 +206,9 @@
     "Embedded-Software-for-The-Internet-of-Things/Data segment.md",
     "Reti-logiche/Circuito combinatorio.md",
     "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
-    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
     "Linguaggi-formali-e-compilatori/Automa a Stati Finiti.md",
     "Reti-logiche/Funzione logica.md",
     "Reti-logiche/Operatore logico.md",
-    "Reti-logiche/Disgiunzione esclusiva.md",
-    "Reti-logiche/Congiunzione logica.md",
-    "Reti-logiche/Disgiunzione inclusiva.md",
-    "Reti-logiche/Negazione logica.md",
     "signal.png",
     "Reti-logiche",
     "Excalidraw",

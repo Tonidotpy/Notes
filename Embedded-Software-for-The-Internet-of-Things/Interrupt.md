@@ -10,3 +10,7 @@ Un **interrupt** è un evento che notifica la [[Central Process Unit|CPU]] quand
 ---
 
 Una volta ricevuta una richiesta di interrupt la CPU blocca l'esecuzione del codice corrente ed esegue il cosiddetto **interrupt handler** ossia una [[Funzione|funzione]] che permette di gestire la richiesta di interrupt
+
+Dato che spesso accade che più dispositivi facciano partire un interrupt vi si può assegnare una **priorità** e si può specificare al dispositivo un suo gestore di interrupt
+
+Per gestire tutti i vari interrupt viene utilizzato un [[Programmable Interrupt Controller|PIC]] che si interfaccia tra i dispositivi e la CPU
