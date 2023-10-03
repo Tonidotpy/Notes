@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73b83288bb6f3613",
+        "id": "f3d86e4839989896",
         "type": "tabs",
         "children": [
           {
-            "id": "a0615667e985bad0",
+            "id": "7162e0264a9456ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reti-logiche/Implicante.md",
+                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reti-logiche/Implicante.md",
+                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0615667e985bad0",
+  "active": "7162e0264a9456ec",
   "lastOpenFiles": [
+    "Reti-logiche/Implicante.md",
     "Reti-logiche/Espressione canonica.md",
     "Reti-logiche/Leggi di De Morgan.md",
     "Reti-logiche/Algebra di Boole.md",
-    "Reti-logiche/Implicante.md",
     "Reti-logiche/Mappa di Karnaugh.md",
     "Reti-logiche/Teorema di espansione di Shannon.md",
     "Reti-logiche/Circuito.md",
