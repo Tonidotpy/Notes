@@ -6,7 +6,7 @@ aliases:
 tags:
 ---
 
-Un **sistema lineare tempo-invarianti** (o *sistema LTI*) è particolare [[Sistema di elaborazione di segnali|sistema]] che godi di due proprietà:
+Un **sistema lineare tempo-invarianti** (o *sistema LTI*) è particolare [[Sistema di elaborazione di segnali|sistema]] che gode di due proprietà:
 1. **Linearità**
 2. **Tempo-invarianza**
 
