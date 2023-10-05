@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8725148823c6290c",
+        "id": "9bfd1db21f857b1a",
         "type": "tabs",
         "children": [
           {
-            "id": "faf5b462d7fbf1f2",
+            "id": "60f5bb7f1fabad21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
+                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00a86748e3320445",
+            "id": "19f42571960afde5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Frequenza di un segnale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d486d3ff602b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50e01ae692e2d5b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Funzione sinc.md",
+                "file": "Linguaggi-formali-e-compilatori/Epsilon chiusura.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Funzione sinc.md",
+                "file": "Linguaggi-formali-e-compilatori/Epsilon chiusura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,13 +169,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50e01ae692e2d5b5",
+  "active": "19f42571960afde5",
   "lastOpenFiles": [
+    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+    "Linguaggi-formali-e-compilatori/Epsilon chiusura.md",
+    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
+    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
+    "Linguaggi-formali-e-compilatori/Grammatica regolare.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Frequenza di un segnale.md",
     "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
     "Fondamenti-di-elaborazione-dei-segnali/Funzione sinc.md",
     "Fondamenti-di-elaborazione-dei-segnali/Spettro di un segnale periodico.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Frequenza di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
     "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invarianti.md",
     "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
     "Fondamenti-di-elaborazione-dei-segnali/Funzione generalizzata.md",
@@ -209,7 +190,6 @@
     "Reti-logiche/Decoder.md",
     "Embedded-Software-for-The-Internet-of-Things/Interrupt.md",
     "Embedded-Software-for-The-Internet-of-Things/Busy-Waiting.md",
-    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
     "Reti-logiche/Implicante.md",
     "Reti-logiche/Espressione canonica.md",
     "Reti-logiche/Leggi di De Morgan.md",
@@ -217,10 +197,6 @@
     "Reti-logiche/Mappa di Karnaugh.md",
     "Reti-logiche/Teorema di espansione di Shannon.md",
     "Probabilità/Successione di variabili aleatorie.md",
-    "Probabilità/Convergenza in probabilità.md",
-    "Probabilità/Legge debole dei grandi numeri.md",
-    "Probabilità/Convergenza in distribuzione.md",
-    "Probabilità/Teorema centrale del limite.md",
     "signal.png",
     "Reti-logiche",
     "Excalidraw",
