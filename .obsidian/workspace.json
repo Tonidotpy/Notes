@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfd1db21f857b1a",
+        "id": "cefc61d0813df10e",
         "type": "tabs",
         "children": [
           {
-            "id": "60f5bb7f1fabad21",
+            "id": "b9040efed233efb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19f42571960afde5",
+            "id": "d732163aca992e87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Epsilon chiusura.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "monoton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Epsilon chiusura.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,16 +169,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19f42571960afde5",
+  "active": "d732163aca992e87",
   "lastOpenFiles": [
-    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Parseval.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Fenomeno di Gibbs.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Banda larga.md",
+    "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
+    "Analisi/Funzioni/Funzioni.md",
     "Linguaggi-formali-e-compilatori/Epsilon chiusura.md",
+    "Fondamenti-matematici-per-informatica/Grafi.md",
+    "Embedded-Software-for-The-Internet-of-Things/Thumb Instruction Set.md",
+    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
     "Linguaggi-formali-e-compilatori/Grammatica libera.md",
     "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
     "Linguaggi-formali-e-compilatori/Grammatica regolare.md",
     "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
     "Fondamenti-di-elaborazione-dei-segnali/Frequenza di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
     "Fondamenti-di-elaborazione-dei-segnali/Funzione sinc.md",
     "Fondamenti-di-elaborazione-dei-segnali/Spettro di un segnale periodico.md",
     "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invarianti.md",
@@ -189,14 +197,6 @@
     "Reti-logiche/Multiplexer.md",
     "Reti-logiche/Decoder.md",
     "Embedded-Software-for-The-Internet-of-Things/Interrupt.md",
-    "Embedded-Software-for-The-Internet-of-Things/Busy-Waiting.md",
-    "Reti-logiche/Implicante.md",
-    "Reti-logiche/Espressione canonica.md",
-    "Reti-logiche/Leggi di De Morgan.md",
-    "Reti-logiche/Algebra di Boole.md",
-    "Reti-logiche/Mappa di Karnaugh.md",
-    "Reti-logiche/Teorema di espansione di Shannon.md",
-    "Probabilità/Successione di variabili aleatorie.md",
     "signal.png",
     "Reti-logiche",
     "Excalidraw",
