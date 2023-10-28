@@ -19,7 +19,7 @@ I **numeri interi relativi**, indicati col simbolo $\mathbb{Z}$, corrispondono a
 ###### Caratteristiche
 
 - L'**insieme Z** è un insieme [[Infiniti|infinito]];
-- L'**insieme Z** è un [[Sottoinsiemi|sottoinsieme proprio]] dell'[[Numeri razionali|insieme Q]] che a sua volta è [[Sottoinsiemi|sottoinsieme]] dell'[[Numeri reali|insieme R]]: $\mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$;
+- L'**insieme Z** è un [[Sottoinsieme|sottoinsieme proprio]] dell'[[Numeri razionali|insieme Q]] che a sua volta è [[Sottoinsieme|sottoinsieme]] dell'[[Numeri reali|insieme R]]: $\mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$;
 - L'**insieme Z** è un insieme ordinato, cioè dato un numero intero è sempre possibile stabilire se è [[Maggioranza|maggiore]], [[Minoranza|minore]] o [[Uguaglianza|uguale]] di un altro numero intero;
 - [[Addizione]], [[Moltiplicazione|moltiplicazione]] e [[Sottrazione|sottrazione]] sono operazioni interne all'**insieme Z**, ossia la somma, il prodotto e la differenza tra due numeri interi è un numero intero;
 - La [[Divisione|divisione]] non è un operazione interna all'**insieme Z**, ossia il rapporto tra due numeri interi *non è necessariamente* un numero intero;

@@ -30,4 +30,4 @@ Chiamiamo **prodotto cartesiano** tra gli insiemi $A$ e $B$ l'insieme che ha per
 ---
 
 - Il **prodotto cartesiano** di un insieme qualsiasi e l'[[Insieme vuoto|insieme vuoto]] è l'[[Insieme vuoto|insieme vuoto]]: $A \times \emptyset = \emptyset,\ \emptyset \times A = \emptyset$;
-- Se $A$ è un insieme di [[Insiemi#Simboli|cardinalità]] $n$ e $B$ è un insieme di [[Insiemi#Simboli|cardinalità]] $m$ allora la [[Insiemi#Simboli|cardinalità]] del loro **prodotto cartesiano** è $n \times m$: $|A| = n,\ |B| = m \Rightarrow |A \times B| = n \times m$;
+- Se $A$ è un insieme di [[Analisi/Insiemi/Insieme#Simboli|cardinalità]] $n$ e $B$ è un insieme di [[Analisi/Insiemi/Insieme#Simboli|cardinalità]] $m$ allora la [[Analisi/Insiemi/Insieme#Simboli|cardinalità]] del loro **prodotto cartesiano** è $n \times m$: $|A| = n,\ |B| = m \Rightarrow |A \times B| = n \times m$;

@@ -21,9 +21,9 @@ Nella **teoria degli insiemi** si indica un **insieme vuoto** quel particolare i
 
 ###### Proprietà
 
-- L'insieme vuoto è [[Sottoinsiemi|sottoinsieme]] di ogni insieme $A$: $\forall A\ |\ A \supseteq \emptyset$;
+- L'insieme vuoto è [[Sottoinsieme|sottoinsieme]] di ogni insieme $A$: $\forall A\ |\ A \supseteq \emptyset$;
 - L'[[Unione|unione]] di un qualunque insieme $A$ con l'insieme vuoto è $A$: $\forall A\ |\ A \cup \emptyset = A$;
 - L'[[Intersezione|intersezione]] di un qualunque insieme $A$ con l'insieme vuoto è l'insieme vuoto: $\forall A\ |\ A \cap \emptyset = \emptyset$;
 - Il [[Prodotto cartesiano|prodotto cartesiano]] di un qualunque insieme $A$ con l'insieme vuoto è l'insieme vuoto: $\forall A\ |\ A \times \emptyset = \emptyset$;
-- L'unico [[Sottoinsiemi|sottoinsieme]] dell'insieme vuoto è l'insieme vuoto stesso: $\forall A\ |\ A \subseteq \emptyset \Rightarrow A = \emptyset$;
-- La [[Insiemi#Simboli|cardinalità]] dell'insieme vuoto è $0$: $|\emptyset| = 0$
+- L'unico [[Sottoinsieme|sottoinsieme]] dell'insieme vuoto è l'insieme vuoto stesso: $\forall A\ |\ A \subseteq \emptyset \Rightarrow A = \emptyset$;
+- La [[Analisi/Insiemi/Insieme#Simboli|cardinalità]] dell'insieme vuoto è $0$: $|\emptyset| = 0$

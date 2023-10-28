@@ -10,7 +10,7 @@
 
 ###### Definizione
 
-Dato un **insieme** $A \subseteq E$ [[Sottoinsiemi|sottoinsieme]] di un [[Insieme universo|insieme universo]] $E$, si definisce **insieme complementare** di $A$ l'insieme degli elementi di $E$ che **non** appartengono ad $A$.
+Dato un **insieme** $A \subseteq E$ [[Sottoinsieme|sottoinsieme]] di un [[Insieme universo|insieme universo]] $E$, si definisce **insieme complementare** di $A$ l'insieme degli elementi di $E$ che **non** appartengono ad $A$.
 
 > $$A^C := \{x \in E\ |\ x \notin A\}$$
 

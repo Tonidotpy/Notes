@@ -10,7 +10,7 @@
 
 ###### Definizione
 
-Il **limite di una funzione**^[I limiti vengono generalmente studiati nell'[[Infiniti#Caratteristiche|insieme dei reali estesi]]] è un'operazione, o meglio un operatore, che permette di studiare il comportamento di una [[Analisi/Funzioni/Funzioni|funzione]] nell'[[Intorni|intorno di un punto]].
+Il **limite di una funzione**^[I limiti vengono generalmente studiati nell'[[Infiniti#Caratteristiche|insieme dei reali estesi]]] è un'operazione, o meglio un operatore, che permette di studiare il comportamento di una [[Funzione|funzione]] nell'[[Intorni|intorno di un punto]].
 
 > $$\lim_{x \to x_0}f(x) = l \in \overline{\mathbb{R}}\ \ \ \ x_0 \in \overline{\mathbb{R}}$$
 

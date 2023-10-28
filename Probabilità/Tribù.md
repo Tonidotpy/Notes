@@ -15,7 +15,7 @@
 
 ---
 
-- Considerata una *famiglia* $F$ di [[Sottoinsiemi|sottoinsiemi]] di $\Omega$ chiamiamo $A_F$ la **tribù generata** da $F$.
+- Considerata una *famiglia* $F$ di [[Sottoinsieme|sottoinsiemi]] di $\Omega$ chiamiamo $A_F$ la **tribù generata** da $F$.
   $$A_F = \cap \{ A\ |\ A \text{ è una tribù e } F \subseteq A \}$$
 
 ##### Teorema

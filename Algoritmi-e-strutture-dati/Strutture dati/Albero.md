@@ -6,7 +6,7 @@
  Tags: [data_structure]
 ---
 
-Un **albero** è una [[Struttura di dati|struttura dati]] formata da un [[Insieme|insieme]] finito di **nodi** e un insieme di [[Coppia|coppie]] di nodi chiamati **vertici** tali che:
+Un **albero** è una [[Struttura di dati|struttura dati]] formata da un [[Algoritmi-e-strutture-dati/Strutture dati/Insieme|insieme]] finito di **nodi** e un insieme di [[Coppia|coppie]] di nodi chiamati **vertici** tali che:
 - Esiste un nodo designato come nodo **radice**
 - Ogni nodo, esclusa la radice, ha esattamente un **arco entrante**
 - Esiste un [[Cammino|cammino]] **unico** dalla radice ad ogni nodo

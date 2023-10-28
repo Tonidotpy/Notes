@@ -13,7 +13,7 @@ Le condizioni necessarie per cui si verifichi un deadlock sono:
 - La **mutua esclusione**: almeno una risorsa deve essere non condivisibile
 - **Hold and wait**: deve esistere un processo che detiene una risorsa e che attende di acquisirne un'altra
 - Nessuna [[Prelazione|prelazione]]: le risorse non possono essere rilasciate se non *volontariamente* dal processo che le usa
-- **Attesa circolare**: deve esistere un [[Insiemi|insieme]] di processi che attendono **ciclicamente** il liberarsi della risorsa
+- **Attesa circolare**: deve esistere un [[Analisi/Insiemi/Insieme|insieme]] di processi che attendono **ciclicamente** il liberarsi della risorsa
 Per far si che il deadlock si verifichi tutte le precedenti condizioni devono verificarsi **contemporaneamente**
 
 Un modello utile per capire se possono verificarsi dei deadlock è il [[Resource Allocation Graph|RAG]]

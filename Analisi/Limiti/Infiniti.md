@@ -11,7 +11,7 @@
 ###### Definizione
 
 L'**infinito** è un concetto matematico che esprime una grandezza **illimitatamente grande**.
-Nella [[Insiemi|teoria degli insiemi]] un insieme $A$ si dice **infinito** se ogni suo [[Insiemi numerabili|sottoinsieme finito]] è un [[Sottoinsiemi|sottoinsieme proprio]].
+Nella [[Analisi/Insiemi/Insieme|teoria degli insiemi]] un insieme $A$ si dice **infinito** se ogni suo [[Insiemi numerabili|sottoinsieme finito]] è un [[Sottoinsieme|sottoinsieme proprio]].
 
 > $$\infty$$
 

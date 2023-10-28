@@ -10,7 +10,7 @@
 
 ###### Definizione
 
-Siano due insiemi $A$ e $B$ [[Sottoinsiemi|sottoinsiemi]] dell'[[Numeri reali|insieme R]] non [[Insieme vuoto|nulli]], l'**assioma di continuità** dice che esiste **almeno un elemento** $c \in \mathbb{R}$ tale che $c$ è maggiore di ogni elemento di $A$ e minore di ogni elemento di $B$.
+Siano due insiemi $A$ e $B$ [[Sottoinsieme|sottoinsiemi]] dell'[[Numeri reali|insieme R]] non [[Insieme vuoto|nulli]], l'**assioma di continuità** dice che esiste **almeno un elemento** $c \in \mathbb{R}$ tale che $c$ è maggiore di ogni elemento di $A$ e minore di ogni elemento di $B$.
 
 > $$A, B \subseteq \mathbb{R}\ |\ A, B \ne 0 \land a \le b\ \ \ \ \forall a \in A, \forall b \in B$$
 > $$\exists c \in \mathbb{R}\ |\ a \le c \le b\ \ \ \ \forall a \in A, \forall b \in B$$

@@ -5,7 +5,7 @@
  Tags: []
 ---
 
-Un **vocabolario** è un [[Insiemi|insieme]] di [[Simbolo|simboli]] che definiscono la [[Grammatica generativa|grammatica]]
+Un **vocabolario** è un [[Analisi/Insiemi/Insieme|insieme]] di [[Simbolo|simboli]] che definiscono la [[Grammatica generativa|grammatica]]
 
 ---
 

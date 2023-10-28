@@ -10,7 +10,7 @@ Una **grammatica generativa** è un tipo di grammatica utilizzata per generare [
 
 Una grammatica è definita da:
  1. Un [[Vocabolario|vocabolario]]
- 2. Un [[Insiemi|set]] di [[Simbolo|simboli]]
+ 2. Un [[Analisi/Insiemi/Insieme|set]] di [[Simbolo|simboli]]
  3. Un insieme di [[Produzione|produzioni]] (o *regole*)
 
 Per derivare un linguaggio da una grammatica generativa dobbiamo applicare delle [[Derivazione|derivazioni]]

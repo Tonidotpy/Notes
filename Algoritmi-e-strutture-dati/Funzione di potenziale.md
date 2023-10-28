@@ -6,7 +6,7 @@
  Tags: []
 ---
 
-Una **funzione di potenziale** è una [[Analisi/Funzioni/Funzioni|funzione]] $\Phi$ che associa uno **stato** $S$ la *quantità di lavoro* $\Phi(S)$ che è stato contabilizzato nell'[[Analisi ammortizzata|analisi ammortizzata]], ma non ancora eseguito
+Una **funzione di potenziale** è una [[Funzione|funzione]] $\Phi$ che associa uno **stato** $S$ la *quantità di lavoro* $\Phi(S)$ che è stato contabilizzato nell'[[Analisi ammortizzata|analisi ammortizzata]], ma non ancora eseguito
 
 ---
 

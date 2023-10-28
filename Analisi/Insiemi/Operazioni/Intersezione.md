@@ -32,4 +32,4 @@ Definiamo l'**intersezione** tra gli insiemi $A$ e $B$ come l'insieme degli elem
 - L'**intersezione** di un insieme $A \subseteq E$ con un suo qualsiasi [[Insieme universo|insieme universo]] è uguale all'insieme stesso: $A \cap E = A$;
 - L'**intersezione** di un insieme con se stesso è l'insieme stesso: $A \cap A = A$;
 - Se due insiemi $A,\ B \subseteq E$ non hanno elementi in comune hanno un'**intersezione vuota** e vengono chiamati **insiemi disgiunti**: $A \cap B = \emptyset$;
-- L'**intersezione** di due insiemi qualsiasi è un [[Sottoinsiemi|sottoinseme]] di entrambi gli insiemi: $A \cap B \subseteq A,\ A \cap B \subseteq B$;
+- L'**intersezione** di due insiemi qualsiasi è un [[Sottoinsieme|sottoinseme]] di entrambi gli insiemi: $A \cap B \subseteq A,\ A \cap B \subseteq B$;

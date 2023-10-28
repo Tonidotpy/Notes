@@ -7,7 +7,7 @@
 ---
 
 # Ordinamento dei numeri naturali
-Sia $X$ un [[Insiemi|insieme]] non vuoto e sia $R$ una relazione binaria se $X$ (cioé $R \subset X \times X$).
+Sia $X$ un [[Analisi/Insiemi/Insieme|insieme]] non vuoto e sia $R$ una relazione binaria se $X$ (cioé $R \subset X \times X$).
 Si dice che $R$ è un **ordinamento parziale** di $X$ se:
 1. $x R x\ \forall x \in X$ (**proprietà riflessiva**);
 2. $(x R y)$ e $(y R x) \Rightarrow x = y$ (**proprietà antisimmetrica**);

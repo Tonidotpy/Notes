@@ -7,7 +7,7 @@
 ---
 
 # Cardinalità
-Questa costruzione associa ad ogni [[Insiemi|insieme]] $X$ un [[Insiemi|insieme]] $|X|$, detto **insieme cardinale** di $X$ in modo che:
+Questa costruzione associa ad ogni [[Analisi/Insiemi/Insieme|insieme]] $X$ un [[Analisi/Insiemi/Insieme|insieme]] $|X|$, detto **insieme cardinale** di $X$ in modo che:
 - $X \textasciitilde |X|$;
 - due insiemi coordinati distinti **NON** sono [[Insiemi equipotenti|equipotenti]].
 

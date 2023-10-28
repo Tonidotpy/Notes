@@ -1,12 +1,14 @@
 ---
- Created: 2021-10-14 00:08
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: []
- Tags: [matematica,analisi,insiemi]
+Created: 2021-10-14 00:08
+Author: Antonio Gelain
+aliases: 
+tags:
+  - matematica
+  - analisi
+  - insiemi
 ---
 
-# Insiemi
+# Insieme
 
 ###### Definizione
 
@@ -53,8 +55,8 @@ mentre per i loro **elementi** si utilizzano quelle minuscole $a, b, c, ...$.
 |:------------------:|:------------------------------:|:---------------------------------------------------------------------------------------------------------- |
 |       $\cup$       |             Unione             | Indica l'[[Unione\|unione]] tra insiemi                                                                    |
 |       $\cap$       |          Intersezione          | Denota l'[[Intersezione\|intersezione]] tra insiemi                                                        |
-|     $\subset$      |    Sottoinsieme proprio di     | Specifica che un insieme è un [[Sottoinsiemi\|sottoinsiemi]] proprio di un altro insieme                   |
-|    $\subseteq$     |        Sottoinsieme di         | Indica che un insieme è [[Sottoinsiemi\|sottoinsieme]] di un altro e che potrebbe eventualmente coincidere |
+|     $\subset$      |    Sottoinsieme proprio di     | Specifica che un insieme è un [[Sottoinsieme|sottoinsiemi]] proprio di un altro insieme                   |
+|    $\subseteq$     |        Sottoinsieme di         | Indica che un insieme è [[Sottoinsieme|sottoinsieme]] di un altro e che potrebbe eventualmente coincidere |
 |     $\supset$      |            Contiene            | Specifica che un insieme ne contiene un altro                                                              |
 |    $\supseteq$     |    Contiene impropriamente     | Specifica che un insieme ne contiene un altro e che potrebbe eventualmente coincidere                      |
 | $\backslash$ o $-$ |              Meno              | Denota la [[Differenza insiemistica\|differenza]] tra insiemi                                              |

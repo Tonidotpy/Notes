@@ -10,7 +10,7 @@
 
 ###### Definizione
 
-Chiamiamo **insieme universo**, o **insieme ambiente**, di un insieme $A$ un qualsiasi insieme che contiene $A$ come [[Sottoinsiemi|sottoinsieme proprio o improprio]].
+Chiamiamo **insieme universo**, o **insieme ambiente**, di un insieme $A$ un qualsiasi insieme che contiene $A$ come [[Sottoinsieme|sottoinsieme proprio o improprio]].
 
 > $$U \text{ insieme universo di } A \iff A \subseteq U$$
 

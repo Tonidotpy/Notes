@@ -10,7 +10,7 @@ Un **resource allocation graph** (in breve *RAG*) è un modello astratto per la 
 ---
 
 RAG è un [[Grafo|grafo]] $G(V,E)$ dove:
-- L'[[Insiemi|insieme]] di **nodi** $V$ rappresenta i [[Processo|processi]] (indicati come cerchi) e le **risorse** (indicate come **quadrati**)
+- L'[[Analisi/Insiemi/Insieme|insieme]] di **nodi** $V$ rappresenta i [[Processo|processi]] (indicati come cerchi) e le **risorse** (indicate come **quadrati**)
 - L'insieme di **archi** $E$ da processo a risorsa rappresenta la richiesta della risorsa da parte di quel processo, mentre da risorsa a processo indica che tale risorsa è detenuta da quel processo
 
 Se il RAG non contiene [[Ciclo|cicli]], non ci sono **deadlock**, altrimenti:

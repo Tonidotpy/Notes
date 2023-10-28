@@ -18,7 +18,7 @@
 1. $0 \in \mathbb{N}$ - esistenza di un elemento $0$;
 2. $\exists$ una funzione successivo: $\mathbb{N} \mapsto \mathbb{N}$ è [[Iniettività|iniettiva]];
 3. $succ(\mathbb{N}) \subseteq \mathbb{N} \backslash \{ 0 \}$ ovvero $\forall n \in \mathbb{N}, succ(n) \neq 0$;
-4. Sia $A$ un [[Sottoinsiemi|sottoinsieme]] di $\mathbb{N}$.
+4. Sia $A$ un [[Sottoinsieme|sottoinsieme]] di $\mathbb{N}$.
   Supponiamo che:
 	1. $0 \in A$ (**base dell'induzione**)
 	2. $\forall n \in \mathbb{N}$ ($n \in A \Rightarrow succ(n) \in A$) ovvero se $n \in A$ allora anche $succ(n) \in A$, allora $A = N$ (**passo induttivo**).

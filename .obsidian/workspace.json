@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2e633cd7ec45fae1",
+        "id": "70e5f5522ec6da67",
         "type": "tabs",
         "children": [
           {
-            "id": "640d4c7be3f685ab",
+            "id": "d35041177d79b50f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica-computazionale/Modello.md",
+                "file": "Analisi/Funzioni/Funzione.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ea504aeca603920",
+            "id": "b7f8aabf57237d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica-computazionale/Asserzione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e0b5b33409f578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logica-computazionale/Teoria asserzionale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0215e85bb6c509f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logica-computazionale/Funzione di interpretazione.md",
+                "file": "Analisi/Funzioni/Funzione inversa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logica-computazionale/Funzione di interpretazione.md",
+                "file": "Analisi/Funzioni/Funzione inversa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,12 +168,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0215e85bb6c509f6",
+  "active": "b7f8aabf57237d31",
   "lastOpenFiles": [
-    "Logica-computazionale/Teoria asserzionale.md",
-    "Logica-computazionale/Funzione di interpretazione.md",
+    "Analisi/Funzioni/Funzione.md",
+    "Analisi/Funzioni/Funzione inversa.md",
+    "Analisi/Insiemi/Relazione di equivalenza.md",
+    "Analisi/Insiemi/Relazione.md",
+    "Analisi/Insiemi/Relazione parallela.md",
+    "Analisi/Insiemi/Classe di equivalenza.md",
+    "Analisi/Insiemi/Insieme quoziente.md",
+    "Analisi/Insiemi/Partizione di un insieme.md",
+    "Analisi/Insiemi/Insieme delle parti.md",
+    "Analisi/Insiemi/Operazioni/Prodotto cartesiano.md",
+    "Analisi/Insiemi/Sottoinsieme.md",
+    "Analisi/Insiemi/Insieme.md",
     "Logica-computazionale/Asserzione.md",
+    "Templates/Header.md",
+    "Logica-computazionale/Funzione di interpretazione.md",
+    "Logica-computazionale/Sinonimia.md",
     "Logica-computazionale/Modello.md",
+    "Logica-computazionale/Teoria asserzionale.md",
+    "Logica-computazionale/Polisemia.md",
     "Logica-computazionale/Fallacie informale.md",
     "Logica-computazionale/Rappresentazione mentale.md",
     "Programmazione-funzionale/Fatto.md",
@@ -205,22 +196,7 @@
     "Logica-computazionale/Fallacia.md",
     "Logica-computazionale/Fallacie formale.md",
     "Logica-computazionale/Illusione ottica.md",
-    "Logica-computazionale/Stato d'animo.md",
-    "Logica-computazionale/Logica computazionale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
-    "Excalidraw/Drawing 2023-10-12 09.37.39.excalidraw.md",
     "Excalidraw",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Potenza media di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Parseval.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Fenomeno di Gibbs.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Banda larga.md",
-    "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
-    "Analisi/Funzioni/Funzioni.md",
-    "Linguaggi-formali-e-compilatori/Epsilon chiusura.md",
-    "Fondamenti-matematici-per-informatica/Grafi.md",
     "signal.png",
     "Reti-logiche",
     "Fondamenti-di-elaborazione-dei-segnali",

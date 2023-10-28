@@ -5,7 +5,7 @@
  Tags: []
 ---
 
-Un **modello** è un [[Insieme|insieme]] di [[Fatto|fatti]]
+Un **modello** è un [[Algoritmi-e-strutture-dati/Strutture dati/Insieme|insieme]] di [[Fatto|fatti]]
 $$M = \{ f \}$$
 
 ---

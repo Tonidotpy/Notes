@@ -17,7 +17,7 @@ L'**insieme I dei numeri irrazionali** è l'insieme di tutti quei numeri decimal
 ###### Caratteristiche
 
 - L'**insieme I** è un insieme [[Infiniti|infinito]];
-- L'**insieme I** è un [[Sottoinsiemi|sottoinsieme proprio]] dell'[[Numeri reali|insieme R]]: $\mathbb{I} \subset \mathbb{R}$;
+- L'**insieme I** è un [[Sottoinsieme|sottoinsieme proprio]] dell'[[Numeri reali|insieme R]]: $\mathbb{I} \subset \mathbb{R}$;
 - L'**insieme I** è un insieme ordinato, cioè dato un numero irrazionale è sempre possibile stabilire se è [[Maggioranza|maggiore]], [[Minoranza|minore]] o [[Uguaglianza|uguale]] di un altro numero irrazionale;
 
 ###### Proprietà

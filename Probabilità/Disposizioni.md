@@ -8,7 +8,7 @@
 
 # Disposizioni
 
-Dato un [[Insiemi|insieme]] $S = \{ a_1, a_2, ..., a_n \}$ di $n$ oggetti distinti il numero di allineamenti che si possono trovare con $r$ oggetti scelti tra gli $n$ oggetti ritenendo diversi due **allineamenti** o perché:
+Dato un [[Analisi/Insiemi/Insieme|insieme]] $S = \{ a_1, a_2, ..., a_n \}$ di $n$ oggetti distinti il numero di allineamenti che si possono trovare con $r$ oggetti scelti tra gli $n$ oggetti ritenendo diversi due **allineamenti** o perché:
 - contengono oggetti diversi;
 - gli stessi oggetti appaiono in ordine diverso;
 - ogni elemento compare **al più** una volta sola.
@@ -19,7 +19,7 @@ $$D_{n,k} = \frac{n!}{(n-k)!}$$
 
 ### Disposizioni con ripetizione
 $$\#\Omega_r = n_1 \cdot n_2 \cdot ... \cdot n_r = \prod_{i=1} n_i^r\ \ \ \ \#S = r$$
-Dato un [[Insiemi|insieme]] $S = \{ a_1, a_2, ..., a_n \}$ di $n$ oggetti distinti il numero di allineamenti che si possono trovare con $r$ oggetti scelti tra gli $n$ oggetti ritenendo diversi due **allineamenti** o perché:
+Dato un [[Analisi/Insiemi/Insieme|insieme]] $S = \{ a_1, a_2, ..., a_n \}$ di $n$ oggetti distinti il numero di allineamenti che si possono trovare con $r$ oggetti scelti tra gli $n$ oggetti ritenendo diversi due **allineamenti** o perché:
 - contengono oggetti diversi;
 - gli stessi oggetti appaiono in ordine diverso;
 - uno stesso oggetto si ripete un numero diverso di volte.

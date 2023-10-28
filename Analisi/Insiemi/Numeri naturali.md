@@ -21,7 +21,7 @@ L'**insieme N dei numeri naturali** contiene tutti i [[Numeri interi relativi|nu
 ###### Caratteristiche
 
 - L'**insieme N** è un insieme [[Infiniti|infinito]];
-- L'**insieme N** è un [[Sottoinsiemi|sottoinsieme proprio]] dell'[[Numeri interi relativi|insieme Z]] che a sua volta è un [[Sottoinsiemi|sottoinsieme]] dell'[[Numeri razionali|insieme Q]] il quale è [[Sottoinsiemi|sottoinsieme]] dell'[[Numeri reali|insieme R]]: $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$;
+- L'**insieme N** è un [[Sottoinsieme|sottoinsieme proprio]] dell'[[Numeri interi relativi|insieme Z]] che a sua volta è un [[Sottoinsieme|sottoinsieme]] dell'[[Numeri razionali|insieme Q]] il quale è [[Sottoinsieme|sottoinsieme]] dell'[[Numeri reali|insieme R]]: $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$;
 - L'**insieme N** è un insieme ordinato, cioè dato un numero naturale è sempre possibile stabilire se è [[Maggioranza|maggiore]], [[Minoranza|minore]] o [[Uguaglianza|uguale]] di un altro numero naturale;
 - [[Addizione]] e [[Moltiplicazione|moltiplicazione]] sono operazioni interne all'**insieme N**, ossia la somma e il prodotto tra due numeri naturali è un numero naturale;
 - [[Sottrazione]] e [[Divisione|divisione]] non sono operazioni interne all'**insieme N**, ossia la differenza e il rapporto tra due numeri naturali *non è necessariamente* un numero naturale;

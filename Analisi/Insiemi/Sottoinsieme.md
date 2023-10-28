@@ -1,12 +1,14 @@
 ---
- Created: 2021-11-06 22:11
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: []
- Tags: [matematica,analisi,insiemi]
+Created: 2021-11-06 22:11
+Author: Antonio Gelain
+aliases: 
+tags:
+  - matematica
+  - analisi
+  - insiemi
 ---
 
-# Sottoinsiemi
+# Sottoinsieme
 
 ###### Definizione
 

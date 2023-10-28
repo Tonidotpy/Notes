@@ -14,4 +14,4 @@ Se $X$ non è finito (ovvero $\forall n \in \mathbb{N}$, $X \nsim I_n$), allora 
 
 ###### Lemma dei cassetti
 > Siano $X \mapsto Y$ due [[Insiemi finiti|insiemi finiti]] e siano $n, m \in \mathbb{N}\ |\ X \sim I_n, Y \sim I_m$ e $n < m$.
-> Allora non esiste alcuna [[Analisi/Funzioni/Funzioni|funzione]] iniettiva $f: Y \mapsto X$.
+> Allora non esiste alcuna [[Funzione|funzione]] iniettiva $f: Y \mapsto X$.

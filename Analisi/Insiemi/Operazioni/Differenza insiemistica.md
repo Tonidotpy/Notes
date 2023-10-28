@@ -30,7 +30,7 @@ La differenza tra due insiemi $A,\ B \subseteq E$ contenuti in un [[Insieme univ
 - Viceversa la **differenza** tra l'[[Insieme vuoto|insieme vuoto]] e un qualsiasi altro insieme è uguale all'[[Insieme vuoto|insieme vuoto]]: $\emptyset - A = \emptyset$;
 - La **differenza** tra un insieme $A \subseteq E$ e un suo sovrainsieme $B \subseteq E,\ A \subseteq B$ è uguale all'[[Insieme vuoto|insieme vuoto]]: $A - B = \emptyset$;
 - La **differenza** tra un insieme $A \subseteq E$ e un suo qualsiasi [[Insieme universo|insieme universo]] $E$ è uguale all'[[Insieme vuoto|insieme vuoto]]: $A - E = \emptyset$;
-- Viceversa la **differenza** tra un [[Insieme universo|insieme universo]] $E$ e un suo [[Sottoinsiemi|sottoinsieme]] $A \subseteq E$ è il [[Insiemi complementari|complementare]] dell'insieme stesso: $E - A = A^C$;
+- Viceversa la **differenza** tra un [[Insieme universo|insieme universo]] $E$ e un suo [[Sottoinsieme|sottoinsieme]] $A \subseteq E$ è il [[Insiemi complementari|complementare]] dell'insieme stesso: $E - A = A^C$;
 - La **differenza** tra un insieme $A$ e se stesso è uguale all'[[Insieme vuoto|insieme vuoto]]: $A - A = \emptyset$;
 - La **differenza** tra due [[Intersezione#Proprietà|insiemi disgiunti]] $A,\ B \subseteq E$ è uguale al primo insieme della differenza: $A - B = A,\ B - A = B$;
-- La differenza tra due insiemi $A,\ B \subseteq E$ è un [[Sottoinsiemi|sottoinsieme]] del primo insieme: $A - B \subseteq A,\ B - A \subseteq B$;
+- La differenza tra due insiemi $A,\ B \subseteq E$ è un [[Sottoinsieme|sottoinsieme]] del primo insieme: $A - B \subseteq A,\ B - A \subseteq B$;

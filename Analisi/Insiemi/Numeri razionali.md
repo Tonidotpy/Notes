@@ -19,7 +19,7 @@ L'**insieme Q dei numeri razionali** è l'insieme di tutti quei numeri che posso
 ###### Caratteristiche
 
 - L'**insieme Q** è un insieme [[Infiniti|infinito]];
-- L'**insieme Q** è un [[Sottoinsiemi|sottoinsieme proprio]] dell'[[Numeri reali|insieme R]]: $\mathbb{Q} \subset \mathbb{R}$;
+- L'**insieme Q** è un [[Sottoinsieme|sottoinsieme proprio]] dell'[[Numeri reali|insieme R]]: $\mathbb{Q} \subset \mathbb{R}$;
 - L'**insieme Q** è un insieme ordinato, cioè dato un numero razionale è sempre possibile stabilire se è [[Maggioranza|maggiore]], [[Minoranza|minore]] o [[Uguaglianza|uguale]] di un altro numero razionale;
 - [[Addizione]], [[Sottrazione|sottrazione]], [[Divisione|divisione]] e [[Moltiplicazione|moltiplicazione]] sono operazioni interne all'**insieme Q**, ossia la somma, la differenza, il prodotto e il rapporto tra due numeri razionali è un numero razionale;
 

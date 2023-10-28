@@ -16,7 +16,7 @@ In genere i [[Linguaggio|linguaggi]] generati da queste grammatiche sono riconos
 
 ## Espressioni regolari
 
-Un **espressione regolare** è un [[Insieme|insieme]] di tutti i simboli dell'alfabeto che abbiamo scelto e permette di **denotare** un linguaggio regolare
+Un **espressione regolare** è un [[Algoritmi-e-strutture-dati/Strutture dati/Insieme|insieme]] di tutti i simboli dell'alfabeto che abbiamo scelto e permette di **denotare** un linguaggio regolare
 
 Se $r_{1}$ e $r_{2}$ sono espressioni regolari
 - $r_{1}\ |\ r_{2}$ è un'espressione regolare, detta **alternanza**

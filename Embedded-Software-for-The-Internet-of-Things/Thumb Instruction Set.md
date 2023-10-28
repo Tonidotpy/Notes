@@ -5,7 +5,7 @@
  Tags: []
 ---
 
-Il **thumb instruction set** è un [[Sottoinsiemi|sottoinsieme]] dell'[[Instruction Set|instruction set]] originale di [[Advanced RISC Machine|ARM]] a 16 [[Bit|bit]], che riduce la dimensione del codice degradandone però le prestazioni
+Il **thumb instruction set** è un [[Sottoinsieme|sottoinsieme]] dell'[[Instruction Set|instruction set]] originale di [[Advanced RISC Machine|ARM]] a 16 [[Bit|bit]], che riduce la dimensione del codice degradandone però le prestazioni
 
 ---
 
