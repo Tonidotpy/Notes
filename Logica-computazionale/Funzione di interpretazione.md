@@ -1,12 +1,13 @@
 ---
- Created: 2023-10-24 22:55
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-10-24 22:55
+Author: Antonio Gelain
+aliases: 
+tags:
+  - logica-computazionale
 ---
 
-Una **funzione di interpretazione** $\mathcal{I}_{\mathcal{A}}$ è una [[Teoria asserzionale|teoria asserzionale]] definita come
-$$\mathcal{I_{A}\ |\ T_{A}} \rightarrow M$$
+Una **funzione di interpretazione** $\mathcal{I}_{\mathcal{A}}$ è definita come una [[Funzione|funzione]] il cui [[Dominio|dominio]] è un [[Linguaggio asserzionale|linguaggio asserzionale]] mentre il codominio è un [[Dominio di interpretazione|dominio di interpretazione]]:
+$$\mathcal{I_{A}\ |\ L_{A}} \rightarrow D$$
 
 ---
 

@@ -8,17 +8,12 @@ tags:
   - insiemi
 ---
 
-# Sottoinsieme
-
-###### Definizione
-
 Un **sottoinsieme** di un insieme $E$ è definito come un insieme i cui elementi appartengono totalmente ad $E$.
-
-> $$A \subseteq E \iff \forall x\ |\ x \in A \Rightarrow x \in E $$
+$$A \subseteq E \iff \forall x\ |\ x \in A \Rightarrow x \in E $$
 
 ---
 
-###### Caratteristiche
+## Caratteristiche
 
 - L'insieme contenente il **sottoinsieme** viene chiamato **sovrainsieme** e si indica con $\supseteq$;
 - Un **sottoinsieme** si dice **proprio** se almeno uno dei suoi elementi appartiene al suo **sovrainsieme** e si indica con $\subset$;

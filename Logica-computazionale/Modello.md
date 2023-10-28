@@ -5,8 +5,8 @@
  Tags: []
 ---
 
-Un **modello** è un [[Algoritmi-e-strutture-dati/Strutture dati/Insieme|insieme]] di [[Fatto|fatti]]
-$$M = \{ f \}$$
+Un **modello** è un [[Algoritmi-e-strutture-dati/Strutture dati/Insieme|insieme]] di [[Fatto|fatti]] [[Sottoinsieme|sottoinsieme]] di un [[Dominio di interpretazione|dominio]]
+$$M = \{ f \} \subseteq D$$
 
 ---
 
