@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica-computazionale/Funzione di interpretazione.md",
+                "file": "Logica-computazionale/Linguaggio asserzionale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e149bd5012cb76e",
+            "id": "c56c48ecfc77ea2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica-computazionale/Funzione di interpretazione.md",
+                "file": "Logica-computazionale/Fatto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logica-computazionale/Funzione di interpretazione.md",
+                "file": "Logica-computazionale/Linguaggio asserzionale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,18 +168,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e149bd5012cb76e",
+  "active": "239a1ae21ee03085",
   "lastOpenFiles": [
+    "Logica-computazionale/Teoria asserzionale.md",
+    "Logica-computazionale/Linguaggio asserzionale.md",
+    "Logica-computazionale/Asserzione.md",
+    "Logica-computazionale/Fatto.md",
+    "Logica-computazionale/Dominio di interpretazione.md",
+    "Logica-computazionale/Entità.md",
+    "Logica-computazionale/Dominio della conoscenza.md",
+    "Logica-computazionale/Dominio misto.md",
+    "Logica-computazionale/Dominio dei dati.md",
+    "Logica-computazionale/p.md",
     "Logica-computazionale/Modello mondiale.md",
     "Logica-computazionale/Funzione di interpretazione.md",
-    "Logica-computazionale/Linguaggio asserzionale.md",
-    "Logica-computazionale/Teoria asserzionale.md",
-    "Logica-computazionale/Asserzione.md",
     "README.md",
     "Logica-computazionale/Modello.md",
-    "Logica-computazionale/Dominio di interpretazione.md",
     "Analisi/Insiemi/Sottoinsieme.md",
-    "Logica-computazionale/Fatto.md",
     "Programmazione-funzionale/Regola.md",
     "Fondamenti-matematici-per-informatica/Funzioni.md",
     "Analisi/Insiemi/Relazione di equivalenza.md",
@@ -192,11 +196,6 @@
     "Analisi/Insiemi/Relazione parallela.md",
     "Analisi/Insiemi/Classe di equivalenza.md",
     "Analisi/Insiemi/Insieme quoziente.md",
-    "Analisi/Insiemi/Partizione di un insieme.md",
-    "Analisi/Insiemi/Insieme delle parti.md",
-    "Analisi/Insiemi/Operazioni/Prodotto cartesiano.md",
-    "Analisi/Insiemi/Insieme.md",
-    "Templates/Header.md",
     "Excalidraw",
     "signal.png",
     "Reti-logiche",
