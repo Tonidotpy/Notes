@@ -9,3 +9,4 @@ Un **dominio misto** è un tipo di [[Dominio di interpretazione|dominio]] che co
 
 ---
 
+Un [[Linguaggio asserzionale|linguaggio asserzionale misto]] permette di mappare un [[Linguaggio asserzionale|linguaggio misto]] in un dominio misto

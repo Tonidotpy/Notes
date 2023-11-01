@@ -17,4 +17,9 @@ $$\mathcal{L_{A}}^{i} = \langle \mathcal{E}, \{ \mathcal{C} \}, \{ \mathcal{P} \
 dove:
 - $\mathcal{E} = \{ e \}$ è un [[Analisi/Insiemi/Insieme|insieme]] di [[Entità|entità]]
 - $\{ \mathcal{C} \}$ è un insieme di **concetti**, dove il concetto è il nome di una **classe**
-- $\{ \mathcal{P} \}$ è un insieme di **proprietà** dove la proprietà è il nome di una **relazione**
+- $\{ \mathcal{P} \}$ è un insieme di **proprietà** dove la proprietà è il nome di una [[Relazione|relazione]]
+
+Esistono tre tipi di linguaggi:
+- **Linguaggi informali**: quei linguaggi definiti informalmente (e.g. linguaggi naturali e senza regole di produzione)
+- **Linguaggi semi-formali**: quei linguaggi dove la sintassi è formalmente definita
+- **Linguaggi formali** (o *linguaggi logici*): quei linguaggi dove anche la [[Funzione di interpretazione|funzione di interpretazione]] è definita formalmente

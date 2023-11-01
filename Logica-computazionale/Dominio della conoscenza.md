@@ -9,3 +9,4 @@ Il **dominio della conoscenza** è un [[Dominio di interpretazione|dominio]] che
 
 ---
 
+Una **[[Funzione di interpretazione|funzione di interpretazione]] della conoscenza** permette di mappare un [[Linguaggio asserzionale|linguaggio della conoscenza asserzionale]] ad un dominio della conoscenza

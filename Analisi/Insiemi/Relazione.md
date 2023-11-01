@@ -41,3 +41,10 @@ Se $aRb \land bRc \Rightarrow aRc\ \forall a, b, c \in A$
 ### Anti-simmetrica
 
 Se $aRb \land bRa \Rightarrow a = b\ \forall a, b \in A$
+
+---
+
+La [[Cardinalità|cardinalità]] di una relazione può essere:
+- Uno a uno `1-to-1`
+- Uno a molti `1-to-n`
+- Molti a molti `m-to-n`
