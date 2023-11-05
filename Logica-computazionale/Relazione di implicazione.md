@@ -6,7 +6,7 @@ tags:
   - logica-computazionale
 ---
 
-Una **relazione di implicazione** $\vDash$ è definita come un sottoinsieme del [[Prodotto cartesiano|prodotto cartesiano]] tra il [[Dominio|dominio]] ed un [[Linguaggio|linguaggio]]
+Una **relazione di implicazione** $\vDash$ è definita come un sottoinsieme del [[Prodotto cartesiano|prodotto cartesiano]] tra il [[Dominio|dominio]] ed un [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggio]]
 $$\vDash \subseteq D \times \mathcal{L}$$
 
 ---

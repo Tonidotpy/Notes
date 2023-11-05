@@ -6,12 +6,12 @@ tags:
   - logica-computazionale
 ---
 
-Una **funzione di interpretazione** $\mathcal{I}_{\mathcal{A}}$ è definita come una [[Funzione|funzione]] il cui [[Dominio|dominio]] è un [[Linguaggio asserzionale|linguaggio asserzionale]] mentre il codominio è un [[Dominio di interpretazione|dominio di interpretazione]]:
-$$\mathcal{I_{A}\ |\ L_{A}} \rightarrow D$$
+Una **funzione di interpretazione** $\mathcal{I}_{\mathcal{A}}$ è definita come una [[Funzione|funzione]] il cui [[Dominio|dominio]] è un [[Teoria asserzionale|teoria asserzionale]] mentre il codominio è un [[Modello|modello]]:
+$$\mathcal{I_{A} : T_{A}} \rightarrow M$$
 
 ---
 
-Si dice perciò che un fatto $f \in M$ è un **interpretazione** di $a \in \mathcal{I_{A}}$
+Si dice perciò che un fatto $f \in M$ è un **interpretazione** di $a \in \mathcal{T_{A}}$
 $$f = \mathcal{I_{A}}(a) = a^{\mathcal{I_{A}}}$$
 Oppure che $a$ **denota** $f$
 

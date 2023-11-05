@@ -1,9 +1,9 @@
 ---
- Created: 2022-12-08 16:08
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: [LAN]
- Tags: []
+Created: 2022-12-08 16:08
+Author: Antonio Gelain
+aliases:
+  - LAN
+tags:
 ---
 
 Una **Local Area Network** (LAN) è una [[Rete|rete]] che collega dispositivi in una stessa area geografica, come ad esempio un edificio o un'azienda.

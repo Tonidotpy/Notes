@@ -1,8 +1,9 @@
 ---
- Created: 2023-10-29 17:06
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-10-29 17:06
+Author: Antonio Gelain
+aliases: 
+tags:
+  - logica-computazionale
 ---
 
 Un **dominio dei dati** è un [[Dominio di interpretazione|dominio]] che contiene solamente [[Fatto|fatti]] sotto forma di [[Entità|entità]] $e \in C$ o [[Analisi/Insiemi/Insieme|insiemi]] di entità $\langle e_{1}, ..., e_{n} \rangle \in R$

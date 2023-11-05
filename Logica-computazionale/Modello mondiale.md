@@ -6,7 +6,7 @@ tags:
   - logica-computazionale
 ---
 
-Un **modello mondiale** è un [[Modello|modello]] definito nel seguente modo:
+Un **modello mondiale** viene definito dalla seguente tripla formata da un [[Linguaggio asserzionale|linguaggio asserzionale]], un [[Dominio di interpretazione|dominio]] ed una [[Funzione di interpretazione|funzione di interpretazione]] 
 $$\hat{\mathcal{W}} = \langle \mathcal{L_{A}}, D, \mathcal{I_{A}} \rangle$$
 
 ---

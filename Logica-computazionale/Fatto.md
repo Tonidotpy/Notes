@@ -3,6 +3,7 @@ Created: 2022-06-18 13:52
 Author: Antonio Gelain
 aliases: 
 tags:
+  - logica-computazionale
 ---
 
 # Fatto

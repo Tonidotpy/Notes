@@ -1,9 +1,8 @@
 ---
- Created: 2023-03-02 08:46
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-03-02 08:46
+Author: Antonio Gelain
+aliases: 
+tags:
 ---
 
 Un **processo** è un'entità dinamica caricata nella [[Memoria primaria|memoria primaria]] generata da un [[Programma|programma]]

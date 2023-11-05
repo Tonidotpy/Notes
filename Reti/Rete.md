@@ -1,9 +1,8 @@
 ---
- Created: 2022-12-08 15:34
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2022-12-08 15:34
+Author: Antonio Gelain
+aliases: 
+tags:
 ---
 
 Una **rete** (*in informatica*) è un insieme di dispositivi e [[Computer|computer]] connessi tra loro che permettono la trasmissione di dati e informazioni.

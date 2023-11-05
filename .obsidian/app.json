@@ -16,5 +16,7 @@
   "spellcheck": true,
   "useTab": false,
   "showLineNumber": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "strictLineBreaks": false
 }

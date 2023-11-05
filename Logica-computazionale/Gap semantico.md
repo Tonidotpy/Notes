@@ -1,8 +1,9 @@
 ---
- Created: 2023-10-18 22:56
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-10-18 22:56
+Author: Antonio Gelain
+aliases: 
+tags:
+  - logica-computazionale
 ---
 
 Un **gap semantico** è l'**impossibilità** per gli umani e le macchine di percepire il mondo per quello che è veramente oppure nella stessa maniera

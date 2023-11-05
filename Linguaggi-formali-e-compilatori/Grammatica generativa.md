@@ -4,7 +4,7 @@ Author: Antonio Gelain
 aliases: 
 tags:
 ---
-Una **grammatica generativa** è un tipo di grammatica utilizzata per generare [[Linguaggio|linguaggi]]
+Una **grammatica generativa** è un tipo di grammatica utilizzata per generare [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggi]]
 
 ---
 

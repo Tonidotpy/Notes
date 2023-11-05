@@ -1,12 +1,13 @@
 ---
 Created: 2023-10-28 19:59
 Author: Antonio Gelain
-aliases: 
+aliases:
+  - Linguaggio delle asserzioni atomiche
 tags:
   - logica-computazionale
 ---
 
-Un **linguaggio asserzionale** $\mathcal{L_{A}}$ è una descrizione di un [[Modello|modello]] attraverso [[Asserzione|asserzioni]] 
+Un **linguaggio asserzionale** (o *linguaggio delle asserzioni atomiche*) $\mathcal{L_{A}}$ è una [[Analisi/Insiemi/Insieme|insieme]] di [[Asserzione|asserzioni]] 
 $$\mathcal{L_{A}} = \{ a \}$$
 
 ---

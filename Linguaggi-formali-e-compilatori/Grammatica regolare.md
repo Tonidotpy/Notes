@@ -12,7 +12,7 @@ Una **grammatica regolare** è un particolare tipo di [[Grammatica libera|gramma
 
 ---
 
-In genere i [[Linguaggio|linguaggi]] generati da queste grammatiche sono riconosciuti dagli [[Automa a Stati Finiti|automi a stati finiti]], sia deterministici che non deterministici
+In genere i [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggi]] generati da queste grammatiche sono riconosciuti dagli [[Automa a Stati Finiti|automi a stati finiti]], sia deterministici che non deterministici
 
 ## Espressioni regolari
 

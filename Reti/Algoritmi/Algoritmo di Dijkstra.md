@@ -1,9 +1,10 @@
 ---
- Created: 2022-12-28 15:21
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: [Dijkstra]
- Tags: [algoritmo]
+Created: 2022-12-28 15:21
+Author: Antonio Gelain
+aliases:
+  - Dijkstra
+tags:
+  - algoritmo
 ---
 
 L'**algoritmo di Dijkstra** è un algoritmo di **ricerca** di percorsi che viene utilizzato per trovare il percorso **più breve** tra due nodi in un grafo
