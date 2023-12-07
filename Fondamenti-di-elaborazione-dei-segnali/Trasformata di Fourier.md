@@ -5,13 +5,13 @@
  Tags: []
 ---
 
-La **trasformata di Fourier** è un'operazione che associa a una [[Funzione|funzione]] i valori dei **coefficienti** di quest sviluppi lineari, dandone in questo modo una rappresentazione nel [[Spettro di un segnale periodico|dominio delle frequenze]]
+La **trasformata di Fourier** è un'operazione che associa a una [[Funzione|funzione]] i valori dei **coefficienti** di questi sviluppi lineari, dandone in questo modo una rappresentazione nel [[Spettro di un segnale periodico|dominio delle frequenze]]
 $$W(f) = \int_{-\infty}^{+\infty} w(t) e^{-j2\pi ft} dt$$
 
 ---
 
 La trasformata di Fourier inversa è data dalla formula seguente:
-$$w(t) = \int_{-\infty}^{+\infty} X(f) e^{j2\pi ft} df$$
+$$w(t) = \int_{-\infty}^{+\infty} W(f) e^{j2\pi ft} df$$
 
 ## Trasformate notevoli
 
@@ -87,3 +87,22 @@ $$x(t) \leftrightarrow X(f) \Rightarrow x(t - T) \leftrightarrow X(f) e^{-2\pi f
 
 Esiste una reciprocità dei [[Dominio|domini]] tempo/frequenza, dal quale prende forma il [[Teorema di dualità|teorema di dualità]]
 $$x(t) \rightarrow X(f) \iff X(t) \rightarrow x(-f)$$
+
+## Caratteristiche
+### Derivata
+
+È possibile ottenere la trasformata della [[Derivate|derivata]] di una funzione $x(t)$ conoscendone la trasformata $X(f)$ moltiplicandola per un fattore $j2\pi f$, detto **fasore**
+$$y(t) = \frac{d}{dt}x(t) = \int_{-\infty}^{+\infty} Y(f) e^{j2\pi ft} df \Rightarrow Y(f) = j2\pi f \cdot X(f)$$
+
+### Integrale
+
+È possibile ottenere la trasformata di un [[Integrale|integrale]] di una funzione $x(t)$ conoscendone la trasformata $X(f)$ nel seguente modo:
+$$x(t) \leftrightarrow X(f) \Rightarrow \int_{-\infty}^{t} x(\xi) d\xi \leftrightarrow \frac{X(f)}{j2\pi f} + \frac{X(0)}{2} \delta(f)$$
+
+### Convoluzione
+La [[Convoluzione|convoluzione]] di due segnali nel dominio temporale è equivalente al prodotto dei segnali stessi nel dominio di frequenza
+$$x(t) \leftrightarrow X(f); y(t) \leftrightarrow Y(f) \Rightarrow x(t) * y(t) \leftrightarrow X(f) \cdot Y(f)$$
+
+### Prodotto
+Similmente per la convoluzione si può intuire che, per il prodotto di due segnali, nel dominio delle frequenze si ha una convoluzione
+$$x_{1}(t) \cdot x_{2}(t) \leftrightarrow X_{1}(f) * X_{2}(f)$$
