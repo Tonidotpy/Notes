@@ -12,4 +12,4 @@ Un **sistema di elaborazione dei segnali** è un sistema costituito da una casca
 A partire dal segnale di ingresso $\overline{x}(\overline{u})$ il sistema $\phi(\cdot)$ produce un segnale di uscita
 $$\overline{y}(\overline{v}) = \phi(\overline{x}(\overline{u}))$$
 
-Un caso particolare di sistemi di elaborazione dei segnali sono i [[Sistema lineare tempo-invarianti|sistemi LTI]]
+Un caso particolare di sistemi di elaborazione dei segnali sono i [[Sistema lineare tempo-invariante|sistemi LTI]]

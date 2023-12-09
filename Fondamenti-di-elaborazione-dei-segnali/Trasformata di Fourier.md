@@ -1,8 +1,9 @@
 ---
- Created: 2023-10-11 14:28
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-10-11 14:28
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **trasformata di Fourier** è un'operazione che associa a una [[Funzione|funzione]] i valori dei **coefficienti** di questi sviluppi lineari, dandone in questo modo una rappresentazione nel [[Spettro di un segnale periodico|dominio delle frequenze]]
@@ -12,6 +13,11 @@ $$W(f) = \int_{-\infty}^{+\infty} w(t) e^{-j2\pi ft} dt$$
 
 La trasformata di Fourier inversa è data dalla formula seguente:
 $$w(t) = \int_{-\infty}^{+\infty} W(f) e^{j2\pi ft} df$$
+
+---
+
+La trasformata di Fourier può essere anche utilizzata per [[Segnale periodico|segnali periodici]] ottenendo un [[Treno di impulsi|treno di impulsi]] con [[Frequenza di un segnale|frequenza]] $\frac{1}{T}$, la cui [[Ampiezza|ampiezza]] è [[Modulazione|modulata]] dallo [[Spettro di un segnale periodico|spettro di Fourier]] del segnale di base
+$$X(f) = \sum\limits_{k=-\infty}^{+\infty} \frac{1}{T} W\left(\frac{k}{T}\right) \delta\left(f - \frac{k}{T}\right)$$
 
 ## Trasformate notevoli
 

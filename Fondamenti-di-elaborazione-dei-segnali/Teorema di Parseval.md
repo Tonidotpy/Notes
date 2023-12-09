@@ -4,6 +4,7 @@ Author: Antonio Gelain
 aliases:
   - Identità di Rayleigh
 tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Il **teorema di Parseval** è un teorema che stabilisce che la sommatoria del prodotto dei [[Serie di Fourier|coeffienti di Fourier]] di due [[Segnale periodico|funzioni periodiche]] è uguale all'[[Integrale|integrale]] del loro prodotto

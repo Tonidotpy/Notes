@@ -42,3 +42,10 @@ $$\lim_{\Delta t \mapsto 0} x_{R}(t) = \int_{-\infty}^{+\infty} x(\tau) \delta(t
 
 Stessa cosa vale per la **risposta del sistema**, che di conseguenza diventa l'[[Integrale di convoluzione|integrale di convoluzione]]
 $$\lim_{\Delta t \mapsto 0} y_{R}(t) = \int_{-\infty}^{+\infty} x(\tau) h(t - \tau) d\tau = y(t) = x(t) \cdot h(t)$$
+
+---
+
+La **[[Banda|banda]] passante** di un sistema LTI viene definita come la **massima** frequenza per cui il sistema fa passare una quantità *non trascurabile* di energia del sistema di energia del sistema
+L'approssimazione comunemente adottata è quella della cosiddetta **banda a 3dB**
+$$B = f_{max} : G_{dB}(f_{max}) \ge -3dB$$
+

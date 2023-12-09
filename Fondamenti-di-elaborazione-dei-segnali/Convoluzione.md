@@ -9,7 +9,7 @@ La **convoluzione** è un'operazione tra due [[Funzione|funzioni]] di una variab
 
 ---
 
-Tramite la convoluzione è possibile determinare la risposta all'[[Delta di Dirac|impulso]] di un [[Sistema lineare tempo-invarianti|sistema LTI]]
+Tramite la convoluzione è possibile determinare la risposta all'[[Delta di Dirac|impulso]] di un [[Sistema lineare tempo-invariante|sistema LTI]]
 
 La convoluzione restituisce una funzione che ha durata pari alla somma delle durate dei due [[Segnale|segnali convoluti]]
 
