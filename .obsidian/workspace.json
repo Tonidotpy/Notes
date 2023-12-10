@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bd56a9e33245fa1",
+            "id": "fa97f610aef3fa2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27eec1b03ac3ddc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fasore",
+                "query": "!distorsione",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,14 +150,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bd56a9e33245fa1",
+  "active": "fa97f610aef3fa2e",
   "lastOpenFiles": [
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in fase.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Canale ideale.md",
     "Fondamenti-di-elaborazione-dei-segnali/Filtro lineare tempo-invariante.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-tutto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in ampiezza.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
     "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invariante.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-tutto.md",
     "Fondamenti-di-elaborazione-dei-segnali/Risposta in frequenza.md",
     "Fondamenti-di-elaborazione-dei-segnali/Ritardo di gruppo.md",
     "Fondamenti-di-elaborazione-dei-segnali/Risposta in fase.md",
@@ -185,11 +178,6 @@
     "README.md",
     "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
     "Fisica/Cinematica/Moto parabolico.md",
-    "Fisica/Cinematica/Forza Peso.md",
-    "Fisica/Cinematica/Forza apparente.md",
-    "Analisi/Limiti/Limiti.md",
-    "Untitled.md",
-    "Logica-computazionale/Dominio di interpretazione.md",
     "Excalidraw",
     "signal.png",
     "Reti-logiche",

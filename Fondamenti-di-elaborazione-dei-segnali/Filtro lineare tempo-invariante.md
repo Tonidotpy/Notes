@@ -26,3 +26,9 @@ ke^{-j2\pi ftd} & f_{1} < f < f_{2} \\
 0 & \text{altrove}
 \end{cases}$$
 Dove $f_{1}$ è la [[Frequenza di taglio|frequenza di taglio]] inferiore ed $f_{2}$ è la frequenza di taglio superiore
+
+---
+
+In generale è molto difficile realizzare un filtro selettivo centrato su una frequenza molto alta, si è definita perciò la regola della **banda frazionaria** $\frac{\Delta f}{f_{1}}$
+$$10 < Q = \frac{f_{1}}{\Delta f} < 100$$
+dove $Q$ viene chiamato **fattore di merito**

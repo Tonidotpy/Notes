@@ -8,3 +8,5 @@
 Un **filtro passa-basso** è un tipo di [[Filtro lineare tempo-invariante|filtro LTI]] la cui [[Frequenza di taglio|frequenza di taglio]] superiore $f_{2}$ è un numero maggiore di 0, passano perciò tutte le frequenze minori di $f_{2}$
 
 ---
+
+Il filtro passa-basso è quello più semplice da realizzare
