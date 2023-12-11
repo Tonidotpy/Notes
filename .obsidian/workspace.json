@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd2a8b9dd89340a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Distorsione non lineare.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Distorsione non lineare.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +163,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa97f610aef3fa2e",
+  "active": "dd2a8b9dd89340a7",
   "lastOpenFiles": [
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione non lineare.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
     "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in fase.md",
     "Fondamenti-di-elaborazione-dei-segnali/Canale ideale.md",
     "Fondamenti-di-elaborazione-dei-segnali/Filtro lineare tempo-invariante.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
     "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in ampiezza.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
     "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
     "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
     "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invariante.md",
@@ -177,7 +191,6 @@
     "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
     "README.md",
     "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
-    "Fisica/Cinematica/Moto parabolico.md",
     "Excalidraw",
     "signal.png",
     "Reti-logiche",

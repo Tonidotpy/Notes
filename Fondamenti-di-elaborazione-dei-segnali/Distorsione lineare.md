@@ -6,7 +6,7 @@ tags:
   - fondamenti-di-elaborazione-dei-segnali
 ---
 
-La **distorsione lineare** è un processo per cui un [[Segnale|segnale]] passa attraverso un [[Sistema distorcente|sistema distorcente]] modificandolo
+La **distorsione lineare** è un processo per cui un [[Segnale|segnale]] passa attraverso un [[Sistema distorcente|sistema distorcente lineare]] modificandolo
 
 ---
 
