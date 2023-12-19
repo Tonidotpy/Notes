@@ -1,8 +1,10 @@
 ---
- Created: 2023-11-01 15:22
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-11-01 15:22
+Author: Antonio Gelain
+aliases:
+  - EType
+tags:
+  - logica-computazionale
 ---
 
 Un **tipo entità** è un tipo i cui valori sono delle [[Entità|entità]]

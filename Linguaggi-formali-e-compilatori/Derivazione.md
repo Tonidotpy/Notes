@@ -1,15 +1,14 @@
 ---
- Created: 2023-09-12 10:14
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-12 10:14
+Author: Antonio Gelain
+aliases: 
+tags:
+  - linguaggi-formali-e-compilatori
 ---
 
-Una **derivazione** ($\Rightarrow$) è una riscrittura delle stringhe con caratteri non terminali in stringhe composte solamente da caratteri terminali
+Una **derivazione** ($\Rightarrow$) è una riscrittura delle stringhe contenenti [[Simbolo|caratteri non terminali]] in stringhe composte solamente da caratteri terminali
 
 ---
-
-Esempio: $S \Rightarrow ab$
 
 Si utilizza un **carattere speciale** ($\epsilon$) per rappresentare una **parola vuota** con le seguenti caratteristiche:
 - $|\epsilon| = 0$

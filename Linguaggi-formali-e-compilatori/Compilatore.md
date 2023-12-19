@@ -3,6 +3,7 @@ Created: 2023-09-14 10:33
 Author: Antonio Gelain
 aliases: 
 tags:
+  - linguaggi-formali-e-compilatori
 ---
 
 Un **compilatore** è un meccanismo che trasforma il codice sorgente in codice eseguibile attraverso l'operazione di **compilazione**

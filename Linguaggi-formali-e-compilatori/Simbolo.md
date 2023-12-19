@@ -1,10 +1,11 @@
 ---
- Created: 2023-09-12 10:03
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-12 10:03
+Author: Antonio Gelain
+aliases: 
+tags:
+  - linguaggi-formali-e-compilatori
 ---
-Un **simbolo** è un elemento fondamentale utilizzato per definire una [[Grammatica generativa|grammatica]]
+Un **simbolo** è un elemento fondamentale di un [[Vocabolario|vocabolario]], utilizzato per definire una [[Grammatica generativa|grammatica]]
 
 ---
 

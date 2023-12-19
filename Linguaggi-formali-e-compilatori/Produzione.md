@@ -4,15 +4,14 @@ Author: Antonio Gelain
 aliases:
   - Regola
 tags:
+  - linguaggi-formali-e-compilatori
 ---
 
-Una **produzione** ($\rightarrow$) è una regola di scrittura che permette di mappare una stringa ad un'altra rispettando la seguente limitazione:
-- La stringa di partenza deve contenere almeno un [[Simbolo|simbolo]] **non terminale**
-
-Esempio: $\{ S \rightarrow aSb,\ S \rightarrow ab \}$
-
-La definizione formale dell'oggetto produzione si traduce in:
+Una **produzione** ($\rightarrow$) è una regola di scrittura che permette di mappare una stringa ad un'altra, purché la stringa di partenza contenga almeno un [[Simbolo|simbolo]] **non terminale**
 $$\delta \rightarrow \beta$$
-Dove $\delta \in V^{+}$, ossia $\delta$ contiene almeno un simbolo non terminale e non è vuota ($\epsilon$)
+
+---
+
+$\delta \in V^{+}$, ossia $\delta$ contiene almeno un simbolo non terminale e non è vuota ($\epsilon$)
 
 >[!INFO] $\delta$ è detto **driver** della produzione mentre $\beta$ è detto **body** della produzione
