@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Grammatica generativa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff0527d87278a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
+                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
+                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,34 +149,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aff0527d87278a3e",
+  "active": "3a77e18126e67372",
   "lastOpenFiles": [
-    "Linguaggi-formali-e-compilatori/Grammatica generativa.md",
-    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio.md",
+    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
+    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti.md",
+    "Linguaggi-formali-e-compilatori/Linguaggio regolare.md",
+    "Linguaggi-formali-e-compilatori/Espressione regolare.md",
+    "Linguaggi-formali-e-compilatori/Grammatica regolare.md",
+    "Linguaggi-formali-e-compilatori/Compilatore.md",
+    "Linguaggi-formali-e-compilatori/Analisi lessicale.md",
+    "Linguaggi-formali-e-compilatori/Pumping lemma per linguaggi liberi.md",
     "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
+    "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
+    "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",
+    "Images/pumping-lemma-linguaggi-liberi-dimostrazione-1.png",
+    "Images",
+    "Pasted image 20231222174220.png",
+    "Pasted image 20231222174229.png",
+    "Pasted image 20231222174222.png",
+    "Linguaggi-formali-e-compilatori/Albero di derivazione.md",
+    "Linguaggi-formali-e-compilatori/Grammatica generativa.md",
+    "Linguaggi-formali-e-compilatori/Linguaggio.md",
+    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
+    "Linguaggi-formali-e-compilatori/Forma normale di Chomsky.md",
+    "Linguaggi-formali-e-compilatori/Produzione unitaria.md",
+    "Linguaggi-formali-e-compilatori/Simbolo.md",
+    "Logica-computazionale/Regola di formazione.md",
     "Linguaggi-formali-e-compilatori/Derivazione.md",
     "Linguaggi-formali-e-compilatori/Produzione.md",
-    "Linguaggi-formali-e-compilatori/Simbolo.md",
     "Linguaggi-formali-e-compilatori/Token.md",
     "Linguaggi-formali-e-compilatori/Derivate.md",
     "Linguaggi-formali-e-compilatori/Vocabolario.md",
-    "Linguaggi-formali-e-compilatori/Analisi lessicale.md",
-    "Linguaggi-formali-e-compilatori/Compilatore.md",
     "Linguaggi-formali-e-compilatori/Codice target.md",
     "Linguaggi-formali-e-compilatori/Codice intermedio.md",
     "Linguaggi-formali-e-compilatori/Analisi semantica.md",
     "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
-    "Linguaggi-formali-e-compilatori/Albero di derivazione.md",
-    "Logica-computazionale/Logica della base di conoscenza.md",
-    "Logica-computazionale/Terminologia.md",
-    "Logica-computazionale/TBox.md",
-    "Statistica/Metodo della massima verosimiglianza.md",
-    "Statistica/Modello lineare semplice.md",
-    "Statistica/Stima intervallare.md",
-    "Statistica/Stima puntuale.md",
-    "Statistica/Verifica delle ipotesi.md",
-    "Statistica/Stimatore.md",
     "Excalidraw",
     "signal.png",
     "Reti-logiche",
@@ -200,7 +194,6 @@
     "Logica-computazionale",
     "Linguaggi-formali-e-compilatori",
     "Sistemi-operativi/File-system",
-    "Sistemi-operativi/Gestione-della-memoria",
-    "Fisica/Termodinamica"
+    "Sistemi-operativi/Gestione-della-memoria"
   ]
 }

@@ -13,16 +13,3 @@ Una **grammatica regolare** è un particolare tipo di [[Grammatica libera|gramma
 ---
 
 In genere i [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggi]] generati da queste grammatiche sono riconosciuti dagli [[Automa a Stati Finiti|automi a stati finiti]], sia deterministici che non deterministici
-
-## Espressioni regolari
-
-Un **espressione regolare** è un [[Algoritmi-e-strutture-dati/Strutture dati/Insieme|insieme]] di tutti i simboli dell'alfabeto che abbiamo scelto e permette di **denotare** un linguaggio regolare
-
-Se $r_{1}$ e $r_{2}$ sono espressioni regolari
-- $r_{1}\ |\ r_{2}$ è un'espressione regolare, detta **alternanza**
-- $r_{1} \cdot r_{2}$ è un'espressione regolare, scritta anche come $r_{1} r_{2}$ ed è detta **concatenazione**
-- $r_{1}^{*}$ è un espressione regolare che significa **ripetizione** di $r$ per un certo numero di $k$ volte, detta ***Kleene star***
-- $(r_{1})$ è un'espressione regolare, usata per definire l'ordine di svolgimento delle operazione ed è detta **parentesi**
-
->[!INFO] In assenza di parentesi l'ordine di precedenza delle operazioni precedentemente descritte è la seguente:
-> $$\text{Kleene Star < Concatenazione < Alternanza}$$

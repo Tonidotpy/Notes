@@ -12,8 +12,3 @@ Una **grammatica libera** (o *context-free grammar*) è un tipo di [[Grammatica 
 ---
 
 Le grammatiche libere si prestano in modo naturale ad essere processate tramite il cosiddetto [[Albero di derivazione|albero di derivazione]]
-
-Dato un linguaggio context-free esiste una grammatica libera $\mathcal{G}$ tale che $\mathcal{L}(\mathcal{G}) = \mathcal{L}\ \backslash \{ \epsilon \}$ e **non** ha:
-- [[Produzione epsilon|produzioni epsilon]]
-- [[Produzione unitaria|produzione unitaria]]
-- [[Simbolo|Non terminali inutili]], ossia che non appaiono in nessuna [[Derivazione|derivazione]]
