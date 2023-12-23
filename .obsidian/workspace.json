@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+                "file": "Linguaggi-formali-e-compilatori/Simulazione NFA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e06b9e8e759a6931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi-formali-e-compilatori/Simulazione DFA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+                "file": "Linguaggi-formali-e-compilatori/Simulazione DFA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +162,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a77e18126e67372",
+  "active": "e06b9e8e759a6931",
   "lastOpenFiles": [
+    "Linguaggi-formali-e-compilatori/Simulazione NFA.md",
+    "Linguaggi-formali-e-compilatori/Simulazione DFA.md",
+    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Deterministico.md",
     "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
     "Linguaggi-formali-e-compilatori/Automa a Stati Finiti.md",
+    "Linguaggi-formali-e-compilatori/Epsilon chiusura di un automa.md",
+    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+    "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
+    "Linguaggi-formali-e-compilatori/Compilatore.md",
+    "Linguaggi-formali-e-compilatori/Analisi semantica.md",
     "Linguaggi-formali-e-compilatori/Linguaggio regolare.md",
     "Linguaggi-formali-e-compilatori/Espressione regolare.md",
     "Linguaggi-formali-e-compilatori/Grammatica regolare.md",
-    "Linguaggi-formali-e-compilatori/Compilatore.md",
     "Linguaggi-formali-e-compilatori/Analisi lessicale.md",
     "Linguaggi-formali-e-compilatori/Pumping lemma per linguaggi liberi.md",
     "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
@@ -177,13 +197,6 @@
     "Logica-computazionale/Regola di formazione.md",
     "Linguaggi-formali-e-compilatori/Derivazione.md",
     "Linguaggi-formali-e-compilatori/Produzione.md",
-    "Linguaggi-formali-e-compilatori/Token.md",
-    "Linguaggi-formali-e-compilatori/Derivate.md",
-    "Linguaggi-formali-e-compilatori/Vocabolario.md",
-    "Linguaggi-formali-e-compilatori/Codice target.md",
-    "Linguaggi-formali-e-compilatori/Codice intermedio.md",
-    "Linguaggi-formali-e-compilatori/Analisi semantica.md",
-    "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
     "Excalidraw",
     "signal.png",
     "Reti-logiche",

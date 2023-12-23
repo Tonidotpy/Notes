@@ -14,7 +14,7 @@ in cui:
 - $\mathcal{A}$ è un [[Alfabeto|alfabeto]] con $\epsilon \notin \mathcal{A}$
 - $s_{0} \in S$ è lo stato iniziale
 - $F \subseteq S$ è l'insieme degli stati finiti o accettati
-- $\text{move}_{n} : S \times (\mathcal{A} \cup \{ \epsilon \} \rightarrow 2^{S})$ è la funzione di transizione da un certo stato e con un certo simbolo
+- $\text{move}_{n} : S \times (\mathcal{A} \cup \{ \epsilon \} \rightarrow 2^{S})$ è la funzione di transizione da un certo stato e con un certo [[Simbolo|simbolo]]
 
 ---
 
