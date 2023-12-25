@@ -26,3 +26,6 @@ Un DFA:
 Un [[Linguaggio regolare|linguaggio]] $\mathcal{L(D)}$ riconosciuto da un DFA $\mathcal{D}$ è l'[[Analisi/Insiemi/Insieme|insieme]] delle parole $w$ tale che:
 - Esiste un [[Cammino|cammino]], che chiamiamo $w$ la cui lunghezza è maggiore di 0, che vada dallo stato iniziale $S_{0}$ ad un qualche stato finale in $F$
 - Vale che $S_{0} \in F \cap w = \epsilon$, perciò lo stato di partenza è uno stato finale ed è l'unico caso in cui un DFA riconosce una parola vuota
+
+---
+

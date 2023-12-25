@@ -4,7 +4,7 @@
  Aliases: []
  Tags: [linguaggi-formali-e-compilatori]
 ---
-
+    
 Una **simulazione NFA** è un processo per cui viene verificata se una parola $w$ fa parte di un [[Linguaggio regolare|linguaggio]] di un dato [[Automa a Stati Finiti Non-deterministico|automa]] $\mathcal{N}$
 
 ---
