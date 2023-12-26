@@ -1,11 +1,13 @@
 ---
- Created: 2023-12-19 14:41
- Author: Antonio Gelain
- Aliases: []
- Tags: [linguaggi-formali-e-compilatori]
+Created: 2023-12-19 14:41
+Author: Antonio Gelain
+aliases:
+  - Parsing
+tags:
+  - linguaggi-formali-e-compilatori
 ---
 
-L'**analisi sintattica** è un meccanismo che permette di verificare se una **sequenza di [[Token|tokens]]** è valida rispetto ad una [[Grammatica generativa|grammatica]]
+L'**analisi sintattica**(o *parsing*) è un meccanismo che permette di verificare se una **sequenza di [[Token|tokens]]** è valida rispetto ad una [[Grammatica generativa|grammatica]]
 
 ---
 

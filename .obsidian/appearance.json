@@ -2,5 +2,6 @@
   "baseFontSize": 16,
   "cssTheme": "Encore",
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

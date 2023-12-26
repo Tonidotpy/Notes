@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-29 09:07
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-29 09:07
+Author: Antonio Gelain
+aliases: 
+tags:
+  - linguaggi-formali-e-compilatori
 ---
 
 Una **grammatica regolare** è un particolare tipo di [[Grammatica libera|grammatica libera]] tale che le sue produzioni sono in una delle seguenti forme:

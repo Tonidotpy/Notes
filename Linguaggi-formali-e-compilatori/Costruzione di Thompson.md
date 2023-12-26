@@ -6,7 +6,7 @@ tags:
   - linguaggi-formali-e-compilatori
 ---
 
-La **costruzione di Thompson** è una [[Algoritmo|procedura algoritmica]] che permette di costruire l'[[Automata|automata]] $\mathcal{N}$, che genera lo stesso [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggio]] denotato da una certa [[Espressione regolare|espressione regolare]] $r$, ovvero $\mathcal{L(\mathcal{N})} = \mathcal{L}(r)$
+La **costruzione di Thompson**[^online-tool] è una [[Algoritmo|procedura algoritmica]] che permette di costruire l'[[Automata|automata]] $\mathcal{N}$, che genera lo stesso [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggio]] denotato da una certa [[Espressione regolare|espressione regolare]] $r$, ovvero $\mathcal{L(\mathcal{N})} = \mathcal{L}(r)$
 
 ---
 
@@ -28,3 +28,6 @@ Assumiamo di avere sempre un [[Automa a Stati Finiti Non-deterministico|NFA]] ch
 ![costruzione-di-Thompson](https://slidetodoc.com/presentation_image/93492c98dccdb1cb96b8109c88f01d46/image-30.jpg)
 
 > [!INFO] La [[Complessità temporale|complessità]] della costruzione di Thompson è $\mathcal{O}(|r|)$ con $|r|$ la lunghezza dell'espressione regolare
+
+
+[^online-tool]: Strumento online per la generazione di un NFA da un'espressione regolare: https://cyberzhg.github.io/toolbox/regex2nfa

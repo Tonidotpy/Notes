@@ -6,7 +6,7 @@ tags:
   - linguaggi-formali-e-compilatori
 ---
 
-Il **pumping lemma** riguarda la presenza in ogni [[Grammatica libera|linguaggio libero]] infinito di [[Successioni|successioni]] di stringhe che presentano regolarità ben definite.
+Il **pumping lemma** riguarda la presenza in ogni [[Linguaggio libero|linguaggio libero]] infinito di [[Successioni|successioni]] di stringhe che presentano regolarità ben definite.
 
 ---
 

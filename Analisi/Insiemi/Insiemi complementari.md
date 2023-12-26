@@ -1,22 +1,20 @@
 ---
- Created: 2021-11-08 15:12
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: [Complementare]
- Tags: [matematica,analisi,insiemi]
+Created: 2021-11-08 15:12
+Author: Antonio Gelain
+aliases:
+  - Complementare
+tags:
+  - matematica
+  - analisi
+  - insiemi
 ---
 
-# Insiemi complementari
-
-###### Definizione
-
-Dato un **insieme** $A \subseteq E$ [[Sottoinsieme|sottoinsieme]] di un [[Insieme universo|insieme universo]] $E$, si definisce **insieme complementare** di $A$ l'insieme degli elementi di $E$ che **non** appartengono ad $A$.
-
-> $$A^C := \{x \in E\ |\ x \notin A\}$$
+Dato un **insieme** $A \subseteq E$ [[Sottoinsieme|sottoinsieme]] di un [[Insieme universo|insieme universo]] $E$, si definisce **insieme complementare** di $A$ l'insieme degli elementi di $E$ che **non** appartengono ad $A$
+$$A^C := \{x \in E\ |\ x \notin A\}$$
 
 ---
 
-###### Caratteristiche
+## Caratteristiche
 
 - Il **complementare** dell'[[Insieme vuoto|insieme vuoto]] è l'[[Insieme universo|insieme universo]]: $\emptyset^C = E$;
 - Il **complementare** dell'[[Insieme universo|insieme universo]] è l'[[Insieme vuoto|insieme vuoto]]: $E^C = \emptyset$;

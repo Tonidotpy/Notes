@@ -5,7 +5,7 @@
  Tags: [linguaggi-formali-e-compilatori]
 ---
 
-**Partition refinement** è una procedura utilizzata per eliminare gli [[Stato|stati]] in eccesso di un [[Automa a Stati Finiti Deterministico|DFA]] senza modificarne il [[Linguaggio regolare|linguaggio]] descritto
+**Partition refinement**[^online-tool] è una procedura utilizzata per eliminare gli [[Stato|stati]] in eccesso di un [[Automa a Stati Finiti Deterministico|DFA]] senza modificarne il [[Linguaggio regolare|linguaggio]] descritto
 
 ---
 
@@ -28,3 +28,6 @@ while qualche Bi in P può essere spezzato rispetto a qualche (a, Bj) do
     P.insert({s in Bi : move_{d}(s, a) not in Bj})
 done
 ```
+
+
+[^online-tool]: Strumento online per la generazione di un DFA minimo: https://cyberzhg.github.io/toolbox/min_dfa

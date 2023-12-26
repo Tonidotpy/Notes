@@ -5,7 +5,7 @@
  Tags: [linguaggi-formali-e-compilatori]
 ---
 
-**Subset construction** è un [[Algoritmo|algoritmo]] utilizzato per ricavare un [[Automa a Stati Finiti Deterministico|DFA]] $\mathcal{D}'$ dato un certo [[Automa a Stati Finiti Non-deterministico|NFA]] $\mathcal{D}$ tale che $\mathcal{L(D) = L(D')}$
+**Subset construction**[^online-tool] è un [[Algoritmo|algoritmo]] utilizzato per ricavare un [[Automa a Stati Finiti Deterministico|DFA]] $\mathcal{D}'$ dato un certo [[Automa a Stati Finiti Non-deterministico|NFA]] $\mathcal{D}$ tale che $\mathcal{L(D) = L(D')}$
 
 ---
 
@@ -51,3 +51,6 @@ done
 ```
 
 > [!WARNING] L'algoritmo di subset construction ricava **una possibile soluzione** ma non è detto che questa sia la migliore
+
+
+[^online-tool]: Strumento online per la generazione di un DFA da un NFA: https://cyberzhg.github.io/toolbox/nfa2dfa
