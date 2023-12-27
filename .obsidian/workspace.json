@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
+                "file": "Linguaggi-formali-e-compilatori/Top-Down parsing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ac2f6218d6cf693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +117,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
-                "collapseAll": true,
+                "file": "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -150,8 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9b0c6f41fdb5421",
+  "active": "df67150eff6684d8",
   "lastOpenFiles": [
+    "Linguaggi-formali-e-compilatori/Grammatica LL(1).md",
+    "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
+    "Linguaggi-formali-e-compilatori/Top-Down parsing.md",
+    "Linguaggi-formali-e-compilatori/Subset Construction.md",
+    "Linguaggi-formali-e-compilatori/Top-Down parsing predittivo.md",
+    "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
     "Linguaggi-formali-e-compilatori/Espressione regolare.md",
     "Linguaggi-formali-e-compilatori/Analisi lessicale.md",
     "Linguaggi-formali-e-compilatori/Generatore di analizzatori lessicali.md",
@@ -163,7 +182,6 @@
     "Linguaggi-formali-e-compilatori/Pumping lemma per i linguaggi regolari.md",
     "Linguaggi-formali-e-compilatori/Pumping lemma per linguaggi liberi.md",
     "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
-    "Linguaggi-formali-e-compilatori/Subset Construction.md",
     "Linguaggi-formali-e-compilatori/Partition Refinement.md",
     "Linguaggi-formali-e-compilatori/Forma normale di Chomsky.md",
     "Linguaggi-formali-e-compilatori/Grammatica libera.md",
@@ -173,11 +191,6 @@
     "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
     "Linguaggi-formali-e-compilatori/Simulazione NFA.md",
     "Linguaggi-formali-e-compilatori/State Equivalence.md",
-    "Linguaggi-formali-e-compilatori/Simulazione DFA.md",
-    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti.md",
-    "Linguaggi-formali-e-compilatori/Epsilon chiusura di un automa.md",
-    "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
-    "Linguaggi-formali-e-compilatori/Compilatore.md",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-1.png",
