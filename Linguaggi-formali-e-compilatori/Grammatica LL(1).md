@@ -14,6 +14,12 @@ Una **grammatica LL(1)** è un particolare tipo di [[Grammatica libera|grammatic
 
 > [!INFO] Questo tipo di grammatica è **completamente deterministica**
 
+Più formalmente una grammatica $\mathcal{G}$ è di tipo $LL(1)$ **se e solo se**, nel caso in $\mathcal{G}$ avesse delle produzioni del tipo $A \rightarrow \alpha\ |\ \beta$, allora:
+- $first(\alpha) \cap first(\beta) = \emptyset$
+- Se $\epsilon \in first(\alpha)$ allora $first(\beta) \cap follow(A) = \emptyset$ e, viceversa, se $\epsilon \in first(\beta)$ allora $first(\alpha) \cap follow(A) = \emptyset$
+
+---
+
 Per analizzare questo tipo di grammatica si costruisce una [[Tabella di parsing|tabella di parsing]] e vi si applica un [[Algoritmo|algoritmo]] per ottenere la derivazione della stringa $w \iff w \in \mathcal{L(G)}$(oppure *error()*) dato $w$, la tabella $M$ precedentemente descritta e la grammatica $\mathcal{G}$
 
 Per questo algoritmo vengono utilizzati:
