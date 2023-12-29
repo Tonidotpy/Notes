@@ -1,8 +1,10 @@
 ---
- Created: 2023-12-27 18:56
- Author: Antonio Gelain
- Aliases: []
- Tags: [linguaggi-formali-e-compilatori]
+Created: 2023-12-27 18:56
+Author: Antonio Gelain
+aliases:
+  - Grammatica Left Leftmost(1)
+tags:
+  - linguaggi-formali-e-compilatori
 ---
 
 Una **grammatica LL(1)** è un particolare tipo di [[Grammatica libera|grammatica libera]] che utilizza i seguenti passaggi per essere analizzata:
@@ -20,7 +22,7 @@ Più formalmente una grammatica $\mathcal{G}$ è di tipo $LL(1)$ **se e solo se*
 
 ---
 
-Per analizzare questo tipo di grammatica si costruisce una [[Tabella di parsing|tabella di parsing]] e vi si applica un [[Algoritmo|algoritmo]] per ottenere la derivazione della stringa $w \iff w \in \mathcal{L(G)}$(oppure *error()*) dato $w$, la tabella $M$ precedentemente descritta e la grammatica $\mathcal{G}$
+Per analizzare questo tipo di grammatica si costruisce una [[Tabella di parsing top-down|tabella di parsing]] e vi si applica un [[Algoritmo|algoritmo]] per ottenere la derivazione della stringa $w \iff w \in \mathcal{L(G)}$(oppure *error()*) dato $w$, la tabella $M$ precedentemente descritta e la grammatica $\mathcal{G}$
 
 Per questo algoritmo vengono utilizzati:
 - Un buffer che conterrà la parola con un terminatore `$`

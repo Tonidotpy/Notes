@@ -1,46 +1,27 @@
 ---
- Created: 2023-12-27 20:56
+ Created: 2023-12-29 16:41
  Author: Antonio Gelain
  Aliases: []
  Tags: [linguaggi-formali-e-compilatori]
 ---
 
-Una **tabella di parsing** è un particolare tipo di tabella che viene utilizzata dai [[Top-Down parsing predittivo|parser top-down predittivi]] per analizzare una [[Grammatica LL(1)|grammatica LL(1)]]
+Una **tabella di parsing** è un particolare tipo di tabella che viene utilizzata dai [[Analisi sintattica|parser]] per analizzare diversi tipi di [[Grammatica libera|grammatiche]]
 
 ---
 
-La tabella è composta nel seguente modo:
-- Si ha una **riga** per ogni **non-terminale** della grammatica
-- Si ha una **colonna** per ogni **terminale** della grammatica, a cui si aggiunge il simbolo `$` utilizzato come terminatore
-- Le celle vuote all'interno della tabella identificano casi di errore
+## Costruzione di una tabella di parsing
 
-All'interno di una cella identificata da un [[Simbolo|simbolo]] non-terminale $A$ ed un terminale $b$ è presente la produzione $M[A, b] = A \rightarrow a$ se:
-- Il *body* della produzione con *driver* $A$ è tale per cui esiste una derivazione del tipo $\alpha \Rightarrow^{*} b \beta$, ossia partendo da $\alpha$ si riesce, con zero o più passi, a ottenere una stringa che inizia per $b$
-- Oppure $\alpha \Rightarrow^{*} \epsilon$ ed è possibile avere $S \Rightarrow^{*} wAy$ con $\gamma \Rightarrow^{*} b \beta$
+Dobbiamo costruire una tabella con delle *entries* di forma $M[P, Y]$, dove $P$ è uno [[Stato|stato]] e $Y$ è un [[Simbolo|simbolo]] del [[Vocabolario|vocabolario]] $V$, tramite le seguenti regole:
+- Se $Y$ è un terminale e $\tau(P, Y) = Q$ si inserisce la mossa `shift Q`
+- Se $P$ contiene un [[Reducing item|reducing item]] per $A \rightarrow \beta$ e $Y \in \mathcal{LA}(P, A \rightarrow \beta)$, si inserisce la mossa `reduce A -> b` (le [[Reduce|reduce]] dipendono dalla *lookahead function* $\mathcal{LA}$)
+- Se $P$ contiene l'*accepting item* e $Y = \$$ si inserisce `accept`
+    - Nel caso degli [[Grammatica LR(0)|automi LR(0)]] l'accepting item è { $S' \rightarrow S \cdot$ }
+    - Nel caso degli [[Grammatica LR(1)|automi LR(1)]] l'accepting item è { $S' \rightarrow S \cdot, \Delta$ }
+- Se $Y$ è un terminale o $\$$ e nessuna delle condizioni precedenti è valida si inserisce `errore`
+- Se $Y$ è un non-terminale e $\tau(P, Y) = Q$ si inserisce la mossa `goto Q`
 
----
+## Conflitti
 
-Per costruire una tabella di parsing si scorrono tutte le produzioni $A \rightarrow \alpha$ presenti nella grammatica e, per ognuna di queste (utilizzando il [[First(alpha)|first]] e il [[Follow(A)|follow]]):
-- Si aggiunge $A \rightarrow \alpha$ in $M[A, b]$ per ogni $b \in (first(\alpha)\ \backslash\ \{ \epsilon \})$
-- Se $\epsilon \in first(\alpha)$, si aggiunge $A \rightarrow \alpha$ a $M[A, x]$ per tutti gli $x \in follow(A)$
-
-In pseudo-codice:
-```
-function parsingTableComputation(Grammar G) -> Table begin
-    foreach A -> a in P do
-        % Per ogni simbolo in first(a) si aggiunge la produzione alla tabella %
-        foreach b in (first(a) \ { e }) do
-            add A -> a to M[A, b]
-        done
-
-        % Se epsilon appartiene a first(a) allora per ogni simbolo in follow(A) si aggiunge la produzione alla tabella %
-        if e in first(a) then
-            foreach x in follow(A) do
-                add A -> a to M[A, x]
-            done
-        fi
-    done
-
-    % Assegna error() a tutte le celle vuote rimanenti %
-end
-```
+Esistono principalmente due tipi di conflitti possibili in una tabella di parsing:
+- **Conflitti shift/reduce**: nel caso in cui almeno un entry $M[P, Y]$ della tabella di parsing contiene sia un'operazione di `shift Q` sia un operazione di `reduce A -> b`
+- **Conflitti reduce/reduce**: nel caso in cui almeno un entry della tabella di parsing contiene due operazioni di `reduce` per produzioni distinte

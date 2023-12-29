@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Grammatica LL(1).md",
+                "file": "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d76eda8baadc8366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi-formali-e-compilatori/Follow(A).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alternanza",
+                "query": "acceptin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Grammatica LL(1).md",
+                "file": "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,32 +164,33 @@
   },
   "active": "0e920eeffeaae878",
   "lastOpenFiles": [
+    "Linguaggi-formali-e-compilatori/Grammatica LR(0).md",
+    "Linguaggi-formali-e-compilatori/Grammatica SLR(1).md",
+    "Linguaggi-formali-e-compilatori/Shift-Reduce.md",
+    "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
+    "Linguaggi-formali-e-compilatori/Bottom-Up parsing.md",
+    "Shift/Reduce.md",
+    "Shift",
     "Linguaggi-formali-e-compilatori/Follow(A).md",
     "Linguaggi-formali-e-compilatori/Grammatica LL(1).md",
-    "Linguaggi-formali-e-compilatori/Grammatica con fattorizzabilità sinistra.md",
-    "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
-    "Linguaggi-formali-e-compilatori/Grammatica con ricorsione sinistra.md",
+    "Linguaggi-formali-e-compilatori/Reducing item.md",
+    "Linguaggi-formali-e-compilatori/Vocabolario.md",
+    "Linguaggi-formali-e-compilatori/Tabella di parsing bottom-up.md",
+    "Linguaggi-formali-e-compilatori/Tabella di parsing top-down.md",
+    "Analisi/Insiemi/Insieme.md",
     "Linguaggi-formali-e-compilatori/Top-Down parsing.md",
+    "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
+    "Linguaggi-formali-e-compilatori/Grammatica con fattorizzabilità sinistra.md",
+    "Linguaggi-formali-e-compilatori/Grammatica con ricorsione sinistra.md",
     "Linguaggi-formali-e-compilatori/First(alpha).md",
     "Linguaggi-formali-e-compilatori/Subset Construction.md",
     "Linguaggi-formali-e-compilatori/Top-Down parsing predittivo.md",
-    "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
     "Linguaggi-formali-e-compilatori/Espressione regolare.md",
     "Linguaggi-formali-e-compilatori/Analisi lessicale.md",
     "Linguaggi-formali-e-compilatori/Generatore di analizzatori lessicali.md",
     "Linguaggi-formali-e-compilatori/Token.md",
     "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
     "Linguaggi-formali-e-compilatori/Linguaggio regolare.md",
-    "Analisi/Insiemi/Insiemi complementari.md",
-    "Linguaggi-formali-e-compilatori/Grammatica regolare.md",
-    "Linguaggi-formali-e-compilatori/Pumping lemma per i linguaggi regolari.md",
-    "Linguaggi-formali-e-compilatori/Pumping lemma per linguaggi liberi.md",
-    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
-    "Linguaggi-formali-e-compilatori/Partition Refinement.md",
-    "Linguaggi-formali-e-compilatori/Forma normale di Chomsky.md",
-    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
-    "Fondamenti-matematici-per-informatica/Ciclo.md",
-    "Fondamenti-matematici-per-informatica/Cammino.md",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-1.png",
@@ -194,7 +207,6 @@
     "Untitled.canvas",
     "Logica-computazionale",
     "Linguaggi-formali-e-compilatori",
-    "Sistemi-operativi/File-system",
-    "Sistemi-operativi/Gestione-della-memoria"
+    "Sistemi-operativi/File-system"
   ]
 }

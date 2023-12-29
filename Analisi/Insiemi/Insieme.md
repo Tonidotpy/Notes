@@ -8,21 +8,17 @@ tags:
   - insiemi
 ---
 
-# Insieme
-
-###### Definizione
-
-Un'**insieme** in matematica è un raggruppamento di elementi di qualsiasi tipo (numerico, logico o concettuale) che può essere individuato mediante una caratteristica comune agli elementi che vi appartengono oppure per semplice elencazione degli elementi dell'insieme.
+Un'**insieme** in matematica è un raggruppamento di elementi di qualsiasi tipo (numerico, logico o concettuale) che può essere individuato mediante una caratteristica comune agli elementi che vi appartengono oppure per semplice elencazione degli elementi dell'insieme
 
 ---
 
-###### Caratteristiche
+## Caratteristiche
 
-- È possibile stabilire **senza dubbio** se un elemento appartiene all'**insieme**;
-- Gli elementi dell'**insieme** devono essere tutti distinti tra loro;
-- L'ordine degli elementi all'interno di un **insieme** è irrilevante;
+- È possibile stabilire **senza dubbio** se un elemento appartiene all'**insieme**
+- Gli elementi dell'**insieme** devono essere tutti distinti tra loro
+- L'ordine degli elementi all'interno di un **insieme** è irrilevante
 
-###### Simboli
+## Simboli
 
 Generalmente gli **insiemi** si indicano con le lettere maiuscole dell'alfabeto $A, B, C, ...$
 mentre per i loro **elementi** si utilizzano quelle minuscole $a, b, c, ...$.
@@ -33,7 +29,7 @@ mentre per i loro **elementi** si utilizzano quelle minuscole $a, b, c, ...$.
 |          $\notin$          | Non appartiene | Specifica che un elemento **non** appartiene ad un insieme |
 | $\#$ o \|$A$\| o $card(A)$ |  Cardinalità   | Rappresenta il numero di elementi appartenenti all'insieme |
 
-###### Insiemi particolari
+## Insiemi particolari
 
 |   Simbolo    |                           Significato                            | Descrizione                                                        |
 |:------------:|:----------------------------------------------------------------:|:------------------------------------------------------------------ |
@@ -49,7 +45,7 @@ mentre per i loro **elementi** si utilizzano quelle minuscole $a, b, c, ...$.
 
 ---
 
-###### Operazioni
+## Operazioni
 
 |      Simbolo       |          Significato           | Descrizione                                                                                                |
 |:------------------:|:------------------------------:|:---------------------------------------------------------------------------------------------------------- |
