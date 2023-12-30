@@ -10,9 +10,9 @@ tags:
 Una **grammatica LR(0)** è un tipo di [[Grammatica libera|grammatica libera]] utilizzato per rendere più efficiente il [[Bottom-Up parsing|parsing bottom-up]]
 
 ---
-
+    
 Gli [[Stato|stati]] dell'[[Automata|automa]] caratteristico di una grammatica LR(0) vengono chiamati *LR(0)-items* e hanno la seguente forma:
-$$A \rightarrow \alpha \cdot \beta$$
+$$A \rightarrow \alpha \cdot B \beta$$
 
 ## Chiusura di un insieme di LR(0)-items
 

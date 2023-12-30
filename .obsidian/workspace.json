@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
+                "file": "Linguaggi-formali-e-compilatori/Tabella di parsing bottom-up.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Follow(A).md",
+                "file": "Linguaggi-formali-e-compilatori/Grammatica LR(0).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c86162dd7aabdbac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +56,7 @@
       {
         "id": "d7352dbbd297efc7",
         "type": "tabs",
-        "dimension": 30.27777777777778,
+        "dimension": 31.497797356828194,
         "children": [
           {
             "id": "704c3abbac12065c",
@@ -67,7 +80,7 @@
       {
         "id": "916bc91c31ff1954",
         "type": "tabs",
-        "dimension": 69.72222222222223,
+        "dimension": 68.5022026431718,
         "children": [
           {
             "id": "c58d9d2ca5f824b8",
@@ -85,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acceptin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,12 +107,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284,
+    "width": 258.01103591918945,
     "collapsed": true
   },
   "right": {
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
+                "file": "Linguaggi-formali-e-compilatori/Grammatica LR(0).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,35 +174,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e920eeffeaae878",
+  "active": "c58d9d2ca5f824b8",
   "lastOpenFiles": [
+    "Linguaggi-formali-e-compilatori/Tabella di parsing bottom-up.md",
+    "Linguaggi-formali-e-compilatori/Grammatica LR(1).md",
     "Linguaggi-formali-e-compilatori/Grammatica LR(0).md",
-    "Linguaggi-formali-e-compilatori/Grammatica SLR(1).md",
-    "Linguaggi-formali-e-compilatori/Shift-Reduce.md",
+    "Linguaggi-formali-e-compilatori/Reducing item.md",
+    "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
+    "Linguaggi-formali-e-compilatori/Grammatica con ricorsione sinistra.md",
     "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
     "Linguaggi-formali-e-compilatori/Bottom-Up parsing.md",
-    "Shift/Reduce.md",
-    "Shift",
+    "Linguaggi-formali-e-compilatori/Grammatica SLR(1).md",
+    "Linguaggi-formali-e-compilatori/Grammatica con fattorizzabilità sinistra.md",
     "Linguaggi-formali-e-compilatori/Follow(A).md",
     "Linguaggi-formali-e-compilatori/Grammatica LL(1).md",
-    "Linguaggi-formali-e-compilatori/Reducing item.md",
+    "Linguaggi-formali-e-compilatori/Subset Construction.md",
+    "Linguaggi-formali-e-compilatori/Partition Refinement.md",
+    "Linguaggi-formali-e-compilatori/subsetù.md",
+    "Linguaggi-formali-e-compilatori/Simulazione NFA.md",
+    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
+    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Deterministico.md",
+    "Linguaggi-formali-e-compilatori/Compilatore.md",
+    "Linguaggi-formali-e-compilatori/Analisi semantica.md",
+    "Linguaggi-formali-e-compilatori/Shift-Reduce.md",
+    "Shift/Reduce.md",
+    "Shift",
     "Linguaggi-formali-e-compilatori/Vocabolario.md",
-    "Linguaggi-formali-e-compilatori/Tabella di parsing bottom-up.md",
     "Linguaggi-formali-e-compilatori/Tabella di parsing top-down.md",
     "Analisi/Insiemi/Insieme.md",
     "Linguaggi-formali-e-compilatori/Top-Down parsing.md",
-    "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
-    "Linguaggi-formali-e-compilatori/Grammatica con fattorizzabilità sinistra.md",
-    "Linguaggi-formali-e-compilatori/Grammatica con ricorsione sinistra.md",
-    "Linguaggi-formali-e-compilatori/First(alpha).md",
-    "Linguaggi-formali-e-compilatori/Subset Construction.md",
-    "Linguaggi-formali-e-compilatori/Top-Down parsing predittivo.md",
-    "Linguaggi-formali-e-compilatori/Espressione regolare.md",
-    "Linguaggi-formali-e-compilatori/Analisi lessicale.md",
-    "Linguaggi-formali-e-compilatori/Generatore di analizzatori lessicali.md",
-    "Linguaggi-formali-e-compilatori/Token.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio regolare.md",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-1.png",
