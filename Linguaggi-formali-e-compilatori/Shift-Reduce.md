@@ -39,3 +39,12 @@ function bottomUpParsing(Word w, Table[][] M) begin
     end
 end
 ```
+
+Nel caso in cui la traduzione tramite [[Grammatica attribuita|grammatica attribuita]] venga eseguita durante il parsing abbiamo bisogno di una terza pila per gli attributi $semSt$
+
+Durante l'esecuzione dell'algoritmo se avviene un'operazione di:
+- **Shift**: Si aggiunge l'attributo corrispondente al simbolo letto (*e.g.* se leggiamo il terminale $digit$ e il suo attributo identificato da $digit.lexval$ è `3`, si aggiunge `3` a $semSt$)
+    Nel caso in cui il simbolo letto sia un terminale a cui non è associato alcun valore (ad esempio le operazione aritmetiche $+$, $\times$, $-$, $\div$) si aggiunge a $semSt$ un valore *fantoccio* che non modifica il risultato finale (ad esempio $0$ per la somma, $1$ per la moltiplicazione, ecc...)
+- **Reduce**: Si rimuovono tanti attributi quanti sono i simboli nel body della riduzione, in $semSt$ e si aggiunge il corrispondente attributo ricavato dalla regola associata alla produzione della riduzione (*e.g.* se abbiamo una riduzione $T \rightarrow F$ e una regola associata $\{ T.val = F.val \}$, allora si rimuove l'attributo relativo a $F.val$ da $semSt$ e aggiungiamo il nuovo attributo identificato da $T.val$)
+
+> [!IMPORTANT] Le operazioni descritte precedentemente funzionano solamente se l'SDD è **S-attribuita**
