@@ -5,7 +5,7 @@
  Tags: [linguaggi-formali-e-compilatori]
 ---
 
-Un **parse tree annotato** è un particolare tipo di [[Parse Tree|albero di parsing]] i cui valori sono annotati da una [[Grammatica attribuita|grammatica attribuita]]
+Un **parse tree annotato** è un particolare tipo di [[Albero di derivazione|albero di parsing]] i cui valori sono annotati da una [[Grammatica attribuita|grammatica attribuita]]
 
 ---
 

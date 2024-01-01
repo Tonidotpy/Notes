@@ -26,6 +26,6 @@ Le grammatiche attribuite contenenti anche attributi ereditati vengono chiamate 
 
 ---
 
-La grammatica attribuita viene utilizzata per dare dei valori effettivi al [[Parse Tree|parse tree]] facendolo diventare un [[Parse tree annotato|parse tree annotato]]
+La grammatica attribuita viene utilizzata per dare dei valori effettivi al [[Albero di derivazione|parse tree]] facendolo diventare un [[Parse tree annotato|parse tree annotato]]
 
 Partendo dalle foglie dell'albero si applicano le regole associate alla produzione utilizzata, risalendo fino alla radice dell'albero ottenendo così il valore finale della parola

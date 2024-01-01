@@ -13,7 +13,7 @@ L'**analisi sintattica**(o *parsing*) è un meccanismo che permette di verificar
 
 > [!INFO] È durante questa fase che compaiono i *syntax errors*
 
-Se le regole della grammatica vengono rispettate, il flusso di token viene tradotto in un [[Parse Tree|parse tree]] (o meglio un [[Abstract Syntax Tree|AST]])
+Se le regole della grammatica vengono rispettate, il flusso di token viene tradotto in un [[Albero di derivazione|parse tree]] (o meglio un [[Abstract Syntax Tree|AST]])
 
 ---
 

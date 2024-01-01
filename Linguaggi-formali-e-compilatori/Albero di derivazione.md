@@ -1,8 +1,10 @@
 ---
- Created: 2023-09-15 09:23
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-15 09:23
+Author: Antonio Gelain
+aliases:
+  - Parse tree
+tags:
+  - "#linguaggi-formali-e-compilatori"
 ---
 
 Un **albero di derivazione** è un [[Albero|albero]]  la cui radice contiene lo *starting point* e per ogni passo di [[Derivazione|derivazione]] si generano $n$ figli del nodo la cui derivazione è messa in atto
