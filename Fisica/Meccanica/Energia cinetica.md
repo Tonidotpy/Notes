@@ -5,7 +5,7 @@
  Tags: [meccanica]
 ---
 
-L'**energia cinetica** è l'[[Energia di un segnale|energia]] che un [[Corpo|corpo]] possiede a causa del proprio [[Moto|moto]]
+L'**energia cinetica** è l'[[Energia di un segnale|energia]] che un [[Corpo|corpo]] possiede a causa del proprio [[Movimento|moto]]
 
 ---
 

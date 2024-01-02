@@ -5,7 +5,7 @@
  Tags: [cinematica]
 ---
 
-Un **moto relativo** è un tipo di [[Moto|moto]] che avviene in riferimento ad un [[Sistema di riferimento|sistema]] scelto (in generale anch'esso in movimento) 
+Un **moto relativo** è un tipo di [[Movimento|moto]] che avviene in riferimento ad un [[Sistema di riferimento|sistema]] scelto (in generale anch'esso in movimento) 
 
 ---
 

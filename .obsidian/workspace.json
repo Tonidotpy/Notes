@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Codice intermedio.md",
+                "file": "Fisica/Cinematica/Moto armonico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c8b231ed8638de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fisica/Cinematica/Moto Rettilineo Uniforme.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Parse",
+                "query": "moto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi-formali-e-compilatori/Codice intermedio.md",
+                "file": "Fisica/Cinematica/Moto armonico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,32 +164,32 @@
   },
   "active": "f188f7bcdb71dc81",
   "lastOpenFiles": [
+    "Fisica/Cinematica/Moto Rettilineo Uniforme.md",
+    "Fisica/Cinematica/Moto armonico.md",
+    "Fisica/Cinematica/Movimento.md",
+    "Fisica/Cinematica/Moto Rettilineo Uniformemente Accellerato.md",
+    "Fisica/Cinematica/Velocità.md",
+    "Fisica/Cinematica/Accelerazione.md",
+    "Fisica/Cinematica/Accellerazione di trascinamento.md",
+    "Fisica/Cinematica/Sistema di riferimento.md",
+    "Fisica/Cinematica/Distanza.md",
+    "Fisica/Cinematica/Reazione vincolare.md",
+    "Fisica/Meccanica/Energia cinetica.md",
+    "Fisica/Cinematica/Moto parabolico.md",
+    "Fisica/Cinematica/Moto relativo.md",
+    "Fisica/Cinematica/Pendolo.md",
+    "Fisica/Cinematica/Posizione.md",
+    "Fisica/Cinematica/Traiettoria.md",
+    "Linguaggi-formali-e-compilatori/Codice intermedio.md",
     "Linguaggi-formali-e-compilatori/Abstract Syntax Tree.md",
     "Linguaggi-formali-e-compilatori/Funzione di attribuzione.md",
     "Linguaggi-formali-e-compilatori/Grammatica attribuita.md",
     "Linguaggi-formali-e-compilatori/Albero di derivazione.md",
     "Fondamenti-di-elaborazione-dei-segnali/Teorema di Rayleigh.md",
-    "Linguaggi-formali-e-compilatori/Codice intermedio.md",
     "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
     "Linguaggi-formali-e-compilatori/Top-Down parsing.md",
     "Linguaggi-formali-e-compilatori/Tabella di parsing top-down.md",
     "Linguaggi-formali-e-compilatori/Bottom-Up parsing.md",
-    "Linguaggi-formali-e-compilatori/Tabella di parsing bottom-up.md",
-    "Linguaggi-formali-e-compilatori/Tabella di parsing.md",
-    "Linguaggi-formali-e-compilatori/Parse tree annotato.md",
-    "Linguaggi-formali-e-compilatori/Grafo delle dipendenze.md",
-    "Linguaggi-formali-e-compilatori/Shift-Reduce.md",
-    "Linguaggi-formali-e-compilatori/Grammatica LL(1).md",
-    "Linguaggi-formali-e-compilatori/Grammatica con ricorsione sinistra.md",
-    "Linguaggi-formali-e-compilatori/Analisi semantica.md",
-    "Linguaggi-formali-e-compilatori/Compilatore.md",
-    "Linguaggi-formali-e-compilatori/Grammatica LR(1).md",
-    "Linguaggi-formali-e-compilatori/Grammatica LALR(1).md",
-    "Linguaggi-formali-e-compilatori/Automa simbolico.md",
-    "Linguaggi-formali-e-compilatori/Reducing item.md",
-    "Linguaggi-formali-e-compilatori/Grammatica LR(0).md",
-    "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
-    "Linguaggi-formali-e-compilatori/Grammatica SLR(1).md",
     "Shift",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",

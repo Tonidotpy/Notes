@@ -5,7 +5,7 @@
  Tags: [cinematica]
 ---
 
-Il **moto parabolico** è un tipo di [[Moto|moto]] bidimensionale esprimibile attraverso la combinazione di due [[Moto Rettilineo Uniforme|moti rettilinei]] **simultanei** ed indipendenti
+Il **moto parabolico** è un tipo di [[Movimento|moto]] bidimensionale esprimibile attraverso la combinazione di due [[Moto Rettilineo Uniforme|moti rettilinei]] **simultanei** ed indipendenti
 
 ---
 

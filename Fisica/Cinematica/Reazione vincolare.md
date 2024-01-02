@@ -5,7 +5,7 @@
  Tags: [cinematica]
 ---
 
-La **reazione vincolare** è una [[Forza|forza]] che si oppone al [[Moto|moto]] di un [[Corpo|corpo]]
+La **reazione vincolare** è una [[Forza|forza]] che si oppone al [[Movimento|moto]] di un [[Corpo|corpo]]
 
 ---
 

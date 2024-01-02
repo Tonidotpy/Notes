@@ -1,15 +1,17 @@
 ---
- Created: 2023-03-15 10:58
- Author: Antonio Gelain
- Aliases: []
- Tags: [cinematica]
+Created: 2023-03-15 10:58
+Author: Antonio Gelain
+aliases: 
+tags:
+  - cinematica
+  - fisica
 ---
 
 Un **pendolo semplice** è un [[Sistema di riferimento|sistema]] fisico costituito da un filo **insetensibile** e da una [[Massa|massa]] puntiforme fissata alla sua estremità soggetta all'[[Gravità|attrazione gravitazionale]]
 
 ---
 
-![Pendolo semplice](https://upload.wikimedia.org/wikipedia/it/thumb/5/58/Pendolo_semplice.jpg/220px-Pendolo_semplice.jpg)
+![Pendolo semplice](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pendolo_semplice.jpg/220px-Pendolo_semplice.jpg)
 
 Sia $l$ la [[Lunghezza|lunghezza]] del filo:
 $$\begin{cases}
