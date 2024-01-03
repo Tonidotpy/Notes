@@ -16,3 +16,5 @@ Esistono diversi tipi di moti fondamentali, tra cui:
 - [[Moto Rettilineo Uniforme|Moto rettilineo uniforme]]
 - [[Moto Rettilineo Uniformemente Accellerato|Moto rettilineo uniformemente accellerato]]
 - [[Moto armonico]]
+- [[Moto Circolare Uniforme|Moto circolare uniforme]]
+- [[Moto parabolico]]

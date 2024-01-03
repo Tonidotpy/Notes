@@ -5,7 +5,7 @@ aliases:
 tags:
   - linguaggi-formali-e-compilatori
 ---
-Una **grammatica generativa** è un tipo di grammatica utilizzata per generare [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggi]]
+Una **grammatica generativa** è un tipo di [[Grammatica|grammatica]] utilizzata per generare [[Linguaggi-formali-e-compilatori/Linguaggio|linguaggi]]
 
 ---
 

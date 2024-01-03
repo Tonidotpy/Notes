@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f188f7bcdb71dc81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fisica/Cinematica/Moto armonico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c8b231ed8638de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Cinematica/Moto Rettilineo Uniforme.md",
+                "file": "Fisica/Meccanica/Statica/Forza risultante.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Cinematica/Moto armonico.md",
+                "file": "Fisica/Meccanica/Statica/Forza risultante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,34 +149,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f188f7bcdb71dc81",
+  "active": "7c8b231ed8638de2",
   "lastOpenFiles": [
-    "Fisica/Cinematica/Moto Rettilineo Uniforme.md",
-    "Fisica/Cinematica/Moto armonico.md",
-    "Fisica/Cinematica/Movimento.md",
-    "Fisica/Cinematica/Moto Rettilineo Uniformemente Accellerato.md",
-    "Fisica/Cinematica/Velocità.md",
-    "Fisica/Cinematica/Accelerazione.md",
-    "Fisica/Cinematica/Accellerazione di trascinamento.md",
-    "Fisica/Cinematica/Sistema di riferimento.md",
-    "Fisica/Cinematica/Distanza.md",
-    "Fisica/Cinematica/Reazione vincolare.md",
-    "Fisica/Meccanica/Energia cinetica.md",
+    "Fisica/Meccanica/Dinamica/Sistema non inerziale.md",
+    "Fisica/Meccanica/Statica/Forza risultante.md",
+    "Fisica/Meccanica/Dinamica/Sistema inerziale.md",
+    "Fisica/Meccanica/Dinamica/Quantità di moto.md",
+    "Fisica/Meccanica/Dinamica/Inerzia.md",
+    "Fisica/Meccanica/Dinamica/Forza impulsiva.md",
+    "Fisica/Meccanica/Dinamica/Forza.md",
+    "Fisica/Meccanica/Statica",
     "Fisica/Cinematica/Moto parabolico.md",
-    "Fisica/Cinematica/Moto relativo.md",
-    "Fisica/Cinematica/Pendolo.md",
-    "Fisica/Cinematica/Posizione.md",
-    "Fisica/Cinematica/Traiettoria.md",
-    "Linguaggi-formali-e-compilatori/Codice intermedio.md",
-    "Linguaggi-formali-e-compilatori/Abstract Syntax Tree.md",
-    "Linguaggi-formali-e-compilatori/Funzione di attribuzione.md",
-    "Linguaggi-formali-e-compilatori/Grammatica attribuita.md",
+    "Fisica/Meccanica/Dinamica",
+    "Fisica/Cinematica/Moto armonico.md",
+    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
+    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Deterministico.md",
+    "Linguaggi-formali-e-compilatori/Simulazione DFA.md",
+    "Fisica/Cinematica/Movimento.md",
+    "Fisica/Cinematica/Moto Circolare Uniforme.md",
+    "Fisica/Cinematica/Moto Rettilineo Uniforme.md",
+    "Fisica/Cinematica/Vettore.md",
+    "Fisica/Cinematica/moto ù.md",
+    "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
+    "Linguaggi-formali-e-compilatori/Grammatica generativa.md",
+    "Linguaggi-formali-e-compilatori/Compilatore.md",
+    "Linguaggi-formali-e-compilatori/Linguaggio.md",
+    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
     "Linguaggi-formali-e-compilatori/Albero di derivazione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Rayleigh.md",
-    "Linguaggi-formali-e-compilatori/Analisi sintattica.md",
-    "Linguaggi-formali-e-compilatori/Top-Down parsing.md",
-    "Linguaggi-formali-e-compilatori/Tabella di parsing top-down.md",
-    "Linguaggi-formali-e-compilatori/Bottom-Up parsing.md",
+    "Linguaggi-formali-e-compilatori/Derivazione.md",
+    "Linguaggi-formali-e-compilatori/Produzione.md",
+    "Linguaggi-formali-e-compilatori/Simbolo.md",
     "Shift",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",
@@ -205,8 +194,6 @@
     "Embedded-Software-for-The-Internet-of-Things",
     "copilot-conversations",
     "Untitled.canvas",
-    "Logica-computazionale",
-    "Linguaggi-formali-e-compilatori",
-    "Sistemi-operativi/File-system"
+    "Logica-computazionale"
   ]
 }

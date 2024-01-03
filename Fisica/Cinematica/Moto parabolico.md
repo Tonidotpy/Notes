@@ -1,11 +1,13 @@
 ---
- Created: 2023-03-29 11:03
- Author: Antonio Gelain
- Aliases: []
- Tags: [cinematica]
+Created: 2023-03-29 11:03
+Author: Antonio Gelain
+aliases: 
+tags:
+  - cinematica
+  - fisica
 ---
 
-Il **moto parabolico** è un tipo di [[Movimento|moto]] bidimensionale esprimibile attraverso la combinazione di due [[Moto Rettilineo Uniforme|moti rettilinei]] **simultanei** ed indipendenti
+Il **moto parabolico** è un tipo di [[Movimento|moto]] bidimensionale esprimibile attraverso la combinazione di un [[Moto Rettilineo Uniforme|MRU]] ed un [[Moto Rettilineo Uniformemente Accellerato|MRUA]] **simultanei** ed indipendenti
 
 ---
 
