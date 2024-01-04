@@ -1,8 +1,10 @@
 ---
- Created: 2023-03-27 14:43
- Author: Antonio Gelain
- Aliases: []
- Tags: [meccanica]
+Created: 2023-03-27 14:43
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - dinamica
 ---
 
 Una [[Forza|forza]] si dice **conservativa** se il [[Lavoro|lavoro]] da essa compiuto su un [[Corpo|corpo]] che percorre un circuito chiuso è nullo

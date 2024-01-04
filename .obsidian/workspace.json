@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd75bd9b11f5e23a",
+        "id": "7e5471c4470b90d7",
         "type": "tabs",
         "children": [
           {
-            "id": "7c8b231ed8638de2",
+            "id": "35fffb93a4655a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Meccanica/Statica/Forza risultante.md",
+                "file": "Fisica/Dinamica/Lavoro.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Meccanica/Statica/Forza risultante.md",
+                "file": "Fisica/Dinamica/Lavoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,36 +149,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c8b231ed8638de2",
+  "active": "35fffb93a4655a9b",
   "lastOpenFiles": [
-    "Fisica/Meccanica/Dinamica/Sistema non inerziale.md",
-    "Fisica/Meccanica/Statica/Forza risultante.md",
-    "Fisica/Meccanica/Dinamica/Sistema inerziale.md",
-    "Fisica/Meccanica/Dinamica/Quantità di moto.md",
-    "Fisica/Meccanica/Dinamica/Inerzia.md",
-    "Fisica/Meccanica/Dinamica/Forza impulsiva.md",
-    "Fisica/Meccanica/Dinamica/Forza.md",
-    "Fisica/Meccanica/Statica",
-    "Fisica/Cinematica/Moto parabolico.md",
-    "Fisica/Meccanica/Dinamica",
-    "Fisica/Cinematica/Moto armonico.md",
-    "Linguaggi-formali-e-compilatori/Costruzione di Thompson.md",
-    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Deterministico.md",
-    "Linguaggi-formali-e-compilatori/Simulazione DFA.md",
+    "Fisica/Cinematica/Pendolo semplice.md",
+    "Fisica/Statica/Forza risultante.md",
+    "Fisica/Dinamica/Forza.md",
+    "Fisica/Statica/Forza di attrito.md",
+    "Fisica/Statica/Centro di massa.md",
+    "Fisica/Statica/Teorema del centro di massa.md",
+    "Fisica/Dinamica/Forza elastica.md",
+    "Fisica/Dinamica/Forza di richiamo.md",
     "Fisica/Cinematica/Movimento.md",
-    "Fisica/Cinematica/Moto Circolare Uniforme.md",
-    "Fisica/Cinematica/Moto Rettilineo Uniforme.md",
-    "Fisica/Cinematica/Vettore.md",
-    "Fisica/Cinematica/moto ù.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
-    "Linguaggi-formali-e-compilatori/Grammatica generativa.md",
-    "Linguaggi-formali-e-compilatori/Compilatore.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio.md",
-    "Linguaggi-formali-e-compilatori/Grammatica libera.md",
-    "Linguaggi-formali-e-compilatori/Albero di derivazione.md",
-    "Linguaggi-formali-e-compilatori/Derivazione.md",
-    "Linguaggi-formali-e-compilatori/Produzione.md",
-    "Linguaggi-formali-e-compilatori/Simbolo.md",
+    "Fisica/Cinematica/Piano inclinato.md",
+    "Fisica/Cinematica/Reazione vincolare.md",
+    "Fisica/Dinamica/Forza apparente.md",
+    "Fisica/Cinematica/Moto armonico.md",
+    "Fisica/Cinematica/Distanza.md",
+    "Fisica/Cinematica/Accelerazione.md",
+    "Fisica/Statica/Forza peso.md",
+    "Fisica/Statica/Reazione vincolare.md",
+    "Fisica/Dinamica/Forza di attrazione gravitazionale.md",
+    "Fisica/Dinamica/Sistema non inerziale.md",
+    "Fisica/Dinamica/Sistema inerziale.md",
+    "Fisica/Dinamica/Quantità di moto.md",
+    "Fisica/Dinamica/Inerzia.md",
+    "Fisica/Dinamica/Forza non conservativa.md",
+    "Fisica/Dinamica/Forza impulsiva.md",
+    "Fisica/Dinamica/Forza conservativa.md",
+    "Fisica/Meccanica/Cinematica",
+    "Linguaggi-formali-e-compilatori/Forma normale di Chomsky.md",
+    "Fisica/Statica",
+    "Fisica/Dinamica",
     "Shift",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",
@@ -193,7 +194,6 @@
     "Fondamenti-di-elaborazione-dei-segnali",
     "Embedded-Software-for-The-Internet-of-Things",
     "copilot-conversations",
-    "Untitled.canvas",
-    "Logica-computazionale"
+    "Untitled.canvas"
   ]
 }

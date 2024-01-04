@@ -43,4 +43,4 @@ Si può definire la $\epsilon$-chiusura($M$), dato $N = (S, \mathcal{A}, \text{m
 $$X = M \cup \{ N'\ |\ N \in X \cap N' \in \text{move}_{n}(N, \epsilon) \}$$
 
 Si può notare come la definizione di $X$ dipenda da $X$ stessa, per questo è importante notare che si prende il più piccolo insieme in modo da evitare [[Ciclo|cicli]] infiniti
-A questo proposito entra in gioco il [[Teorema del punto fisso|teorema del punto fisso]]
+A questo proposito entra in gioco il [[Linguaggi-formali-e-compilatori/Teorema del punto fisso|teorema del punto fisso]]

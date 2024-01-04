@@ -4,7 +4,6 @@ Author: Antonio Gelain
 aliases: 
 tags:
   - fisica
-  - meccanica
   - dinamica
 ---
 

@@ -3,6 +3,7 @@ Created: 2024-01-02 14:56
 Author: Antonio Gelain
 aliases:
   - Moto
+  - Spostamento
 tags:
   - fisica
   - cinematica
