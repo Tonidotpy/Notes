@@ -17,15 +17,8 @@ $$W_{i \rightarrow f} = \int_{i}^{f} \vec{F} d \vec{x}$$
 Quando il lavoro ha valore positivo si parla di **lavoro motore**
 Quando il lavoro ha valore negativo si parla di **lavoro resistente**
 
-Il lavoro delle [[Forza|forze non conservative]] è pari alla **variazione** dell'[[Energia meccanica|energia meccanica]]
+Il lavoro delle [[Forza non conservativa|forze non conservative]] è pari alla **variazione** dell'[[Energia meccanica|energia meccanica]]
 $$W_{nc} = \Delta E_{m}$$
-
-## Teorema delle forze vive
-
-$$dW = d\left[\frac{1}{2} m v^{2}\right]$$
-
-La **differenza** dell'[[Energia cinetica|energia cinetica]] è uguale al **lavoro** compiuto dalle forze esterne:
-$$W_{i \rightarrow f}^{(ext)} = E_{K,B} - E_{K,A} = \frac{1}{2} m v_{f}^{2} - \frac{1}{2} m v_{i}^{2}$$
 
 ### Lavoro della forza peso
 

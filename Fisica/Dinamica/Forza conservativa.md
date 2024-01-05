@@ -8,10 +8,10 @@ tags:
 ---
 
 Una [[Forza|forza]] si dice **conservativa** se il [[Lavoro|lavoro]] da essa compiuto su un [[Corpo|corpo]] che percorre un circuito chiuso è nullo
+$$\oint_{I} \vec F \cdot \vec{ds} = 0$$
 
 ---
 
-$$\oint_{I} \vec F \cdot \vec{ds} = 0$$
 1. 
 $$\int_{A_{I}}^{B} \vec F \cdot \vec{ds} = \int_{A_{II}}^{B} \vec F \cdot \vec{ds} = ...$$
 2. 
