@@ -17,9 +17,6 @@ $$W_{i \rightarrow f} = \int_{i}^{f} \vec{F} d \vec{x}$$
 Quando il lavoro ha valore positivo si parla di **lavoro motore**
 Quando il lavoro ha valore negativo si parla di **lavoro resistente**
 
-Il lavoro delle [[Forza non conservativa|forze non conservative]] è pari alla **variazione** dell'[[Energia meccanica|energia meccanica]]
-$$W_{nc} = \Delta E_{m}$$
-
 ### Lavoro della forza peso
 
 Il **lavoro della [[Forza peso|forza peso]]** è pari a:

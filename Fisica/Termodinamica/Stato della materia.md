@@ -1,11 +1,14 @@
 ---
- Created: 2023-05-08 15:06
- Author: Antonio Gelain
- Aliases: [Stato di aggregazione]
- Tags: [termodinamica]
+Created: 2023-05-08 15:06
+Author: Antonio Gelain
+aliases:
+  - Stato di aggregazione
+tags:
+  - fisica
+  - termodinamica
 ---
 
-Con **stato della materia** si intende una classificazione convenzionale degli [[Stato|stati]] che può assumere  la [[Materia|materia]]
+Con **stato della materia** si intende una classificazione convenzionale degli [[Stato|stati]] che può assumere la [[Materia|materia]]
 
 ---
 

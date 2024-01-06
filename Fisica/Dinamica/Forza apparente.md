@@ -7,7 +7,7 @@ tags:
   - dinamica
 ---
 
-Una **forza apparente** è un tipo di [[Forza|forza]] che si manifesta per un osservatore in un [[Sistema di riferimento|sistema di riferimento]] **non inerziale**
+Una **forza apparente** è un tipo di [[Forza|forza]] che si manifesta per un osservatore in un [[Sistema non inerziale|sistema di riferimento non inerziale]]
 
 ---
 

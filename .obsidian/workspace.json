@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99b0830884a09c42",
+        "id": "b10344f8f3a3c023",
         "type": "tabs",
         "children": [
           {
-            "id": "e486d389a373d1fc",
+            "id": "7b4f37c466e9bbbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Dinamica/Lavoro.md",
+                "file": "Fisica/Termodinamica/Conduzione termica.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.01103591918945,
-    "collapsed": true
+    "width": 258.01103591918945
   },
   "right": {
     "id": "a0d320ed3b1a7571",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Dinamica/Lavoro.md",
+                "file": "Fisica/Termodinamica/Conduzione termica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,34 +148,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e486d389a373d1fc",
+  "active": "7b4f37c466e9bbbd",
   "lastOpenFiles": [
-    "Fisica/Dinamica/Energia meccanica.md",
-    "Fisica/Dinamica/Lavoro.md",
-    "Fisica/Dinamica/Forza non conservativa.md",
-    "Fisica/Dinamica/Teorema dell'energia cinetica.md",
-    "Fisica/Dinamica/Forza conservativa.md",
-    "Fisica/Dinamica/Energia potenziale.md",
-    "Fisica/Termodinamica/Potenza.md",
-    "Fisica/Meccanica/Energia cinetica.md",
-    "Linguaggi-formali-e-compilatori/Teorema del punto fisso.md",
-    "Linguaggi-formali-e-compilatori/Epsilon chiusura di un automa.md",
-    "Linguaggi-formali-e-compilatori/Simulazione NFA.md",
-    "Linguaggi-formali-e-compilatori/Automa a Stati Finiti Non-deterministico.md",
-    "Linguaggi-formali-e-compilatori/Espressione regolare.md",
-    "Linguaggi-formali-e-compilatori/Grammatica regolare.md",
-    "Linguaggi-formali-e-compilatori/Pumping lemma per linguaggi liberi.md",
-    "Linguaggi-formali-e-compilatori/Linguaggio libero.md",
-    "Fisica/Cinematica/Pendolo semplice.md",
-    "Fisica/Statica/Forza risultante.md",
-    "Fisica/Dinamica/Forza.md",
-    "Fisica/Statica/Forza di attrito.md",
-    "Fisica/Statica/Centro di massa.md",
-    "Fisica/Statica/Teorema del centro di massa.md",
-    "Fisica/Dinamica/Forza elastica.md",
-    "Fisica/Dinamica/Forza di richiamo.md",
-    "Fisica/Cinematica/Movimento.md",
-    "Fisica/Cinematica/Piano inclinato.md",
+    "Fisica/Termodinamica/Calore.md",
+    "Fisica/Termodinamica/Calore latente.md",
+    "Fisica/Termodinamica/Stato della materia.md",
+    "Fisica/Termodinamica/Punto triplo.md",
+    "Fisica/Termodinamica/Transizione di fase.md",
+    "Fisica/Termodinamica/Capacità termica.md",
+    "Fisica/Termodinamica/Calore specifico.md",
+    "Fisica/Termodinamica/Trasformazione reversibile.md",
+    "Fisica/Termodinamica/Calorimetro.md",
+    "Fisica/Termodinamica/Primo principio della termodinamica.md",
+    "Fisica/Termodinamica/Trasformazione quasi-statica.md",
+    "Fisica/Termodinamica/Energia interna.md",
+    "Fisica/Termodinamica/Costante di Avogadro.md",
+    "Fisica/Termodinamica/Temperatura.md",
+    "Fisica/Termodinamica/Principio zero della termodinamica.md",
+    "Fisica/Termodinamica/Mulinello di Joule.md",
+    "Fisica/Termodinamica/Equilibrio termodinamico.md",
+    "Fisica/Termodinamica/Equilibrio termico.md",
+    "Fisica/Termodinamica/Equilibrio chimico.md",
+    "Fisica/Termodinamica/Equilibrio meccanico.md",
+    "Fisica/Termodinamica/Sistema termodinamico.md",
+    "Fisica/Termodinamica/Grandezza estensiva.md",
+    "Fisica/Termodinamica/Grandezza intensiva.md",
+    "Fisica/Dinamica/Urto anelastico.md",
+    "Fisica/Dinamica/Urto elastico.md",
+    "Templates/Frame.md",
     "Fisica/Meccanica/Cinematica",
     "Fisica/Statica",
     "Fisica/Dinamica",

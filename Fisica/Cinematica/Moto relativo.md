@@ -20,5 +20,5 @@ Dove la [[Velocità di trascinamento|velocità di trascinamento]] è data da $\v
 
 Derivando ulteriormente possiamo ottenere l'[[Accelerazione|accelerazione]] relativa al sistema del punto:
 $$\vec{a} = \vec{a'} + \vec{a_{0}} + \frac{d\vec{\omega}}{dt} \times \vec{r'} + \vec{\omega} \times (\vec{\omega} \times {\vec{r'}}) + 2\vec{\omega} \times \vec{v'}$$
-Dove l'[[Accellerazione di trascinamento|accelerazione di trascinamento]] è data da $\vec{a_{t}} = \vec{a_{0}} + \frac{d\vec{\omega}}{dt} \times \vec{r'} + \vec{\omega} \times (\vec{\omega} \times {\vec{r'}})$
+Dove l'[[Accelerazione di trascinamento|accelerazione di trascinamento]] è data da $\vec{a_{t}} = \vec{a_{0}} + \frac{d\vec{\omega}}{dt} \times \vec{r'} + \vec{\omega} \times (\vec{\omega} \times {\vec{r'}})$
 e l'[[Accelerazione di Coriolì|accelerazione di Coriolì]] è data da $\vec{a_{c}} = 2 \vec{\omega} \times \vec{v'}$

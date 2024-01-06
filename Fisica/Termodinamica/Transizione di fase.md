@@ -1,11 +1,16 @@
 ---
- Created: 2023-05-08 15:11
- Author: Antonio Gelain
- Aliases: [Passaggio di stato, Cambiamento di stato, Transizione di stato]
- Tags: [termodinamica]
+Created: 2023-05-08 15:11
+Author: Antonio Gelain
+aliases:
+  - Passaggio di stato
+  - Cambiamento di stato
+  - Transizione di stato
+tags:
+  - fisica
+  - termodinamica
 ---
 
-La **transizione di fase** indica la trasformazione di un [[Sistema fisico|sistema]] **termodinamico** da uno [[Stato della materia|stato di aggregazione]] ad un altro
+La **transizione di fase** indica la [[Trasformazione termodinamica|trasformazione]] di un [[Sistema termodinamico|sistema termodinamico]] da uno [[Stato della materia|stato di aggregazione]] ad un altro
 
 ---
 

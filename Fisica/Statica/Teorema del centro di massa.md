@@ -13,5 +13,5 @@ Il **teorema del centro di massa** (anche noto come *teorema del punto materiale
 ---
 
 L'enunciato è il seguente:
-> Il moto del [[Centro di massa|centro di massa]] di un sistema di particelle è lo stesso di un punto materiale avente [[Massa|massa]] uguale alla somma delle masse delle singole particelle e posizionato nel centro di massa del sistema
+> Il moto del [[Centro di massa|centro di massa]] di un sistema di particelle è lo stesso di un [[Punto materiale|punto materiale]] avente [[Massa|massa]] uguale alla somma delle masse delle singole particelle e posizionato nel centro di massa del sistema
 

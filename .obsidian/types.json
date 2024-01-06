@@ -5,6 +5,6 @@
     "tags": "tags",
     "asd": "date",
     "Created": "datetime",
-    "Modified": "number"
+    "Modified": "datetime"
   }
 }

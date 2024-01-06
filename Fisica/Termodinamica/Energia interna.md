@@ -1,8 +1,10 @@
 ---
- Created: 2023-05-15 15:52
- Author: Antonio Gelain
- Aliases: []
- Tags: [termodinamica]
+Created: 2023-05-15 15:52
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - "#termodinamica"
 ---
 
 L'**energia interna** è l'[[Energia di un segnale|energia]] posseduta da un [[Sistema fisico|sistema]] a livello **microscopico**, cioé l'energia posseduta dalle [[Particella|entità molecolari]] di cui è composto il sistema escludento i contributi macroscopici
