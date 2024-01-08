@@ -31,3 +31,10 @@ $$dW_{el} = d\left[-\frac{1}{2} k x^{2}\right]$$
 
 Il **lavoro della [[Forza di attrito|forza di attrito]]** è pari a:
 $$W_{a} = -\mu N L$$
+
+---
+
+Il lavoro di un [[Gas ideale|gas ideale]] è calcolabile tramite la [[Pressione|pressione]] esercitata sul contenitore e la variazione del [[Volume|volume]] del gas stesso
+$$dW = P \cdot dV$$
+integrando (bisogna però tenere conto della pressione in funzione del volume stesso del gas che può variare)
+$$W \int_{i}^{f} P(V) dV$$

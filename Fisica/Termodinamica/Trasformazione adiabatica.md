@@ -1,8 +1,10 @@
 ---
- Created: 2023-05-15 16:08
- Author: Antonio Gelain
- Aliases: []
- Tags: [termodinamica]
+Created: 2023-05-15 16:08
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - termodinamica
 ---
 
 Una **trasformazione adiabatica** è una [[Trasformazione irreversibile|trasformazione termodinamica irreversibile]] nel corso del quale un [[Sistema fisico|sistema fisico]] non scambia nettamente [[Calore|calore]] con l'ambiente

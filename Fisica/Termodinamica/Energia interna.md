@@ -16,8 +16,8 @@ L'**energia interna** è l'[[Energia di un segnale|energia]] posseduta da un [[S
 L'energia interna di un sistema è definita come la [[Addizione|somma]] dell'[[Energia cinetica|energia cinetica]] $T_{i}$ e [[Energia potenziale|potenziale]] $K_{i}$ delle singole componenti:
 $$U = \sum_{i} T_{i} + K_{i}$$
 Se il sistema è un [[Gas ideale|gas ideale]] allora l'energia interna dipende **solamente** dalla [[Temperatura|temperatura]]:
-$$\Delta U(T) = n c_{v} \Delta T$$
+$$dU = n c_{v} dT$$
 Dove:
 - $n$ - è la [[Quantità di sostanza|quantità di sostanza]] del gas
-- $c_{v}$ - è il [[Calore latente|calore latente]] a [[Volume|volume]] **costante**
+- $c_{v}$ - è il [[Calore specifico|calore specifico]] a [[Volume|volume]] **costante**
 - $T$ - è la temperatura

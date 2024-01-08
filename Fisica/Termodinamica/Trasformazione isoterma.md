@@ -1,8 +1,11 @@
 ---
- Created: 2023-05-15 15:13
- Author: Antonio Gelain
- Aliases: [Trasformazione isotermica]
- Tags: [termodinamica]
+Created: 2023-05-15 15:13
+Author: Antonio Gelain
+aliases:
+  - Trasformazione isotermica
+tags:
+  - fisica
+  - termodinamica
 ---
 
 Una **trasformazione isoterma** (o *isotermica*) è una [[Trasformazione termodinamica|trasformazione termodinamica]] dello [[Stato|stato]] di un [[Sistema fisico|sistema fisico]] durante la quale la [[Temperatura|temperatura]] rimane costante

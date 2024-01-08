@@ -1,8 +1,10 @@
 ---
- Created: 2023-05-15 15:13
- Author: Antonio Gelain
- Aliases: []
- Tags: [termodinamica]
+Created: 2023-05-15 15:13
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - termodinamica
 ---
 
 Una **trasformazione isocora** è una [[Trasformazione termodinamica|trasformazione termodinamica]] dello [[Stato|stato]] di un [[Sistema fisico|sistema fisico]] durante la quale il [[Volume|volume]] rimane costante

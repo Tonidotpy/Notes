@@ -9,7 +9,7 @@ tags:
 
 La **conduzione termica** indica il trasporto **diffusivo** del [[Calore|calore]] dalla zona di [[Temperatura|temperatura]] maggiore a quella minore
 $$\delta Q = -K \frac{dT}{dZ} dS dt$$
-dove $K$ è la [[Costante di conducibilità|costante di conducibilità]]
+dove $K$ è la [[Costante di conducibilità|costante di conducibilità]] che dipende dal materiale
 
 ---
 

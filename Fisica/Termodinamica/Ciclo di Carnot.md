@@ -1,8 +1,10 @@
 ---
- Created: 2023-05-17 11:50
- Author: Antonio Gelain
- Aliases: []
- Tags: [termodinamica]
+Created: 2023-05-17 11:50
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - termodinamica
 ---
 
 Il **ciclo di Carnot** è un [[Ciclo termodinamico|ciclo termodinamico]] costituito solo da [[Trasformazione reversibile|trasformazioni reversibili]]: due [[Trasformazione isoterma|isotermiche]] e due [[Trasformazione adiabatica|adiabatiche]]

@@ -1,8 +1,11 @@
 ---
- Created: 2023-05-15 15:12
- Author: Antonio Gelain
- Aliases: [Trasformazione isobarica]
- Tags: [termodinamica]
+Created: 2023-05-15 15:12
+Author: Antonio Gelain
+aliases:
+  - Trasformazione isobarica
+tags:
+  - fisica
+  - termodinamica
 ---
 
 Una **trasformazione isobara** (o *isobarica*) è una [[Trasformazione termodinamica|trasformazione termodinamica]] dello [[Stato|stato]] di un [[Sistema fisico|sistema fisico]] durante la quale la [[Pressione|pressione]] rimane costante

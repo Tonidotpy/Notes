@@ -11,3 +11,4 @@ Una **trasformazione reversibile** è una [[Trasformazione termodinamica|trasfor
 
 ---
 
+Una trasformazione reversibile è tale per cui si può **sempre** riportare allo stato iniziale **sia** il [[Sistema termodinamico|sistema]] **sia** l'[[Ambiente|ambiente esterno]]

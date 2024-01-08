@@ -1,8 +1,10 @@
 ---
- Created: 2023-05-22 14:43
- Author: Antonio Gelain
- Aliases: []
- Tags: [termodinamica]
+Created: 2023-05-22 14:43
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - termodinamica
 ---
 
 Il **secondo principio della termodinamica** spiega come molti eventi termodinamici siano [[Trasformazione irreversibile|irreversibili]]

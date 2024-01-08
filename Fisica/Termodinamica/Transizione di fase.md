@@ -16,3 +16,6 @@ La **transizione di fase** indica la [[Trasformazione termodinamica|trasformazio
 
 Lo schema delle transizioni di fase è il seguente:
 ![transizioni-di-fase|500](https://www.isc.cnr.it/wp-content/uploads/2018/05/divulgazione-tf-01.png)
+
+La variazione di [[Entropia|entropia]] durante una transizione di fase è pari a:
+$$\Delta S = \frac{\lambda m}{T}$$

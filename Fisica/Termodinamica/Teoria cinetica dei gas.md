@@ -1,8 +1,10 @@
 ---
- Created: 2023-05-10 10:53
- Author: Antonio Gelain
- Aliases: []
- Tags: [termodinamica]
+Created: 2023-05-10 10:53
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - termodinamica
 ---
 
 La **teoria cinetica dei gas** descrive un [[Stato gassoso|gas]] come un gran numero di [[Particella|particelle]] che sono in costante movimento casuale e si [[Urto|urtano]] tra di loro e con le pareti del contenitore.
@@ -27,7 +29,7 @@ I [[Stato gassoso|gas reali]] si avvicinano all'ideale sotto condizioni di bassa
 ## Energia cinetica
 
 L'[[Energia cinetica|energia cinetica]] [[Media|media]] di una molecola di gas è:
-$$<E_{k}> = \frac{l}{2} k_{B} T$$
+$$\langle E_{k} \rangle = \frac{l}{2} k_{B} T$$
 Dove:
 - $k_{B}$ - è la [[Costante di Boltzmann|costante di Boltzmann]]
 - $T$ - è la temperatura
@@ -36,7 +38,7 @@ Dove:
 ## Energia interna
 
 L'[[Energia interna|energia interna]] del gas si può determinare dalla seguente formula:
-$$U = \frac{l}{2} n R T$$
+$$U = N \langle E_{k} \rangle = \frac{l}{2} n R T$$
 Dove:
 - $n$ - è il [[Quantità di sostanza|numero di moli]]
 - $R$ - è la [[Costante universale dei gas|costante universale dei gas]]

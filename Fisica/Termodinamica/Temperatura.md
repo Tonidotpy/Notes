@@ -11,4 +11,10 @@ La **temperatura** di un [[Corpo|corpo]] può essere definita come una [[Unità 
 
 ---
 
-Lo [[Strumento|strumento]] utilizzato per misurare la temperatura è il [[Termometro|termometro]] e viene misurata in **Kelvin** ($K$), **Celsius** ($C°$) oppure Fahrenheit ($F°$)
+> [!NOTE] L'[[Unità di misura|unità di misura]] della temperatura è il **Kelvin** $K$
+
+Vengono spesso usate come unità di misura:
+- I gradi **Celsius** ($°C$) ricavabili dalla seguente formula $T[°C] = T [K] - 273.15$
+- I gradi Fahrenheit ($°F$) ricavabili dalla seguente formula $T[°F] = (T[K] - 273.15) \cdot \frac{9}{5} + 32$
+
+Lo [[Strumento|strumento]] utilizzato per misurare la temperatura è il [[Termometro|termometro]] e viene misurata

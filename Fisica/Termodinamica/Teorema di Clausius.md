@@ -1,8 +1,11 @@
 ---
- Created: 2023-05-22 16:02
- Author: Antonio Gelain
- Aliases: [Disuguaglianza di Clausius]
- Tags: [termodinamica]
+Created: 2023-05-22 16:02
+Author: Antonio Gelain
+aliases:
+  - Disuguaglianza di Clausius
+tags:
+  - fisica
+  - termodinamica
 ---
 
 Il **teorema di Clausius** (noto anche come *disuguaglianza di Clausius*) esprime il [[Teorema di Carnot|teorema di Carnot]] tramite una disuguaglianza e pone le basi per la definizione dell'[[Entropia|entropia]]
