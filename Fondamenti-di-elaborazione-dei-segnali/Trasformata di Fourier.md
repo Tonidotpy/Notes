@@ -112,3 +112,6 @@ $$x(t) \leftrightarrow X(f); y(t) \leftrightarrow Y(f) \Rightarrow x(t) * y(t) \
 ### Prodotto
 Similmente per la convoluzione si può intuire che, per il prodotto di due segnali, nel dominio delle frequenze si ha una convoluzione
 $$x_{1}(t) \cdot x_{2}(t) \leftrightarrow X_{1}(f) * X_{2}(f)$$
+
+### Modulazione
+Dalla proprietà del prodotto si può ricavare la proprietà della modulazione, in pratica, modulando una sinusoide di frequenza $f_{0}$ otteniamo due repliche traslate in $\pm f_{0}$ dello spettro del segnale modulante

@@ -9,5 +9,6 @@ Il **teorema di Rayleigh** estende la formulazione di [[Teorema di Parseval|Pars
 $$E_{x} = \int_{-\infty}^{+\infty} |x(t)|^{2} dt = \int_{-\infty}^{+\infty} |X(f)|^{2} df$$
 
 ---
+>[!NOTE] $|X(f)|^{2}$ è detta **densità spettrale di energia**
 
 Questo teorema non è applicabile se il segnale da cui è stata ricavata la trasformata è [[Segnale periodico|periodico]] in quanto, essendo il risultato un [[Treno di impulsi|treno di impulsi]], non è possibile elevare un impulso alla seconda (*il quadrato di un impulso non è definito!*)

@@ -1,8 +1,9 @@
 ---
- Created: 2023-10-04 13:51
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-10-04 13:51
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **convoluzione** è un'operazione tra due [[Funzione|funzioni]] di una variabile che consiste nell'utilizzo dell'[[Integrale di convoluzione|integrale di convoluzione]]

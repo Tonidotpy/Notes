@@ -8,7 +8,7 @@ tags:
   - cinematica
 ---
 
-Il **moto rettilineo uniformemente accellerato** (o *MRUA*) è un tipo di [[Movimento|moto]] in cui un punto materiale si muove mantenendo una [[Direzione|direzione]] ed una [[Accelerazione|accelerazione]] costante
+Il **moto rettilineo uniformemente accelerato** (o *MRUA*) è un tipo di [[Movimento|moto]] in cui un punto materiale si muove mantenendo una [[Direzione|direzione]] ed una [[Accelerazione|accelerazione]] costante
 
 ---
 

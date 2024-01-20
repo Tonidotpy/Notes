@@ -4,6 +4,7 @@ Author: Antonio Gelain
 aliases:
   - Segnale stocastico
 tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Un **segnale aleatorio** (o *stocastico*) è un tipo di [[Segnale|segnale]] di cui non si può conoscere con esattezza il valore *a priori*

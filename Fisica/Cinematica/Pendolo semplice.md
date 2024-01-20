@@ -3,8 +3,8 @@ Created: 2023-03-15 10:58
 Author: Antonio Gelain
 aliases: 
 tags:
-  - cinematica
   - fisica
+  - cinematica
 ---
 
 Un **pendolo semplice** è un [[Sistema di riferimento|sistema]] fisico costituito da un filo **insetensibile** e da una [[Massa|massa]] puntiforme fissata alla sua estremità soggetta all'[[Gravità|attrazione gravitazionale]]
@@ -28,9 +28,4 @@ l[ \cos \theta (\frac{d\theta}{dt})^{2} + \sin \theta \cdot \frac{d^{2}\theta}{d
 \end{cases}
 $$
 
-## Equazione del moto armonico
-
-Sia $\omega^{2} = \frac{g}{l}$ la [[Pulsazione|pulsazione]]:
-$$\frac{d^{2}\theta}{dt^{2}} + \omega^{2}\theta = 0$$
-
-$$\theta(t) = \theta_{0} \sin(\omega t + \phi)$$
+Nel pendolo semplice abbiamo che il quadrato della [[Pulsazione|pulsazione]] è pari a $\omega^{2} = \frac{g}{l}$

@@ -4,7 +4,7 @@
  Aliases: []
  Tags: [linguaggi-formali-e-compilatori]
 ---
-
+B → Sa |
 **Follow(A)** è l'[[Analisi/Insiemi/Insieme|insieme]] di [[Simbolo|terminali]] che possono seguire $A$ in qualche [[Derivazione|derivazione]]
 
 ---

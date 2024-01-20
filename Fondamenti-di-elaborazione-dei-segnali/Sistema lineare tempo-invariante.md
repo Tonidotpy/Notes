@@ -4,6 +4,7 @@ Author: Antonio Gelain
 aliases:
   - Sistema LTI
 tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Un **sistema lineare tempo-invarianti** (o *sistema LTI*) è particolare [[Sistema di elaborazione di segnali|sistema]] che gode di due proprietà:

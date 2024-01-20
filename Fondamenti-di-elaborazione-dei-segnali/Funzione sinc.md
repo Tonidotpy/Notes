@@ -1,8 +1,9 @@
 ---
- Created: 2023-10-05 10:22
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-10-05 10:22
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **funzione sinc**, inicata come $\text{sinc}(x)$ è definita tramite la seguente formula:

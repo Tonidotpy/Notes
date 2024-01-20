@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 14:48
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 14:48
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Il **valore medio di un segnale** in un intervallo di tempo è dato dalla seguente limite

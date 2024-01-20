@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 14:52
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 14:52
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **varianza di un segnale** è data dalla seguente formula:

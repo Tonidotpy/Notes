@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 15:00
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 15:00
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **potenza media di un segnale** $x(t)$ viene definita come:

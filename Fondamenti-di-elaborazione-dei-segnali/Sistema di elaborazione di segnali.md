@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-28 08:50
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-28 08:50
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Un **sistema di elaborazione dei segnali** è un sistema costituito da una cascata di *blocchi*, ognuno dei quali effettua una data [[Segnale#Manipolazione dei segnali|trasformazione del segnale]]

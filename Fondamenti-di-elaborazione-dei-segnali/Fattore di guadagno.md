@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 14:19
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 14:19
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Il **fattore di guadagno** è un'operazione che può venire utilizzata su di un [[Segnale|segnale]] che permette di modificarne l'[[Ampiezza|ampiezza]]

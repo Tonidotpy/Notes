@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 14:13
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 14:13
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **traslazione temporale** è un'operazione che può venire applicata ad un [[Segnale|segnale]] e ne permette di introdurre un **anticipo** oppure un **ritardo** agendo sull'asse temporale

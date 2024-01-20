@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 14:51
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 14:51
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Il **valore quadratico medio di un segnale** è dato dal seguente limite

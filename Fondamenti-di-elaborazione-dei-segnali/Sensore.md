@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-20 14:23
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-20 14:23
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Un **sensore** è un dispositivo che si trova in diretta interazione con il [[Sistema fisico|sistema]] misurato.

@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-21 09:07
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-21 09:07
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Un **segnale scalare** è un tipo di segnale per cui, per ogni istante di tempo $\tau$, la funzione che descrive il segnale $s(\tau)$ restituisce un unico valore

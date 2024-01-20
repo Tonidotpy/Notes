@@ -1,11 +1,13 @@
 ---
- Created: 2023-03-06 14:59
- Author: Antonio Gelain
- Aliases: []
- Tags: [cinematica]
+Created: 2023-03-06 14:59
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fisica
+  - cinematica
 ---
 
-> L'effeto di una [[Forza|forza]] è quello di [[Accelerazione|accellerare]] il [[Corpo|corpo]] cui è applicata nella sua stessa direzione
+> L'effetto di una [[Forza|forza]] è quello di [[Accelerazione|accelerare]] il [[Corpo|corpo]] cui è applicata nella sua stessa direzione
 
 ---
 

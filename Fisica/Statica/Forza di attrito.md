@@ -18,5 +18,8 @@ Esistono due tipi di attrito, categorizzati in base allo stato del [[Corpo|corpo
 
 ## Attrito radente
 
-L'**attrito radente** è dovuto allo **strisciamento** tra due [[Corpo|corpi]] ed è dato dalla seguente formula:
+L'**attrito radente** è dovuto allo **strisciamento** tra due corpi ed è dato dalla seguente formula:
 $$A_{x} = \mu_{s} \cdot P_{y}$$
+## Attrito volvente
+
+L'**attrito volvente** è dovuto al **rotolamento** di un corpo rispetto a un altro

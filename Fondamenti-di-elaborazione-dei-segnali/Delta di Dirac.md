@@ -4,6 +4,7 @@ Author: Antonio Gelain
 aliases:
   - Funzione impulso unitario
 tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Il **delta di Dirac** (o *funzione impulso unitario*) è una [[Funzione generalizzata|funzione generalizzata]] $\delta(t)$, ovvero una [[Funzione|funzione]] definita unicamente sulla base delle sue proprietà, tale che, data una generica funzione $f(t)$ [[Funzione continua|continua]] e [[Integrale|integrabile]], soddisfa la seguente uguaglianza:

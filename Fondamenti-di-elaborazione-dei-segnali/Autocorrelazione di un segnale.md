@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 15:23
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 15:23
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 L'**autocorrelazione di un segnale** è un caso particolare di [[Cross-correlazione di un segnale|cross-correlazione]] in cui un [[Segnale|segnale]] $x(t)$ viene messo in correlazione con se stesso

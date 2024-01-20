@@ -3,6 +3,7 @@ Created: 2023-09-20 13:58
 Author: Antonio Gelain
 aliases: 
 tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Un **segnale** è una grandezza fisica variabile nel tempo, a cui è assegnata un'[[Informazione|informazione]]

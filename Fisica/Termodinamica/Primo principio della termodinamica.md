@@ -9,7 +9,7 @@ tags:
 ---
 
 Il **primo principio della termodinamica**, anche detto *legge di conservazione dell'energia*, afferma che:
-> L'**[[Energia di un segnale|energia]] interna** di un [[Sistema isolato|sistema termodinamico isolato]] è **costante**
+> L'[[Energia interna|energia interna]] di un [[Sistema isolato|sistema termodinamico isolato]] è **costante**
 
 $$dU = \delta Q - \delta L$$
 

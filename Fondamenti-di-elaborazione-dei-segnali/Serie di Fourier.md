@@ -1,8 +1,9 @@
 ---
- Created: 2023-10-04 15:23
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-10-04 15:23
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **serie di Fourier** è una rappresentazione di una [[Segnale periodico|funzione periodica]] mediante una combinazione lineare di funzioni sinusoidali

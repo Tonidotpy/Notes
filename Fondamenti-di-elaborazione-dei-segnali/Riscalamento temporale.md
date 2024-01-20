@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 14:16
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 14:16
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Il **riscalamento temporale** è un operazione che può venire eseguita su un [[Segnale|segnale]] che permette di **espanderlo** agendo sull'asse temporale

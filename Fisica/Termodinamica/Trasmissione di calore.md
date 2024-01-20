@@ -5,7 +5,7 @@
  Tags: [termodinamica]
 ---
 
-La **trasmissione di calore** è un fenomeno in cui è convolta l'[[Energia termica|energia termica]] tra due [[Sistema fisico|sistemi]] termodinaimci, che è causato da una **differenza** di [[Temperatura|temperatura]] tra i due sistemi
+La **trasmissione di calore** è un fenomeno in cui è convolta l'[[Energia termica|energia termica]] tra due [[Sistema termodinamico|sistemi termodinamici]], che è causato da una **differenza** di [[Temperatura|temperatura]] tra i due sistemi
 
 ---
 

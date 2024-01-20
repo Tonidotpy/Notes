@@ -37,4 +37,4 @@ $$W_{a} = -\mu N L$$
 Il lavoro di un [[Gas ideale|gas ideale]] è calcolabile tramite la [[Pressione|pressione]] esercitata sul contenitore e la variazione del [[Volume|volume]] del gas stesso
 $$dW = P \cdot dV$$
 integrando (bisogna però tenere conto della pressione in funzione del volume stesso del gas che può variare)
-$$W \int_{i}^{f} P(V) dV$$
+$$W = \int_{i}^{f} P(V) dV$$

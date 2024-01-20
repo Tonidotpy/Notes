@@ -4,6 +4,7 @@ Author: Antonio Gelain
 aliases:
   - Correlazione incrociata di un segnale
 tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 La **cross-correlazione di un segnale** (o *correlazione incrociata*) tra due segnali $x(t)$ e $y(t)$ è definita per [[Energia di un segnale|segnali di energia]] come:

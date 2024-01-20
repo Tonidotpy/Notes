@@ -1,8 +1,9 @@
 ---
- Created: 2023-09-27 14:58
- Author: Antonio Gelain
- Aliases: []
- Tags: []
+Created: 2023-09-27 14:58
+Author: Antonio Gelain
+aliases: 
+tags:
+  - fondamenti-di-elaborazione-dei-segnali
 ---
 
 Si definisce **energia di un segnale** $x(t)$ il valore:

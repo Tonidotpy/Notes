@@ -6,6 +6,7 @@
 ---
 
 Il **moto armonico** è un particolare tipo di [[Movimento|moto]] descritto da un particolare [[Sistema|sistema]] che reagisce ad una **perturbazione** del suo [[Equilibrio|equilibrio]] con una [[Accelerazione|accelerazione]] di richiamo di verso opposto e proporzionale al suo spostamento
+$$\frac{d^{2}\theta}{dt^{2}} + \omega^{2}\theta = 0$$
 
 ---
 

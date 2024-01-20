@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b10344f8f3a3c023",
+        "id": "53f8d1d1725330df",
         "type": "tabs",
         "children": [
           {
-            "id": "7b4f37c466e9bbbd",
+            "id": "90071c6a7747d190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Termodinamica/Entropia.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Teorema di Rayleigh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d56475b958a80364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Larghezza di banda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "massa inerziale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Termodinamica/Entropia.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Larghezza di banda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,34 +162,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b4f37c466e9bbbd",
+  "active": "d56475b958a80364",
   "lastOpenFiles": [
-    "Fisica/Termodinamica/Transizione di fase.md",
-    "Fisica/Termodinamica/Calore latente.md",
-    "Fisica/Termodinamica/Entropia.md",
-    "Fisica/Termodinamica/Teorema di Clausius.md",
-    "Fisica/Termodinamica/Teorema di Carnot.md",
-    "Fisica/Termodinamica/Secondo principio della termodinamica.md",
-    "Fisica/Termodinamica/Trasformazione reversibile.md",
-    "Fisica/Termodinamica/Ciclo di Carnot.md",
-    "Fisica/Termodinamica/Conduzione termica.md",
-    "Fisica/Termodinamica/Rendimento termodinamico.md",
-    "Fisica/Termodinamica/Coefficiente di prestazione.md",
-    "Fisica/Termodinamica/Ciclo termodinamico.md",
-    "Fisica/Termodinamica/Primo principio della termodinamica.md",
-    "Fisica/Termodinamica/Trasformazione adiabatica.md",
-    "Fisica/Termodinamica/Trasformazione isoterma.md",
-    "Fisica/Termodinamica/Relazione di Mayer.md",
-    "Fisica/Termodinamica/Trasformazione Isocora.md",
-    "Fisica/Termodinamica/Teoria cinetica dei gas.md",
-    "Fisica/Termodinamica/Trasformazione isobara.md",
-    "Fisica/Termodinamica/Energia interna.md",
-    "Fisica/Dinamica/Forza impulsiva.md",
-    "Fisica/Termodinamica/Espansione di Joule.md",
-    "Fisica/Dinamica/Lavoro.md",
-    "Fisica/Termodinamica/Legge di Avogadro.md",
-    "Fisica/Termodinamica/Costante universale dei gas.md",
-    "Fisica/Termodinamica/Equazione di stato dei gas perfetti.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Rayleigh.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Larghezza di banda.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Parseval.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Fenomeno di Gibbs.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Cross-correlazione di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Auto-correlazione di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Banda larga.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Canale ideale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Derivazione e integrazione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in ampiezza.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in fase.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione non lineare.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Fattore di guadagno.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro lineare tempo-invariante.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-tutto.md",
     "Fisica/Meccanica/Cinematica",
     "Fisica/Statica",
     "Fisica/Dinamica",
