@@ -22,6 +22,6 @@ Se non esiste una tale sequenza allora siamo in uno stato **non sicuro** (*unsaf
 
 ---
 
-Esistono due [[Algoritmo|algoritmi]] che permettono di mantenere i processi in uno stato *safe*:
+Esistono due [[Algoritmi-e-strutture-dati/Algoritmo|algoritmi]] che permettono di mantenere i processi in uno stato *safe*:
 1. L'[[Algoritmo con RAG|algoritmo con RAG]]
 2. L'[[Algoritmo del banchiere|algoritmo del banchiere]]

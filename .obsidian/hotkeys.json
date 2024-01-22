@@ -45,5 +45,14 @@
       ],
       "key": "0"
     }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "G"
+    }
   ]
 }

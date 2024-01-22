@@ -5,8 +5,8 @@
  Tags: [scheduling]
 ---
 
-L'**implementazione** è l'attuazione pratica di tecniche o [[Algoritmo|algoritmi]] allo scopo di conseguire un determinato obiettivo
+L'**implementazione** è l'attuazione pratica di tecniche o [[Algoritmi-e-strutture-dati/Algoritmo|algoritmi]] allo scopo di conseguire un determinato obiettivo
 
 ---
 
-Si tratta di uno dei metodi più sicuri per valutare un [[Algoritmo|algoritmo]] ma il risultato può dipendere da molti fattori
+Si tratta di uno dei metodi più sicuri per valutare un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] ma il risultato può dipendere da molti fattori

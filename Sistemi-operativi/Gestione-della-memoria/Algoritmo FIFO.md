@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-L'**algoritmo FIFO** è un [[Algoritmo|algoritmo]] che utilizza la politica [[First-in First-out|FIFO]] per decidere quali [[Paginazione|pagine]] scambiare quando avviene un [[Page fault|page fault]]
+L'**algoritmo FIFO** è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] che utilizza la politica [[First-in First-out|FIFO]] per decidere quali [[Paginazione|pagine]] scambiare quando avviene un [[Page fault|page fault]]
 
 ---
 

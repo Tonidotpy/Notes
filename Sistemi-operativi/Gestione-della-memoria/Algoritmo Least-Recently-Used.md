@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-L'**algoritmo Least Recently Used** (o *algoritmo LRU*) è un [[Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che seleziona le pagine che sono rimaste inutilizzate per più tempo
+L'**algoritmo Least Recently Used** (o *algoritmo LRU*) è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che seleziona le pagine che sono rimaste inutilizzate per più tempo
 
 ---
 

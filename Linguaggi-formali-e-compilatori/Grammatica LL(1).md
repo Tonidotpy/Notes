@@ -22,7 +22,7 @@ Più formalmente una grammatica $\mathcal{G}$ è di tipo $LL(1)$ **se e solo se*
 
 ---
 
-Per analizzare questo tipo di grammatica si costruisce una [[Tabella di parsing top-down|tabella di parsing]] e vi si applica un [[Algoritmo|algoritmo]] per ottenere la derivazione della stringa $w \iff w \in \mathcal{L(G)}$(oppure *error()*) dato $w$, la tabella $M$ precedentemente descritta e la grammatica $\mathcal{G}$
+Per analizzare questo tipo di grammatica si costruisce una [[Tabella di parsing top-down|tabella di parsing]] e vi si applica un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per ottenere la derivazione della stringa $w \iff w \in \mathcal{L(G)}$(oppure *error()*) dato $w$, la tabella $M$ precedentemente descritta e la grammatica $\mathcal{G}$
 
 Per questo algoritmo vengono utilizzati:
 - Un buffer che conterrà la parola con un terminatore `$`

@@ -11,6 +11,7 @@ Un **equalizzatore** è un sistema che permette di **correggere** le [[Distorsio
 
 Nella pratica si cerca di imporre $H_{TOT}(f) = Ke^{-2j \pi f t_{0}}$ alla seguente formula
 $$H_{TOT}(f) = H_{S}(f) \cdot H_{EQ (f)} \Rightarrow H_{EQ}(f) = \frac{H_{TOT}(f)}{H_{S}(f)}$$
+
 ---
 
 Un equalizzatore può anche essere **adattivo**, ripetendo l'analisi periodicamente in modo da ricavarsi l'andamento della funzione da equalizzare

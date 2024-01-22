@@ -15,7 +15,7 @@ $$\epsilon\text{-chiusura}(T) = \bigcup_{t \in T} \epsilon\text{-chiusura}(\{ t 
 Per calcolare un'$\epsilon$-chiusura servono:
 - Uno [[Pila|stack]] dove memorizzare gli stati
 - Un [[Array|array]] di [[Variabile booleana|booleani]] per memorizzare se uno stato è già stato visitato o meno
-poi si procede col seguente [[Algoritmo|algoritmo]]:
+poi si procede col seguente [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]]:
 1. Si aggiunge il nodo di partenza allo stack e lo si segna come visitato
 2. Per ogni [[Epsilon transizione|epsilon transizione]] se lo stato successivo alla transizione non è stato visitato si ripete il procedimento ricorsivamente utilizzando il nuovo stato come nodo di partenza
 

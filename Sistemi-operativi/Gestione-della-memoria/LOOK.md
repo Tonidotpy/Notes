@@ -5,7 +5,7 @@
  Tags: [algoritmo,gestione-della-memoria]
 ---
 
-L'[[Algoritmo|algoritmo]] **LOOK** permette di ridurre il tempo medio di accesso al [[Disco rigido|disco fisso]]
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] **LOOK** permette di ridurre il tempo medio di accesso al [[Disco rigido|disco fisso]]
 
 ---
 

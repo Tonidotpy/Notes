@@ -6,7 +6,7 @@
  Tags: [scheduling]
 ---
 
-Il **modello deterministico** (o *modello analitico*) è una tecnica di valutazione degli [[Algoritmo|algoritmi]] di [[Scheduling|scheduling]] basato su un preciso carico di lavoro
+Il **modello deterministico** (o *modello analitico*) è una tecnica di valutazione degli [[Algoritmi-e-strutture-dati/Algoritmo|algoritmi]] di [[Scheduling|scheduling]] basato su un preciso carico di lavoro
 
 ---
 

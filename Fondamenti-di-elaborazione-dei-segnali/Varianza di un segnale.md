@@ -6,6 +6,7 @@ tags:
   - fondamenti-di-elaborazione-dei-segnali
 ---
 
+
 La **varianza di un segnale** è data dalla seguente formula:
 $$\sigma^{2}_{x} = \overline{x^{2}} - \overline{x}^{2} = \lim_{T \mapsto \infty} \frac{1}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} (x(t) - \overline{x})^{2}dt$$
 

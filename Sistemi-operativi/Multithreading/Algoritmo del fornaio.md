@@ -5,7 +5,7 @@
  Tags: [multithreading]
 ---
 
-L'**[[Algoritmo|algoritmo]] del fornaio** è uno dei metodi di **mutua esclusione** che permettono l'esecuzione delle [[Sezione critica|sezioni critiche]] da parte di più [[Processo|processi]] **concorrenti**
+L'**[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] del fornaio** è uno dei metodi di **mutua esclusione** che permettono l'esecuzione delle [[Sezione critica|sezioni critiche]] da parte di più [[Processo|processi]] **concorrenti**
 
 ---
 

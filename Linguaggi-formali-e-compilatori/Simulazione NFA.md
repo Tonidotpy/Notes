@@ -9,7 +9,7 @@ Una **simulazione NFA** è un processo per cui viene verificata se una parola $w
 
 ---
 
-L'[[Algoritmo|algoritmo]] per la simulazione NFA è il seguente:
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per la simulazione NFA è il seguente:
 1. Si calcola la [[Epsilon chiusura di un automa|epsilon chiusura]] dello stato iniziale
 2. Si prende il primo carattere della stringa $w$
 3. Finché non ho consumato tutti i caratteri della stringa ricalcolo la epsilon chiusura di tutti gli stati raggiungibili tramite una transizione contenente il carattere corrente e lo consumo

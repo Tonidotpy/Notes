@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-L'**algoritmo della seconda opportunità** (o *algoritmo dell'orologio*) è un [[Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che utilizza uno o più [[Bit|bit]] di riferimento per decidere quali pagine sostituire
+L'**algoritmo della seconda opportunità** (o *algoritmo dell'orologio*) è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che utilizza uno o più [[Bit|bit]] di riferimento per decidere quali pagine sostituire
 
 ---
 

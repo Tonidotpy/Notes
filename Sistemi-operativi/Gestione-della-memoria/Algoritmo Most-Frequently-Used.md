@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-L'**algoritmo Most Frequently Used** (o *algoritmo MFU*) è un [[Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che rimpiazza le pagine utilizzate più di recente
+L'**algoritmo Most Frequently Used** (o *algoritmo MFU*) è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che rimpiazza le pagine utilizzate più di recente
 
 ---
 

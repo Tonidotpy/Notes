@@ -6,7 +6,7 @@
  Tags: [scheduling, algoritmo]
 ---
 
-**Highest response ratio next** (*HRRN*) è un [[Algoritmo|algoritmo]] di [[Scheduling|scheduling]] di tipo [[Prelazione|non-preemptive]] il cui scopo è quello di mitigare la [[Starvation|starvation]] di un processo
+**Highest response ratio next** (*HRRN*) è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] di [[Scheduling|scheduling]] di tipo [[Prelazione|non-preemptive]] il cui scopo è quello di mitigare la [[Starvation|starvation]] di un processo
 
 ---
 

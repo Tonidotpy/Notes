@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-L'**algoritmo Least Frequently Used** (o *algoritmo LFU*) è un [[Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che rimpiazza le pagine utilizzate meno di recente
+L'**algoritmo Least Frequently Used** (o *algoritmo LFU*) è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per la sostituzione delle [[Paginazione|pagine]] nel caso di [[Page fault|page fault]], che rimpiazza le pagine utilizzate meno di recente
 
 ---
 

@@ -26,7 +26,7 @@ Il **tempo di accesso** di un disco rigido dipende da:
 - **Latency time**: il tempo necessario a posizionare il settore sotto la testina
 - **Transfer time**: il tempo necessario al settore per passare sotto la testina
 
-Per minimizzare il tempo medio di accesso al disco vengono utilizzati vari [[Algoritmo|algoritmi]] di [[Scheduling|scheduling]]:
+Per minimizzare il tempo medio di accesso al disco vengono utilizzati vari [[Algoritmi-e-strutture-dati/Algoritmo|algoritmi]] di [[Scheduling|scheduling]]:
 - [[First Come First Served|FCFS]]
 - [[Shortest Seek Time First|SSTF]]
 - [[SCAN]]

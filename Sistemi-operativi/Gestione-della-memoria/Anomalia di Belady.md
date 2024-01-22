@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria]
 ---
 
-L'**anomalia di Belady** è un fenomeno che si presenta in alcuni [[Algoritmo|algoritmi]] di rimpiazzamento delle [[Paginazione|pagine di memoria]] per cui la frequenza dei [[Page fault|page fault]] può aumentare con il numero di [[Paginazione#^fa9895|frame]] assegnati ai [[Processo|processi]]
+L'**anomalia di Belady** è un fenomeno che si presenta in alcuni [[Algoritmi-e-strutture-dati/Algoritmo|algoritmi]] di rimpiazzamento delle [[Paginazione|pagine di memoria]] per cui la frequenza dei [[Page fault|page fault]] può aumentare con il numero di [[Paginazione#^fa9895|frame]] assegnati ai [[Processo|processi]]
 
 ---
 

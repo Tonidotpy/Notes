@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria, algoritmo]
 ---
 
-L'[[Algoritmo|algoritmo]] **SCAN** permette di ridurre il tempo medio di accesso ad un [[Disco rigido|disco rigido]]
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] **SCAN** permette di ridurre il tempo medio di accesso ad un [[Disco rigido|disco rigido]]
 
 ---
 

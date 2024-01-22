@@ -6,7 +6,7 @@
  Tags: [scheduling, algoritmo]
 ---
 
-**Round robin** è un [[Algoritmo|algoritmo]] di [[Scheduling|scheduling]] che assegna ad ogni [[Processo|processo]] una piccola parte (*quanto*) di tempo della [[Central Process Unit|CPU]]
+**Round robin** è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] di [[Scheduling|scheduling]] che assegna ad ogni [[Processo|processo]] una piccola parte (*quanto*) di tempo della [[Central Process Unit|CPU]]
 
 ---
 

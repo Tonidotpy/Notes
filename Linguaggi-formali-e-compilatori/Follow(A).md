@@ -11,7 +11,7 @@ B → Sa |
 
 A differenza dei [[First(alpha)|first]], i follow sono computati **solamente** per i non-terminali
 
-L'[[Algoritmo|algoritmo]] per calcolare il follow inizializza il $follow(S) = \{ \$ \}$ dal momento che dallo *start-symbol* si possono generare tutte le possibili parole appartenenti al linguaggio allora possiamo aspettarci di trovare il terminatore di stringa $ dopo una qualsiasi parola
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per calcolare il follow inizializza il $follow(S) = \{ \$ \}$ dal momento che dallo *start-symbol* si possono generare tutte le possibili parole appartenenti al linguaggio allora possiamo aspettarci di trovare il terminatore di stringa $ dopo una qualsiasi parola
 
 A questo punto, dato che siamo interessati solamente a quali terminali seguono un particolare non terminale, ci interessano solamente le [[Produzione|produzioni]] della [[Grammatica generativa|grammatica]] per cui il generico non terminale $A$ compare nel *body*
 

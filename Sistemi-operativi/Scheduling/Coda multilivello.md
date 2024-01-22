@@ -6,7 +6,7 @@
  Tags: [scheduling, algoritmo]
 ---
 
-La **coda multilivello** è una classe di [[Algoritmo|algoritmi]] in cui la [[Ready queue|ready queue]] viene partizionata in più [[Coda|code]] con un proprio algoritmo di [[Scheduling|scheduling]]
+La **coda multilivello** è una classe di [[Algoritmi-e-strutture-dati/Algoritmo|algoritmi]] in cui la [[Ready queue|ready queue]] viene partizionata in più [[Coda|code]] con un proprio algoritmo di [[Scheduling|scheduling]]
 
 ---
 

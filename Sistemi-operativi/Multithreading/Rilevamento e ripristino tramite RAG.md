@@ -5,7 +5,7 @@
  Tags: [multithreading]
 ---
 
-Il **rilevamento e rispristino tramite [[Resource Allocation Graph|RAG]]** è un [[Algoritmo|algoritmo]] che permette di risolvere il problema dei [[Deadlock|deadlock]]
+Il **rilevamento e rispristino tramite [[Resource Allocation Graph|RAG]]** è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] che permette di risolvere il problema dei [[Deadlock|deadlock]]
 
 ---
 

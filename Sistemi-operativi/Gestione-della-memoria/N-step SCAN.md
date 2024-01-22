@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria,algoritmo]
 ---
 
-L'[[Algoritmo|algoritmo]] **N-step SCAN** è una variante dello [[SCAN]] che utilizza $n$ [[Coda|code]] di richieste per gestire l'accesso al [[Disco rigido|disco fisso]]
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] **N-step SCAN** è una variante dello [[SCAN]] che utilizza $n$ [[Coda|code]] di richieste per gestire l'accesso al [[Disco rigido|disco fisso]]
 
 ---
 

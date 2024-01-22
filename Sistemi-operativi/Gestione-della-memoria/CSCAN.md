@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria,algoritmo]
 ---
 
-L'[[Algoritmo|algoritmo]] **CSCAN** è una variante dello [[SCAN]] in cui, una volta raggiunta l'estremità opposta, riparte da capo senza tornare indietro
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] **CSCAN** è una variante dello [[SCAN]] in cui, una volta raggiunta l'estremità opposta, riparte da capo senza tornare indietro
 
 ---
 

@@ -5,7 +5,7 @@
  Tags: [multithreading]
 ---
 
-L'**algoritmo di rilevamento** è un [[Algoritmo|algoritmo]] che permette la risoluzione dei [[Deadlock|deadlock]] esplorando ogni possibile [[Sequenza|sequenza]] di [[Allocazione di memoria|allocazione]] per i [[Processo|processi]] non ancora terminati
+L'**algoritmo di rilevamento** è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] che permette la risoluzione dei [[Deadlock|deadlock]] esplorando ogni possibile [[Sequenza|sequenza]] di [[Allocazione di memoria|allocazione]] per i [[Processo|processi]] non ancora terminati
 
 ---
 

@@ -5,7 +5,7 @@
  Tags: [multithreading, algoritmo]
 ---
 
-L'**algoritmo del banchiere** è un [[Algoritmo|algoritmo]] utilizzato per risolvere il problema dei [[Deadlock|deadlock]]
+L'**algoritmo del banchiere** è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] utilizzato per risolvere il problema dei [[Deadlock|deadlock]]
 
 ---
 

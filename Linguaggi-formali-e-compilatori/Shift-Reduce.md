@@ -5,7 +5,7 @@
  Tags: [linguaggi-formali-e-compilatori]
 ---
 
-L'[[Algoritmo|algoritmo]] di **shift/reduce** è un procedimento che permette di ottenere il [[Analisi sintattica|parsing]] di una parola $w$ data una [[Tabella di parsing bottom-up|tabella di parsing bottom-up]] di una certa [[Grammatica libera|grammatica]] $\mathcal{G}$
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] di **shift/reduce** è un procedimento che permette di ottenere il [[Analisi sintattica|parsing]] di una parola $w$ data una [[Tabella di parsing bottom-up|tabella di parsing bottom-up]] di una certa [[Grammatica libera|grammatica]] $\mathcal{G}$
 
 ---
 

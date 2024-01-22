@@ -5,7 +5,7 @@
  Tags: [algoritmo,gestione-della-memoria]
 ---
 
-L'[[Algoritmo|algoritmo]] **CLOOK** è una variante del [[LOOK]] che riparte dalla prima traccia non appena termina di servire tutte le richieste, in modo circolare
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] **CLOOK** è una variante del [[LOOK]] che riparte dalla prima traccia non appena termina di servire tutte le richieste, in modo circolare
 
 ---
 

@@ -6,7 +6,7 @@
  Tags: [scheduling]
 ---
 
-Lo **scheduler** è un [[Programma|progamma]] che implementa un [[Algoritmo|algoritmo]] di [[Scheduling|scheduling]] e stabilisce un ordinamento temporale per l'esecuzione dei [[Processo|processi]]
+Lo **scheduler** è un [[Programma|progamma]] che implementa un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] di [[Scheduling|scheduling]] e stabilisce un ordinamento temporale per l'esecuzione dei [[Processo|processi]]
 
 ---
 

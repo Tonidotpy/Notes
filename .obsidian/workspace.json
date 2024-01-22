@@ -4,28 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "53f8d1d1725330df",
+        "id": "27ed2f20c68e936c",
         "type": "tabs",
+        "dimension": 73.96907216494846,
         "children": [
           {
-            "id": "90071c6a7747d190",
+            "id": "469d60c81879c587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Teorema di Rayleigh.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Conversione analogico-digitale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d56475b958a80364",
+            "id": "2b4f4b5015329eaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Larghezza di banda.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +34,56 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "aa6e885b4a4979d2",
+        "type": "tabs",
+        "dimension": 26.03092783505155,
+        "children": [
+          {
+            "id": "f87a089d5617d71a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:Fondamenti-di-elaborazione-dei-segnali  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12703768
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.02998510897523,
+                  "lineSizeMultiplier": 1.17857046162177,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10.033843238121,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4731702148185686,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Larghezza di banda.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,34 +213,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d56475b958a80364",
+  "active": "2b4f4b5015329eaf",
   "lastOpenFiles": [
-    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Rayleigh.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Larghezza di banda.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Parseval.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Fenomeno di Gibbs.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Cross-correlazione di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Auto-correlazione di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Banda larga.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Canale ideale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Derivazione e integrazione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in ampiezza.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare in fase.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Distorsione non lineare.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Fattore di guadagno.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Equalizzatore.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro lineare tempo-invariante.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-tutto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Conversione analogico-digitale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Codifica.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione non uniforme.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Algoritmo di Lloyd-Max.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione uniforme.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Rumore di quantizzazione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Rapporto segnale-rumore.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Varianza di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Valore medio di un segnale.md",
+    "Probabilità/Variabili aleatorie.md",
+    "Probabilità/Variabile aleatoria esponenziale.md",
+    "Probabilità/Variabile aleatoria binomiale.md",
+    "Probabilità/Variabile aleatoria di Poisson.md",
+    "Probabilità/Variabile aleatoria  Bernoulliana.md",
+    "Probabilità/Valore atteso iterato.md",
+    "Probabilità/Valore atteso condizionato.md",
+    "Probabilità/Valore atteso.md",
+    "Probabilità/Teorema di Bayes.md",
+    "Probabilità/Teorema delle probabilità totali.md",
+    "Probabilità/Teorema centrale del limite.md",
+    "Probabilità/Successione di variabili aleatorie.md",
+    "Probabilità/Spazio probabilizzato.md",
+    "Probabilità/Spazio di probabilità condizionata.md",
     "Fisica/Meccanica/Cinematica",
     "Fisica/Statica",
     "Fisica/Dinamica",

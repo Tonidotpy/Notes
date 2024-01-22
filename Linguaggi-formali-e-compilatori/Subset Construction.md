@@ -5,7 +5,7 @@
  Tags: [linguaggi-formali-e-compilatori]
 ---
 
-**Subset construction**[^online-tool] è un [[Algoritmo|algoritmo]] utilizzato per ricavare un [[Automa a Stati Finiti Deterministico|DFA]] $\mathcal{D}'$ dato un certo [[Automa a Stati Finiti Non-deterministico|NFA]] $\mathcal{D}$ tale che $\mathcal{L(D) = L(D')}$
+**Subset construction**[^online-tool] è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] utilizzato per ricavare un [[Automa a Stati Finiti Deterministico|DFA]] $\mathcal{D}'$ dato un certo [[Automa a Stati Finiti Non-deterministico|NFA]] $\mathcal{D}$ tale che $\mathcal{L(D) = L(D')}$
 
 ---
 

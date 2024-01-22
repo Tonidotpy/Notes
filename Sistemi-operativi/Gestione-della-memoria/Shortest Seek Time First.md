@@ -5,7 +5,7 @@
  Tags: [gestione-della-memoria, algoritmo]
 ---
 
-**Shortest seek time first** (*SSFT*) è un [[Algoritmo|algoritmo]] utilizzato per ridurre il tempo medio di accesso ad un [[Disco rigido|disco rigido]]
+**Shortest seek time first** (*SSFT*) è un [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] utilizzato per ridurre il tempo medio di accesso ad un [[Disco rigido|disco rigido]]
 
 ---
 

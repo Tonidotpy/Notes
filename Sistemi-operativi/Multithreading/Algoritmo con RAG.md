@@ -5,7 +5,7 @@
  Tags: [multithreading, algoritmo]
 ---
 
-L'**algoritmo con RAG** è un tipo di [[Algoritmo|algoritmo]] che utilizza un [[Resource Allocation Graph|RAG]] modificato per risolvere il problema dei [[Deadlock|deadlock]]
+L'**algoritmo con RAG** è un tipo di [[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] che utilizza un [[Resource Allocation Graph|RAG]] modificato per risolvere il problema dei [[Deadlock|deadlock]]
 
 ---
 

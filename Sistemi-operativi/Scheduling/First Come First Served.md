@@ -6,7 +6,7 @@
  Tags: [scheduling,algoritmo]
 ---
 
-L'[[Algoritmo|algoritmo]] **first come, first served** (*FCFS*) è un tipo di algoritmo [[First-in First-out|FIFO]] che esegue i processi nello stesso ordine in cui essi vengono sottomessi al sistema
+L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] **first come, first served** (*FCFS*) è un tipo di algoritmo [[First-in First-out|FIFO]] che esegue i processi nello stesso ordine in cui essi vengono sottomessi al sistema
 
 ---
 

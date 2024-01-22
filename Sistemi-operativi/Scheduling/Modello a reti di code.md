@@ -6,7 +6,7 @@
  Tags: [scheduling]
 ---
 
-Il **modello a reti di code** è una tecnica di valutazione degli [[Algoritmo|algoritmi]] di [[Scheduling|scheduling]] in cui il sistema di calcolo viene descritto come una [[Rete|rete]] di [[Host#Client/Server|server]] ognuno con la propria [[Coda|coda]]
+Il **modello a reti di code** è una tecnica di valutazione degli [[Algoritmi-e-strutture-dati/Algoritmo|algoritmi]] di [[Scheduling|scheduling]] in cui il sistema di calcolo viene descritto come una [[Rete|rete]] di [[Host#Client/Server|server]] ognuno con la propria [[Coda|coda]]
 
 ---
 
