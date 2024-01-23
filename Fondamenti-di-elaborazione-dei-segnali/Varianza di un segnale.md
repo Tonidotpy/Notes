@@ -13,3 +13,8 @@ $$\sigma^{2}_{x} = \overline{x^{2}} - \overline{x}^{2} = \lim_{T \mapsto \infty}
 ---
 
 La varianza esprime l'**intensità** della variazione del segnale, più un segnale varia maggiore sarà la sua varianza
+
+---
+
+Nel dominio discreto la varianza può essere calcolata nel seguente modo:
+$$\sigma_{x}^{2} = \lim_{K \rightarrow \infty} \frac{1}{K} \sum\limits_{k = - \frac{K}{2}}^{\frac{K}{2}} [x[n] - \bar{x}]^{2}$$

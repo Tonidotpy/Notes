@@ -15,3 +15,8 @@ che coincide col [[Valore quadratico medio di un segnale|valore quadratico medio
 La potenza media di un segnale viene utilizzata laddove l'[[Energia di un segnale|energia]] non può essere calcolata
 
 >[!ATTENTION] I segnali di potenza hanno **sempre** energia infinita
+
+---
+
+Nel dominio discreto la potenza può essere calcolata nel seguente modo:
+$$P_{x} = \lim_{K \rightarrow \infty} \frac{1}{K} \sum\limits_{k = - \frac{K}{2}}^{\frac{K}{2}} x^{2}[k]\ \ P_{x} \ne 0$$

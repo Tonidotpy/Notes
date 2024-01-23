@@ -14,3 +14,8 @@ $$E_{x} = \int_{-\infty}^{+\infty} x^{2}(t)dt\ \  \text{[Joule]}$$
 Si definiscono **segnali di energia** quei [[Segnale|segnali]] la cui energia ha un valore finito
 
 >[!ATTENTION] I segnali di energia hanno **sempre** [[Potenza media di un segnale|potenza media]] nulla
+
+---
+
+Nel dominio discreto l'energia può essere calcolata nel seguente modo:
+$$E_{x}= \sum\limits_{k = -\infty}^{+\infty} x^{2}[k]\ \ E_{x} \ne \infty$$

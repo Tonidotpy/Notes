@@ -18,3 +18,9 @@ Il codificatore PCM non fa altro che associare una sequenza univoca di $B$ [[Bit
 Il [[Bitrate|bitrate]] del PCM, dato un segnale [[Campionamento|campionato]] a $N$ campioni al secondo, in cui ogni campione viene quantizzato su $M$ livelli, risulta essere:
 $$r_{b} = N \cdot log_{2} M = N \cdot B\ \left[\frac{bit}{sec}\right]$$
 $r_{b}$ è legato alla massima [[Frequenza|frequenza]] del segnale e alla qualità che vogliamo ottenere dopo la [[Quantizzazione|quantizzazione]]
+
+Dalla formula precedente nasce quindi il problema di ridurre il bitrate, ove possibile
+In pratica, se il segnale varia lentamente, campioni successivi avranno valori simili, di conseguenza posso codificarli in maniera differenziale anziché assoluta
+Esistono diversi metodi per ottenere ciò, tra cui:
+- [[Modulazione Delta]]
+- [[Modulazione a impulsi codificati differenziale|DPCM]]

@@ -9,24 +9,24 @@
         "dimension": 73.96907216494846,
         "children": [
           {
-            "id": "469d60c81879c587",
+            "id": "86274579eb328ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Conversione analogico-digitale.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Integrale di convoluzione.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b4f4b5015329eaf",
+            "id": "7de596b9f42c112a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "aa6e885b4a4979d2",
         "type": "tabs",
-        "dimension": 26.03092783505155,
+        "dimension": 26.030927835051546,
         "children": [
           {
             "id": "f87a089d5617d71a",
@@ -46,9 +46,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -77,7 +77,7 @@
                   "repelStrength": 10.033843238121,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4731702148185686,
+                  "scale": 0.5936014221854784,
                   "close": true
                 }
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,34 +213,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b4f4b5015329eaf",
+  "active": "7de596b9f42c112a",
   "lastOpenFiles": [
-    "Fondamenti-di-elaborazione-dei-segnali/Conversione analogico-digitale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Integrale di convoluzione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Risposta all'impulso.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invariante.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Delta di Kronecker.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Sistema numerico.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Cross-correlazione di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale discreto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Potenza media di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Valore medio di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Varianza di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Modulazione Delta.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati differenziale.md",
     "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Conversione analogico-digitale.md",
     "Fondamenti-di-elaborazione-dei-segnali/Codifica.md",
     "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione.md",
     "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione non uniforme.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Algoritmo di Lloyd-Max.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione uniforme.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Rumore di quantizzazione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Rapporto segnale-rumore.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Varianza di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Valore medio di un segnale.md",
-    "Probabilità/Variabili aleatorie.md",
-    "Probabilità/Variabile aleatoria esponenziale.md",
-    "Probabilità/Variabile aleatoria binomiale.md",
-    "Probabilità/Variabile aleatoria di Poisson.md",
-    "Probabilità/Variabile aleatoria  Bernoulliana.md",
-    "Probabilità/Valore atteso iterato.md",
-    "Probabilità/Valore atteso condizionato.md",
-    "Probabilità/Valore atteso.md",
-    "Probabilità/Teorema di Bayes.md",
-    "Probabilità/Teorema delle probabilità totali.md",
-    "Probabilità/Teorema centrale del limite.md",
-    "Probabilità/Successione di variabili aleatorie.md",
-    "Probabilità/Spazio probabilizzato.md",
-    "Probabilità/Spazio di probabilità condizionata.md",
     "Fisica/Meccanica/Cinematica",
     "Fisica/Statica",
     "Fisica/Dinamica",

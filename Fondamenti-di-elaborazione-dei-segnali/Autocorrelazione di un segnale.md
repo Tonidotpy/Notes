@@ -16,3 +16,10 @@ Perciò si ha:
 - Per [[Energia di un segnale|segnali di energia]] $\mathcal{R}_{x}(0) = E_{x}$ ossia il valore dell'energia
 
 La velocità con cui l'autocorrelazione scende rispetto al picco è una misura della *memoria* del segnale, ossia di quanto il segnale è prevedibile sulla base dell'andamento precedente
+
+---
+
+Nel dominio discreto l'autocorrelazione può essere calcolata per segnali di energia come:
+$$\mathcal{R}_{x}(k) = \sum\limits_{n = -\infty}^{\infty} x[n] x[n + k]$$
+mentre per segnali di potenza come:
+$$\mathcal{R}_{x}(k) = \lim_{K \rightarrow \infty} \frac{1}{K} \sum\limits_{n = - \frac{K}{2}}^{\frac{K}{2}} x[n] x[n + k]$$

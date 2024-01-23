@@ -12,3 +12,8 @@ $$\overline{x} = <x(t)> = \lim_{T \mapsto \infty} \frac{1}{T} \int_{\frac{-T}{2}
 ---
 
 Il valor medio di un segnale indica una quantità **costante** presente in esso
+
+---
+
+Nel dominio discreto il valor medio risulta essere il seguente:
+$$\bar{x} = \lim_{K \rightarrow \infty} \frac{1}{K} \sum\limits_{k = - \frac{K}{2}}^{\frac{K}{2}} x[k]$$

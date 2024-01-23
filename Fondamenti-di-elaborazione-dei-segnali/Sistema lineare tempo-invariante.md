@@ -21,10 +21,19 @@ f(x_{1}(t)) = y_{1}(t) \\
 f(x_{2}(t)) = y_{2}(t)
 \end{rcases} \Rightarrow f(\alpha x_{1}(t) + \beta x_{2}(t)) = \alpha y_{1}(t) + \beta y_{2}(t)\ \ \forall x_{1}(t), x_{2}(t), \alpha, \beta$$
 
+Nel dominio discreto otteniamo:
+$$\begin{rcases}
+f(x_{1}[n]) = y_{1}[n] \\
+f(x_{2}[n] = y_{2}[n]
+\end{rcases} \Rightarrow f(\alpha x_{1}[n] + \beta x_{2}[n]) = \alpha y_{1}[n] + \beta y_{2}[n]\ \ \forall x_{1}[n], x_{2}[n], \alpha, \beta$$
+
 ## Tempo-invarianza
 
 Tempo-invarianza significa che un sistema non modifica la propria risposta al variare del tempo
 $$f(x(t)) = y(t) \Rightarrow f(x(t - t_{0})) = y(t - t_{0})$$
+
+Nel dominio discreto si ottiene:
+$$f(x[n]) = y[n] \Rightarrow f(x[n - k]) = y[n - k]$$
 
 ---
 
@@ -38,7 +47,7 @@ $$y_{R}(t) = \sum\limits_{k} x(k \Delta T) \cdot h_{R}(t - k \Delta T) \cdot \De
 
 Intuitivamente utilizzando un $\Delta t$ molto piccolo si migliora l'approssimazione, perciò possiamo usare un $\Delta t$ tendente a zero ottenendo il [[Delta di Dirac|delta di Dirac]]
 $$\lim_{\Delta t \mapsto 0} R(t) = \delta(t)$$
-L'uscita $h_{R}(t)$ tende quindi alla **risposta all'impulso** che chiameremo $h(t)$, mentre per quanto riguarda $x_{R}(t)$ da [[Addizione|sommatoria]] di rettangoli diventerà il [[Limiti|limite]] di un [[Integrale|integrale]] di una serie infinita di impulsi coincidente con $x(t)$
+L'uscita $h_{R}(t)$ tende quindi alla [[Risposta all'impulso|risposta all'impulso]] che chiameremo $h(t)$, mentre per quanto riguarda $x_{R}(t)$ da [[Addizione|sommatoria]] di rettangoli diventerà il [[Limiti|limite]] di un [[Integrale|integrale]] di una serie infinita di impulsi coincidente con $x(t)$
 $$\lim_{\Delta t \mapsto 0} x_{R}(t) = \int_{-\infty}^{+\infty} x(\tau) \delta(t - \tau) d\tau = x(t)$$
 
 Stessa cosa vale per la **risposta del sistema**, che di conseguenza diventa l'[[Integrale di convoluzione|integrale di convoluzione]]
