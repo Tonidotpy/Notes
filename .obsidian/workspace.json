@@ -9,24 +9,24 @@
         "dimension": 73.96907216494846,
         "children": [
           {
-            "id": "86274579eb328ee7",
+            "id": "9012463ffea56f1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Integrale di convoluzione.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7de596b9f42c112a",
+            "id": "0201c3e9b3eb7495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,34 +213,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7de596b9f42c112a",
+  "active": "0201c3e9b3eb7495",
   "lastOpenFiles": [
+    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro lineare tempo-invariante.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier discreta.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro gradiente.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Rimappatura dei livelli.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro mediano.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro di rango.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro di minimo.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro di massimo.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro pseudo-Laplaciano.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Modello auto-regressivo a media mobile.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Media mobile.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Finite Impulse Response.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Filtro gaussiano.md",
     "Fondamenti-di-elaborazione-dei-segnali/Integrale di convoluzione.md",
     "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
     "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
     "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
     "Fondamenti-di-elaborazione-dei-segnali/Risposta all'impulso.md",
     "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invariante.md",
     "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
     "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Delta di Kronecker.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Sistema numerico.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Distorsione lineare.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Cross-correlazione di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnale discreto.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Potenza media di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Valore medio di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Varianza di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Modulazione Delta.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati differenziale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Conversione analogico-digitale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Codifica.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione non uniforme.md",
     "Fisica/Meccanica/Cinematica",
     "Fisica/Statica",
     "Fisica/Dinamica",
