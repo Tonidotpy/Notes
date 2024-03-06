@@ -4,7 +4,7 @@
  Aliases: []
  Tags: [linguaggi-formali-e-compilatori]
 ---
-B → Sa |
+
 **Follow(A)** è l'[[Analisi/Insiemi/Insieme|insieme]] di [[Simbolo|terminali]] che possono seguire $A$ in qualche [[Derivazione|derivazione]]
 
 ---
@@ -16,7 +16,7 @@ L'[[Algoritmi-e-strutture-dati/Algoritmo|algoritmo]] per calcolare il follow ini
 A questo punto, dato che siamo interessati solamente a quali terminali seguono un particolare non terminale, ci interessano solamente le [[Produzione|produzioni]] della [[Grammatica generativa|grammatica]] per cui il generico non terminale $A$ compare nel *body*
 
 Per ogni $B \rightarrow \alpha A \beta$, si eseguono le seguenti operazioni:
-- Se $\beta \ne \epsilon$ allora aggiungamo $first(\beta)\ \backslash\ \{ \epsilon \}$ a $follow(A)$
+- Se $\beta \ne \epsilon$ allora aggiungiamo $first(\beta)\ \backslash\ \{ \epsilon \}$ a $follow(A)$
 - Se $\beta = \epsilon$ oppure $\epsilon \in first(\beta)$ allora aggiungiamo $follow(B)$ a $follow(A)$, questo perché ciò che segue $B$ potrà seguire anche $A$
 
 In pseudo-codice:

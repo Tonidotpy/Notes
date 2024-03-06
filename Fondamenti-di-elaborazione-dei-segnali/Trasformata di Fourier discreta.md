@@ -17,4 +17,4 @@ $$x[n] = \frac{1}{\sqrt{N}} \sum\limits_{n = 0}^{N - 1} X[k] e^{j2\pi \frac{k}{N
 
 Le armoniche [[Campionamento|campionate]] $e^{-j2\pi \frac{k}{N} n}$ sono sinusoidi complesse discretizzate nel tempo e prendono il nome di **funzioni di base**
 
-La DFT è una trasformata **ortogonale**
+La DFT è una trasformata **ortogonale**, correlando due funzioni base $i, j$ con $i \ne j$ il risultato è `0`

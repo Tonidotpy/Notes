@@ -6,7 +6,6 @@
       {
         "id": "27ed2f20c68e936c",
         "type": "tabs",
-        "dimension": 73.96907216494846,
         "children": [
           {
             "id": "9012463ffea56f1a",
@@ -14,72 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
+                "file": "Introduction-to-machine-learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0201c3e9b3eb7495",
+            "id": "62bb304701b8e337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
+                "file": "Introduction-to-machine-learning/Supervised learning.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "aa6e885b4a4979d2",
-        "type": "tabs",
-        "dimension": 26.030927835051546,
-        "children": [
-          {
-            "id": "f87a089d5617d71a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:Fondamenti-di-elaborazione-dei-segnali  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 12703768
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1.02998510897523,
-                  "lineSizeMultiplier": 1.17857046162177,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10.033843238121,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5936014221854784,
-                  "close": true
-                }
               }
             }
           }
@@ -137,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "massa inerziale",
+                "query": "lavoro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.01103591918945,
-    "collapsed": true
+    "width": 258.01103591918945
   },
   "right": {
     "id": "a0d320ed3b1a7571",
@@ -167,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
+                "file": "Introduction-to-machine-learning/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
+    "width": 343,
     "collapsed": true
   },
   "left-ribbon": {
@@ -213,34 +160,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0201c3e9b3eb7495",
+  "active": "c58d9d2ca5f824b8",
   "lastOpenFiles": [
-    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro lineare tempo-invariante.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Energia di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier discreta.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro gradiente.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Rimappatura dei livelli.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro mediano.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro di rango.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro di minimo.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro di massimo.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro pseudo-Laplaciano.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Modello auto-regressivo a media mobile.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Media mobile.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Finite Impulse Response.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro gaussiano.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Integrale di convoluzione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Infinite Impulse Response.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Risposta all'impulso.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invariante.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Autocorrelazione di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Delta di Dirac.md",
+    "Introduction-to-machine-learning/Machine Learning.md",
+    "Introduction-to-machine-learning/Apprendimento per rinforzo.md",
+    "Introduction-to-machine-learning/Unsupervised learning.md",
+    "Introduction-to-machine-learning/Riduzione della dimensionalità.md",
+    "Introduction-to-machine-learning/Rilevamento delle anomalie.md",
+    "Introduction-to-machine-learning/Clustering.md",
+    "Introduction-to-machine-learning/Supervised learning.md",
+    "Introduction-to-machine-learning/Analisi della regressione.md",
+    "Introduction-to-machine-learning/Problema di classificazione.md",
+    "Introduction-to-machine-learning/Problema di categorizzazione.md",
+    "Introduction-to-machine-learning/Learning process.md",
+    "Introduction-to-machine-learning/Model testing.md",
+    "Introduction-to-machine-learning/Model learning.md",
+    "Introduction-to-machine-learning/Dimensionality reduction.md",
+    "Introduction-to-machine-learning/Preprocessing.md",
+    "Introduction-to-machine-learning/Acquisizione dei dati.md",
+    "Introduction-to-machine-learning",
+    "Linguaggi-formali-e-compilatori/Pumping lemma per i linguaggi regolari.md",
+    "Linguaggi-formali-e-compilatori/Grammatica LALR(1).md",
+    "Linguaggi-formali-e-compilatori/Grammatica LR(1).md",
+    "Linguaggi-formali-e-compilatori/Tabella di parsing top-down.md",
+    "Linguaggi-formali-e-compilatori/Grammatica LL(1).md",
+    "Linguaggi-formali-e-compilatori/Follow(A).md",
+    "Fisica/Dinamica/Teorema dell'energia cinetica.md",
+    "Fisica/Dinamica/Lavoro.md",
+    "Algoritmi-e-strutture-dati/Funzione di potenziale.md",
+    "Probabilità/Spazio probabilizzabile.md",
     "Fisica/Meccanica/Cinematica",
     "Fisica/Statica",
     "Fisica/Dinamica",
@@ -257,7 +205,6 @@
     "Reti-logiche",
     "Fondamenti-di-elaborazione-dei-segnali",
     "Embedded-Software-for-The-Internet-of-Things",
-    "copilot-conversations",
     "Untitled.canvas"
   ]
 }
