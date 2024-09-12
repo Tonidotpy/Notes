@@ -7,7 +7,7 @@ tags:
   - termodinamica
 ---
 
-Il **calore** è definito come il **trasferimento** di [[Energia di un segnale|energia]] tra due [[Sistema fisico|sistemi]] associato ad una [[Sottrazione|differenza]] di [[Temperatura|temperatura]] e non imputabile ad un [[Lavoro|lavoro]]
+Il **calore** è definito come il **trasferimento** di [[Energia|energia]] tra due [[Sistema fisico|sistemi]] associato ad una [[Sottrazione|differenza]] di [[Temperatura|temperatura]] e non imputabile ad un [[Lavoro|lavoro]]
 $$Q = m c_{s}(T_{f} - T_{i})$$
 dove:
 - $m$ - è la massa del corpo

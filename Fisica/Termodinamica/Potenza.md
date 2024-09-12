@@ -5,7 +5,7 @@
  Tags: [termodinamica]
 ---
 
-La **potenza** è definita come l'[[Energia di un segnale|energia]] trasferita nell'unità di [[Tempo|tempo]]
+La **potenza** è definita come l'[[Energia|energia]] trasferita nell'unità di [[Tempo|tempo]]
 $$P = \frac{dW}{dt}$$
 
 ---

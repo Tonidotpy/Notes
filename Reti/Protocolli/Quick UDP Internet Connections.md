@@ -1,9 +1,10 @@
 ---
- Created: 2022-12-23 16:46
- Modified: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
- Author: Antonio Gelain
- Aliases: [QUIC]
- Tags: [protocol]
+Created: 2022-12-23 16:46
+Author: Antonio Gelain
+aliases:
+  - QUIC
+tags:
+  - protocol
 ---
 
 **Quick UDP Internet Connections** (*QUIC*) è un protocollo di rete basato su [[User Datagram Protocol|UDP]] sviluppato da Google per **migliorare** la velocità e l'efficienza del trasferimento dei dati su Internet

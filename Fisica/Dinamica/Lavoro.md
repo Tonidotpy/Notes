@@ -7,7 +7,7 @@ tags:
   - dinamica
 ---
 
-Il **lavoro** è l'[[Energia di un segnale|energia]] scambiata tra due [[Sistema di riferimento|sistemi]] quando avviene uno [[Movimento|spostamento]] attraverso l'azione di una [[Forza|forza]] parallela allo spostamento stesso
+Il **lavoro** è l'[[Energia|energia]] scambiata tra due [[Sistema di riferimento|sistemi]] quando avviene uno [[Movimento|spostamento]] attraverso l'azione di una [[Forza|forza]] parallela allo spostamento stesso
 $$W_{i \rightarrow f} = \int_{i}^{f} \vec{F} d \vec{x}$$
 
 ---

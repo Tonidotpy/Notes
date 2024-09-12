@@ -13,3 +13,14 @@ L'**integrale di convoluzione** è una formula che rappresenta l'**uscita** (esa
 Nel dominio discreto la convoluzione viene calcolata tramite una [[Addizione|sommatoria]]:
 $$y[n] = \sum\limits_{k = -\infty}^{+\infty} x[k]h[n - k]$$
 La [[Serie|sequenza]] $h[n]$ prende anche il nome di **kernel** o **maschera di convoluzione**
+
+## Proprietà
+
+### Commutatività
+
+L'operazione di convoluzione rispetta la proprietà di [[Commutatività|commutatività]] ossia:
+$$x(t) * h(t) = h(t) * x(t)$$
+### Distributività
+
+L'operazione di convoluzione rispetta la proprietà di [[Distributività|distributività]], il che vuol dire che:
+$$x(t) * (h(t) * l(t)) = (x(t) * h(t)) * l(t)$$

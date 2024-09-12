@@ -7,7 +7,7 @@ tags:
   - dinamica
 ---
 
-L'**energia potenziale** è l'[[Energia di un segnale|energia]] che un [[Corpo|corpo]] possiede a causa della sua posizione ed orientamento rispetto ad un [[Campo di forza|campo di forza]], ed è il tipo di energia di cui sono dotati solamente i corpi soggetti all'azione delle [[Forza conservativa|forze conservative]]
+L'**energia potenziale** è l'[[Energia|energia]] che un [[Corpo|corpo]] possiede a causa della sua posizione ed orientamento rispetto ad un [[Campo di forza|campo di forza]], ed è il tipo di energia di cui sono dotati solamente i corpi soggetti all'azione delle [[Forza conservativa|forze conservative]]
 $$\vec{U} = \int_{i}^{f} \vec{F}_{cons} d \vec{x}$$
 
 ---

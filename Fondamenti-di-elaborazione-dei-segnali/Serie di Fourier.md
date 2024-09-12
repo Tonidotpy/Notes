@@ -10,6 +10,8 @@ La **serie di Fourier** è una rappresentazione di una [[Segnale periodico|funzi
 
 ---
 
+> [!NOTE] Il coefficiente $X_{0}$ è il [[Valore medio di un segnale|valor medio]] della forma d'onda calcolata nel periodo $T$
+
 Un generico segnale periodico di periodo $T_{0}$ può essere sviluppato mediante la seguente serie:
 $$x(t) = a_{0} + \sum\limits_{k = 1}^{\infty} a_{k} \cos{\left(\frac{2 \pi kt}{T_{0}} + \theta_{k} \right)}$$
 Le oscillazioni della serie hanno frequenza multipla di $\frac{1}{T_{0}}$, detta **frequenza fondamentale**
