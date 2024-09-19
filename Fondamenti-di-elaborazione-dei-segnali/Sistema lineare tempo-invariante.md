@@ -37,6 +37,22 @@ $$f(x[n]) = y[n] \Rightarrow f(x[n - k]) = y[n - k]$$
 
 ---
 
+## Combinazione di sistemi LTI
+
+### Serie
+La [[Risposta in frequenza|risposta in frequenza]] di due sistemi LTI connessi in serie è pari al [[Moltiplicazione|prodotto]] delle loro risposte in frequenza:
+$$H_{tot}(f) = H_{1}(f)H_{2}(f)$$
+
+### Parallelo
+La risposta in frequenza di due sistemi LTI connessi in parallelo è pari alla [[Addizione|somma algebrica]] delle loro risposte in frequenza:
+$$H_{tot}(f) = H_{1}(f) \pm H_{2}(f)$$
+
+### Retroazione negativa
+La risposta in frequenza di due sistemi LTI configurati in maniera tale da avere una [[Retroazione negativa|retroazione negativa]] è pari a:
+$$H_{tot}(f) = \frac{Y(f)}{U(f)} = \frac{H_{1}(f)}{1 + H_{1}(f)H_{2}(f)}$$
+
+---
+
 Dato un sistema LTI è possibile calcolare la [[Risposta di un segnale|risposta ad un segnale]] di ingresso $x(t)$ qualsiasi a partire dalla conoscenza della risposta dell'[[Delta di Dirac|impulso unitario]] $\delta(t)$
 
 Prendiamo un segnale $x(t)$ e lo approssimiamo tramite una serie di forme d'onda rettangolari di durata $\Delta T$ e area unitaria

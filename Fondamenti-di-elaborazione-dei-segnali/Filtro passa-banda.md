@@ -9,4 +9,8 @@ Un **filtro passa-banda** è un tipo di [[Filtro lineare tempo-invariante|filtro
 
 ---
 
+La [[Risposta in frequenza|risposta in frequenza]] di un filtro passa-alto è la seguente:
+$$H_{BPF}(f) = G \left[\Pi\left(\frac{(f - f_{c})}{B_{pass}}\right) + \Pi\left(\frac{(f + f_{c})}{B_{pass}}\right)\right] e^{-j 2 \pi f t_{0}}$$
+Dove $G$ è il [[Fattore di guadagno|guadagno]] del filtro
+
 Un filtro passa-banda può essere realizzato dalla combinazione di un [[Filtro passa-alto|filtro passa-alto]] ed uno [[Filtro passa-basso|passa-basso]]

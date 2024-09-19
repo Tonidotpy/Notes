@@ -25,3 +25,9 @@ Lo [[Spettro di un segnale|spettro]] di un segnale campionato è uno spettro **p
 Per ricostruire il segnale continuo partendo da quello digitale è possibile applicare un [[Filtro passa-basso|filtro passa-basso]] allo spettro del segnale campionato; tuttavia se la frequenza di campionamento è tale da permettere la sovrapposizione delle repliche nello spettro si otterrà il fenomeno dell'[[Aliasing di un segnale|aliasing]]
 
 ![aliasing-segnale](https://www.researchgate.net/publication/265108421/figure/fig31/AS:669438839889921@1536618065292/Figura-45-Tipica-manifestazione-del-fenomeno-dellaliasing.png)
+
+## Circuiti di campionamento reali
+
+Esistono vari circuiti che possono essere utilizzati per campionare un segnale, tra i più conosciuti abbiamo:
+- [[Sample and Hold]]
+- [[Chopper]]
