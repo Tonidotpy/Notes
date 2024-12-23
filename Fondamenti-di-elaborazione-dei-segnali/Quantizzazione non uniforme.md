@@ -9,4 +9,4 @@ Una **quantizzazione non uniforme** è un particolare tipo di [[Quantizzazione|q
 
 ---
 
-Intuitivamente si cerca di generare più livelli nella zona dove il [[Segnale|segnale]] ha più probabilità di essere presente, per approssimarlo meglio
+Intuitivamente si cerca di generare più livelli nella zona dove il [[Segnale|segnale]] ha più probabilità di essere presente, per approssimarlo meglio come viene fatto ad esempio nell'[[Algoritmo di Lloyd-Max|algoritmo di Lloyd-Max]]

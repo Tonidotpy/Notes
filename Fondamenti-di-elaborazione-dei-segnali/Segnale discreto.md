@@ -45,3 +45,10 @@ $$y[n] = \sum\limits_{k=-\infty}^{n}x[k]$$
 La derivazione nel dominio discreto diventa una differenza finita
 $$y[n] = \frac{1}{T_{c}}(x[n] - x[n - 1])$$
 Data una sequenza $T_{c}$ potrebbe non essere noto, in questo caso si calcola solo la differenza tra i campioni
+
+### Valor medio
+Il valor medio nel dominio discreto viene calcolato utilizzando una somma:
+$$\overline{x} = \lim_{K \rightarrow +\infty} \frac{1}{K} \sum\limits_{-\frac{K}{2}}^{\frac{K}{2}} x(k)$$
+
+### Varianza
+$$\sigma_{x} = \lim_{K \rightarrow +\infty} \frac{1}{K} \sum\limits_{-\frac{K}{2}}^{\frac{K}{2}} [ x(k) - \overline{x} ]^{2}$$

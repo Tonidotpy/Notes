@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "20a7d7408756fc76",
+        "id": "648b7db615a87a4d",
         "type": "tabs",
         "children": [
           {
-            "id": "75c835474ef81811",
+            "id": "a3251c6e2200ed75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione uniforme.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Trasformata di Fourier"
+            }
+          },
+          {
+            "id": "c460979d519c594b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Rumore di quantizzazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rumore di quantizzazione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +55,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -46,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -64,7 +85,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +102,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione uniforme.md",
+                "file": "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier a Tempo Discreto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Trasformata di Fourier a Tempo Discreto"
             }
           },
           {
@@ -119,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -127,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -149,51 +180,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75c835474ef81811",
+  "active": "c460979d519c594b",
   "lastOpenFiles": [
-    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Algoritmo di Lloyd-Max.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione non uniforme.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Sample and Hold.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Chopper.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Formula di interpolazione di Whittaker-Shannon.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Campionamento.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Condizione di Nyquist.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Aliasing di un segnale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Conversione analogico-digitale.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-banda.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-alto.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro passa-basso.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Filtro lineare tempo-invariante.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Sistema lineare tempo-invariante.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Fattore di guadagno.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Risposta in ampiezza.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Risposta in frequenza.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Ritardo di gruppo.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Risposta in fase.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Risposta all'impulso.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Rapporto segnale-rumore.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Potenza media di un segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Teorema di dualità.md",
     "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Convoluzione.md",
-    "Reti/Protocolli/Selective Repeat.md",
-    "Fondamenti-di-elaborazione-dei-segnali/Segnali particolari.md",
     "Fondamenti-di-elaborazione-dei-segnali/Segnale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Trasformata di Fourier a Tempo Discreto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Serie di Fourier.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Integrale di convoluzione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale causale.md",
+    "Test relay/Test relay inside/Test.md",
+    "Test relay/Untitled.md",
+    "Relay test/Test.md",
+    "Test relay/Test relay inside",
+    "Test relay",
+    "Relay test/Test relay 2",
+    "Relay test",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnale discreto.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Modulazione a impulsi codificati differenziale.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Teorema della modulazione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Condizione di Nyquist.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione non uniforme.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Algoritmo di Lloyd-Max.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Quantizzazione uniforme.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Risposta in fase.md",
+    "Templates/Header.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Segnali particolari.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Teorema di Rayleigh.md",
+    "Fondamenti-di-elaborazione-dei-segnali/Risposta in ampiezza.md",
+    "Reti/Progettazione di una rete/Progettazione di una rete.md",
+    "Reti/Progettazione di una rete",
     "Funzione di transizione in entrata",
     "Networking",
     "Introduction-to-machine-learning",
     "Fisica/Meccanica/Cinematica",
     "Fisica/Statica",
-    "Fisica/Dinamica",
-    "Shift",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-2.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-3.png",
     "Images/pumping-lemma-linguaggi-liberi-dimostrazione-1.png",
-    "Images",
     "Pasted image 20231222174220.png",
     "Pasted image 20231222174229.png",
     "Pasted image 20231222174222.png",
-    "Excalidraw",
     "signal.png",
-    "Reti-logiche",
     "Untitled.canvas"
   ]
 }
